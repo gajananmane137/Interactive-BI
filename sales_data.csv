@@ -1,0 +1,1201 @@
+order_id,order_date,customer_id,customer_name,segment,region,city,category,product,unit_price,quantity,discount,sales,profit,ship_mode
+ORD-00322,2024-01-02,C1003,Rohan Gupta,Corporate,West,Pune,Office Supplies,Printer Paper,26.91,7,0.05,178.95,44.78,Express
+ORD-00060,2024-01-03,C1026,Amit Singh,Home Office,West,Nashik,Office Supplies,Pen Set,11.49,1,0,11.49,2.72,Express
+ORD-00542,2024-01-04,C1039,Vikram Reddy,Home Office,East,Kolkata,Furniture,Filing Cabinet,122.59,3,0,367.77,28.94,Standard
+ORD-00675,2024-01-05,C1046,Sanjay Sharma,Home Office,North,Delhi,Office Supplies,Stapler,15.27,6,0.2,73.3,1.31,Standard
+ORD-00141,2024-01-06,C1057,Vikram Reddy,Home Office,North,Delhi,Technology,Smartphone,664.15,3,0.2,1593.96,-167.92,Express
+ORD-00412,2024-01-06,C1036,Amit Das,Consumer,West,Nashik,Office Supplies,Notebook,4.2,5,0,21.0,7.57,Express
+ORD-00942,2024-01-08,C1045,Divya Joshi,Consumer,West,Nashik,Office Supplies,Pen Set,12.39,4,0.2,39.65,4.52,Same Day
+ORD-00459,2024-01-09,C1000,Sneha Sharma,Home Office,South,Chennai,Office Supplies,Pen Set,12.87,6,0.1,69.5,15.11,Express
+ORD-00804,2024-01-09,C1007,Pooja Nair,Corporate,West,Pune,Office Supplies,Stapler,15.73,1,0,15.73,5.22,Same Day
+ORD-00083,2024-01-10,C1057,Vikram Reddy,Home Office,West,Pune,Office Supplies,Printer Paper,27.23,2,0.05,51.74,19.53,Express
+ORD-00402,2024-01-10,C1007,Pooja Nair,Corporate,East,Bhubaneswar,Technology,Webcam,56.93,3,0.1,153.71,10.45,Express
+ORD-01052,2024-01-10,C1020,Rahul Mehta,Home Office,North,Lucknow,Furniture,Filing Cabinet,129.57,3,0,388.71,35.89,Express
+ORD-00305,2024-01-13,C1003,Rohan Gupta,Corporate,South,Bengaluru,Technology,Keyboard,46.17,2,0.2,73.87,-4.51,Same Day
+ORD-00484,2024-01-13,C1007,Pooja Nair,Corporate,South,Chennai,Office Supplies,Stapler,16.48,4,0.2,52.74,-1.59,Same Day
+ORD-00598,2024-01-13,C1026,Amit Singh,Home Office,North,Lucknow,Technology,Keyboard,47.03,2,0,94.06,10.38,Standard
+ORD-00819,2024-01-13,C1038,Rohan Sharma,Consumer,North,Lucknow,Office Supplies,Printer Paper,25.04,3,0.2,60.1,0.06,Express
+ORD-00842,2024-01-13,C1030,Karan Gupta,Home Office,South,Chennai,Technology,Webcam,59.69,3,0,179.07,29.22,Same Day
+ORD-00007,2024-01-16,C1005,Karan Nair,Home Office,South,Bengaluru,Furniture,Filing Cabinet,129.66,1,0.05,123.18,1.59,Standard
+ORD-00532,2024-01-16,C1059,Rahul Iyer,Home Office,East,Bhubaneswar,Technology,Webcam,54.79,1,0,54.79,13.45,Express
+ORD-01087,2024-01-16,C1029,Amit Singh,Consumer,North,Delhi,Technology,Headphones,79.81,1,0,79.81,4.87,Express
+ORD-00272,2024-01-17,C1007,Pooja Nair,Corporate,South,Chennai,Furniture,Filing Cabinet,129.83,1,0.2,103.86,-9.72,Express
+ORD-00504,2024-01-17,C1033,Sanjay Reddy,Corporate,South,Chennai,Technology,Smartphone,587.82,1,0,587.82,131.9,Same Day
+ORD-01030,2024-01-17,C1039,Vikram Reddy,Home Office,West,Mumbai,Furniture,Office Chair,180.12,3,0.05,513.34,72.47,Same Day
+ORD-01057,2024-01-17,C1004,Priya Sharma,Consumer,West,Mumbai,Office Supplies,Stapler,14.45,5,0,72.25,18.0,Standard
+ORD-00283,2024-01-18,C1037,Vikram Iyer,Corporate,North,Delhi,Technology,Laptop,901.19,1,0.05,856.13,159.0,Same Day
+ORD-00899,2024-01-18,C1040,Pooja Gupta,Consumer,East,Kolkata,Office Supplies,Pen Set,12.26,8,0,98.08,25.5,Same Day
+ORD-00958,2024-01-19,C1039,Vikram Reddy,Home Office,South,Bengaluru,Office Supplies,Stapler,14.42,7,0.1,90.85,27.86,Standard
+ORD-00324,2024-01-21,C1020,Rahul Mehta,Home Office,East,Kolkata,Technology,Smartphone,680.16,2,0,1360.32,230.45,Standard
+ORD-01178,2024-01-21,C1046,Sanjay Sharma,Home Office,North,Chandigarh,Technology,Webcam,63.2,2,0,126.4,21.56,Same Day
+ORD-00097,2024-01-22,C1003,Rohan Gupta,Corporate,East,Kolkata,Office Supplies,Binder,8.53,4,0,34.12,9.92,Same Day
+ORD-00829,2024-01-22,C1053,Neha Singh,Consumer,South,Chennai,Office Supplies,Notebook,3.84,6,0,23.04,5.25,Express
+ORD-00363,2024-01-23,C1037,Vikram Iyer,Corporate,South,Bengaluru,Furniture,Office Chair,171.21,2,0.2,273.94,-44.67,Standard
+ORD-00481,2024-01-23,C1011,Sneha Patil,Corporate,North,Chandigarh,Technology,Webcam,54.1,2,0.2,86.56,-14.88,Standard
+ORD-00522,2024-01-23,C1002,Vikram Patil,Home Office,South,Hyderabad,Furniture,Filing Cabinet,111.77,2,0.2,178.83,-35.88,Express
+ORD-00206,2024-01-24,C1019,Meera Patil,Corporate,West,Nashik,Office Supplies,Stapler,14.24,7,0,99.68,24.84,Express
+ORD-00644,2024-01-24,C1018,Meera Singh,Consumer,West,Nashik,Office Supplies,Printer Paper,24.6,8,0,196.8,64.46,Standard
+ORD-00599,2024-01-25,C1039,Vikram Reddy,Home Office,North,Delhi,Office Supplies,Printer Paper,27.29,2,0.2,43.66,-2.3,Same Day
+ORD-00635,2024-01-25,C1029,Amit Singh,Consumer,West,Mumbai,Office Supplies,Stapler,15.38,3,0,46.14,14.8,Standard
+ORD-00812,2024-01-26,C1047,Rahul Iyer,Consumer,South,Hyderabad,Furniture,Office Chair,167.92,1,0,167.92,7.08,Same Day
+ORD-00838,2024-01-26,C1011,Sneha Patil,Corporate,West,Mumbai,Technology,Laptop,863.01,2,0,1726.02,276.77,Same Day
+ORD-00351,2024-01-27,C1041,Amit Joshi,Home Office,West,Pune,Technology,Keyboard,47.13,2,0.05,89.55,15.81,Same Day
+ORD-00471,2024-01-27,C1049,Karan Reddy,Corporate,West,Nashik,Office Supplies,Notebook,4.09,2,0,8.18,1.61,Express
+ORD-00243,2024-01-28,C1046,Sanjay Sharma,Home Office,West,Nashik,Technology,Monitor,234.03,3,0,702.09,153.85,Express
+ORD-00773,2024-01-29,C1056,Kavya Patil,Home Office,East,Kolkata,Office Supplies,Pen Set,11.07,7,0.1,69.74,13.39,Express
+ORD-01038,2024-01-29,C1039,Vikram Reddy,Home Office,North,Lucknow,Furniture,Standing Desk,431.05,2,0.2,689.68,-136.82,Standard
+ORD-01104,2024-01-29,C1018,Meera Singh,Consumer,West,Mumbai,Office Supplies,Notebook,4.12,5,0,20.6,7.39,Same Day
+ORD-00723,2024-01-30,C1018,Meera Singh,Consumer,East,Kolkata,Office Supplies,Printer Paper,25.92,6,0.1,139.97,38.02,Standard
+ORD-01109,2024-01-31,C1054,Priya Nair,Home Office,South,Bengaluru,Technology,Laptop,895.75,2,0.2,1433.2,-54.49,Same Day
+ORD-00227,2024-02-02,C1005,Karan Nair,Home Office,West,Pune,Furniture,Filing Cabinet,108.23,1,0.2,86.58,-20.41,Express
+ORD-00910,2024-02-05,C1038,Rohan Sharma,Consumer,East,Bhubaneswar,Office Supplies,Notebook,4.06,5,0.2,16.24,0.91,Standard
+ORD-00859,2024-02-08,C1000,Sneha Sharma,Home Office,East,Kolkata,Office Supplies,Printer Paper,26.24,6,0.2,125.95,3.39,Standard
+ORD-00535,2024-02-10,C1035,Rahul Gupta,Corporate,West,Nashik,Office Supplies,Notebook,3.95,4,0,15.8,5.64,Express
+ORD-00853,2024-02-10,C1047,Rahul Iyer,Consumer,North,Chandigarh,Office Supplies,Stapler,16.03,6,0.2,76.94,6.81,Express
+ORD-00837,2024-02-12,C1029,Amit Singh,Consumer,East,Bhubaneswar,Furniture,Filing Cabinet,127.31,2,0,254.62,11.05,Express
+ORD-01142,2024-02-12,C1035,Rahul Gupta,Corporate,South,Bengaluru,Office Supplies,Pen Set,12.43,5,0,62.15,21.85,Express
+ORD-00186,2024-02-13,C1018,Meera Singh,Consumer,North,Chandigarh,Office Supplies,Pen Set,11.28,8,0,90.24,25.96,Same Day
+ORD-00334,2024-02-13,C1027,Meera Das,Consumer,North,Lucknow,Furniture,Standing Desk,404.86,3,0,1214.58,152.33,Standard
+ORD-00986,2024-02-14,C1038,Rohan Sharma,Consumer,South,Bengaluru,Furniture,Bookcase,155.38,3,0,466.14,4.68,Same Day
+ORD-01061,2024-02-14,C1007,Pooja Nair,Corporate,North,Chandigarh,Technology,Monitor,232.83,3,0.1,628.64,85.44,Same Day
+ORD-00330,2024-02-15,C1016,Divya Gupta,Corporate,West,Pune,Technology,Monitor,204.65,3,0,613.95,122.36,Standard
+ORD-00632,2024-02-15,C1002,Vikram Patil,Home Office,West,Nashik,Office Supplies,Notebook,3.92,7,0.1,24.7,8.45,Same Day
+ORD-00983,2024-02-15,C1006,Aarav Iyer,Consumer,East,Kolkata,Office Supplies,Stapler,16.24,3,0,48.72,9.0,Express
+ORD-00552,2024-02-16,C1021,Neha Reddy,Corporate,East,Guwahati,Office Supplies,Printer Paper,23.51,1,0.2,18.81,-0.26,Standard
+ORD-01055,2024-02-17,C1017,Karan Patil,Consumer,West,Mumbai,Technology,Smartphone,661.85,3,0,1985.55,213.02,Standard
+ORD-00222,2024-02-19,C1048,Sneha Singh,Home Office,North,Chandigarh,Technology,Webcam,62.49,1,0,62.49,3.86,Same Day
+ORD-00086,2024-02-20,C1058,Kavya Iyer,Consumer,West,Pune,Office Supplies,Printer Paper,25.68,6,0,154.08,46.87,Same Day
+ORD-00339,2024-02-20,C1047,Rahul Iyer,Consumer,West,Pune,Office Supplies,Notebook,3.85,6,0,23.1,8.05,Same Day
+ORD-01179,2024-02-20,C1033,Sanjay Reddy,Corporate,South,Chennai,Office Supplies,Printer Paper,23.65,7,0.2,132.44,11.95,Express
+ORD-00566,2024-02-21,C1006,Aarav Iyer,Consumer,West,Mumbai,Technology,Keyboard,45.87,1,0.2,36.7,-2.62,Same Day
+ORD-01073,2024-02-21,C1041,Amit Joshi,Home Office,South,Bengaluru,Technology,Laptop,857.91,1,0.1,772.12,56.5,Standard
+ORD-00638,2024-02-22,C1007,Pooja Nair,Corporate,West,Pune,Furniture,Office Chair,168.31,2,0,336.62,30.89,Standard
+ORD-00137,2024-02-23,C1041,Amit Joshi,Home Office,West,Pune,Office Supplies,Notebook,3.67,2,0,7.34,1.56,Express
+ORD-00005,2024-02-25,C1043,Aarav Patil,Home Office,North,Delhi,Furniture,Bookcase,140.75,1,0,140.75,12.28,Standard
+ORD-00414,2024-02-25,C1054,Priya Nair,Home Office,West,Nashik,Office Supplies,Pen Set,11.04,2,0,22.08,7.18,Express
+ORD-01021,2024-02-25,C1005,Karan Nair,Home Office,West,Pune,Office Supplies,Pen Set,11.64,3,0,34.92,9.21,Express
+ORD-00201,2024-02-26,C1029,Amit Singh,Consumer,South,Hyderabad,Furniture,Office Chair,186.22,3,0.05,530.73,22.1,Standard
+ORD-00313,2024-02-27,C1048,Sneha Singh,Home Office,South,Hyderabad,Office Supplies,Stapler,14.03,6,0,84.18,25.13,Same Day
+ORD-00655,2024-02-27,C1058,Kavya Iyer,Consumer,East,Bhubaneswar,Technology,Keyboard,43.86,2,0.05,83.33,9.74,Express
+ORD-00213,2024-02-29,C1035,Rahul Gupta,Corporate,West,Pune,Office Supplies,Printer Paper,23.77,7,0,166.39,40.94,Standard
+ORD-00286,2024-02-29,C1015,Amit Patil,Home Office,North,Chandigarh,Technology,Headphones,76.95,3,0,230.85,48.09,Same Day
+ORD-00312,2024-02-29,C1051,Aarav Gupta,Corporate,West,Nashik,Furniture,Standing Desk,398.82,1,0,398.82,11.26,Same Day
+ORD-00265,2024-03-01,C1036,Amit Das,Consumer,East,Guwahati,Technology,Headphones,87.66,1,0,87.66,10.39,Same Day
+ORD-00059,2024-03-02,C1039,Vikram Reddy,Home Office,North,Delhi,Office Supplies,Pen Set,11.38,2,0,22.76,6.61,Standard
+ORD-00998,2024-03-02,C1056,Kavya Patil,Home Office,North,Lucknow,Office Supplies,Binder,7.83,3,0,23.49,6.22,Express
+ORD-01132,2024-03-02,C1017,Karan Patil,Consumer,West,Pune,Technology,Keyboard,40.9,2,0.05,77.71,7.86,Standard
+ORD-00182,2024-03-04,C1045,Divya Joshi,Consumer,South,Hyderabad,Technology,Monitor,221.12,3,0.05,630.19,77.36,Standard
+ORD-00816,2024-03-04,C1058,Kavya Iyer,Consumer,West,Mumbai,Furniture,Filing Cabinet,124.26,1,0,124.26,11.41,Express
+ORD-00238,2024-03-05,C1010,Vikram Nair,Corporate,West,Pune,Furniture,Filing Cabinet,114.04,1,0,114.04,3.34,Same Day
+ORD-00865,2024-03-05,C1014,Sanjay Iyer,Consumer,North,Lucknow,Technology,Smartphone,651.63,1,0.05,619.05,138.13,Express
+ORD-00289,2024-03-06,C1016,Divya Gupta,Corporate,North,Chandigarh,Furniture,Bookcase,160.78,1,0.05,152.74,2.04,Standard
+ORD-00444,2024-03-06,C1016,Divya Gupta,Corporate,South,Chennai,Technology,Laptop,977.52,3,0.05,2785.93,390.39,Same Day
+ORD-00681,2024-03-07,C1023,Rahul Patil,Home Office,South,Chennai,Technology,Keyboard,48.04,1,0,48.04,9.85,Express
+ORD-00876,2024-03-07,C1055,Rohan Patil,Home Office,West,Mumbai,Office Supplies,Notebook,3.7,3,0,11.1,2.38,Same Day
+ORD-01003,2024-03-07,C1013,Rahul Sharma,Home Office,North,Chandigarh,Technology,Smartphone,616.24,3,0,1848.72,142.37,Same Day
+ORD-00692,2024-03-08,C1055,Rohan Patil,Home Office,East,Kolkata,Furniture,Office Chair,163.35,3,0,490.05,54.67,Express
+ORD-00989,2024-03-09,C1007,Pooja Nair,Corporate,West,Nashik,Technology,Laptop,842.74,2,0,1685.48,230.92,Express
+ORD-01199,2024-03-09,C1022,Neha Nair,Home Office,South,Chennai,Office Supplies,Printer Paper,26.6,5,0,133.0,47.03,Same Day
+ORD-00547,2024-03-10,C1048,Sneha Singh,Home Office,West,Nashik,Technology,Keyboard,46.75,1,0,46.75,5.37,Same Day
+ORD-00203,2024-03-11,C1059,Rahul Iyer,Home Office,West,Mumbai,Technology,Smartphone,712.18,1,0.2,569.74,-34.65,Express
+ORD-00448,2024-03-11,C1058,Kavya Iyer,Consumer,North,Lucknow,Technology,Headphones,77.56,3,0,232.68,51.91,Standard
+ORD-00849,2024-03-12,C1029,Amit Singh,Consumer,North,Chandigarh,Office Supplies,Printer Paper,24.46,6,0.05,139.42,52.69,Standard
+ORD-00061,2024-03-13,C1043,Aarav Patil,Home Office,South,Chennai,Office Supplies,Binder,7.38,4,0.05,28.04,6.31,Standard
+ORD-00625,2024-03-13,C1057,Vikram Reddy,Home Office,South,Hyderabad,Furniture,Bookcase,157.41,2,0,314.82,50.27,Standard
+ORD-00215,2024-03-15,C1012,Sneha Das,Corporate,South,Chennai,Technology,Monitor,207.32,2,0,414.64,40.64,Same Day
+ORD-00725,2024-03-15,C1006,Aarav Iyer,Consumer,North,Delhi,Furniture,Standing Desk,461.73,2,0,923.46,155.02,Same Day
+ORD-01111,2024-03-15,C1028,Meera Sharma,Corporate,East,Guwahati,Office Supplies,Notebook,3.69,3,0,11.07,2.99,Standard
+ORD-00103,2024-03-16,C1057,Vikram Reddy,Home Office,North,Chandigarh,Office Supplies,Notebook,4.1,3,0,12.3,3.65,Same Day
+ORD-00407,2024-03-16,C1003,Rohan Gupta,Corporate,South,Chennai,Office Supplies,Binder,7.85,4,0,31.4,8.49,Express
+ORD-01054,2024-03-17,C1036,Amit Das,Consumer,West,Nashik,Office Supplies,Pen Set,11.27,6,0,67.62,23.03,Express
+ORD-00090,2024-03-18,C1009,Pooja Das,Corporate,South,Hyderabad,Office Supplies,Stapler,15.87,6,0,95.22,17.4,Same Day
+ORD-00122,2024-03-18,C1011,Sneha Patil,Corporate,West,Pune,Office Supplies,Binder,8.68,8,0.2,55.55,2.38,Same Day
+ORD-00857,2024-03-19,C1048,Sneha Singh,Home Office,North,Lucknow,Office Supplies,Pen Set,11.2,7,0.05,74.48,16.5,Standard
+ORD-00988,2024-03-19,C1050,Anjali Iyer,Home Office,North,Delhi,Office Supplies,Printer Paper,24.45,6,0,146.7,47.57,Express
+ORD-00671,2024-03-20,C1001,Rahul Nair,Consumer,West,Pune,Technology,Laptop,902.43,1,0.2,721.94,-128.61,Standard
+ORD-01001,2024-03-20,C1052,Kavya Sharma,Consumer,West,Pune,Furniture,Filing Cabinet,109.31,2,0,218.62,11.87,Express
+ORD-00226,2024-03-21,C1023,Rahul Patil,Home Office,West,Pune,Office Supplies,Printer Paper,26.64,5,0.2,106.56,-5.74,Same Day
+ORD-00887,2024-03-23,C1033,Sanjay Reddy,Corporate,South,Chennai,Technology,Keyboard,43.22,2,0.2,69.15,0.24,Same Day
+ORD-01121,2024-03-23,C1056,Kavya Patil,Home Office,West,Mumbai,Technology,Laptop,899.39,1,0,899.39,94.48,Express
+ORD-00011,2024-03-24,C1026,Amit Singh,Home Office,East,Bhubaneswar,Technology,Webcam,57.19,2,0,114.38,9.86,Same Day
+ORD-00777,2024-03-24,C1005,Karan Nair,Home Office,North,Chandigarh,Office Supplies,Stapler,13.73,4,0.05,52.17,16.45,Express
+ORD-00900,2024-03-24,C1022,Neha Nair,Home Office,West,Pune,Office Supplies,Notebook,4.09,7,0,28.63,9.23,Same Day
+ORD-01192,2024-03-24,C1058,Kavya Iyer,Consumer,North,Chandigarh,Office Supplies,Stapler,13.99,3,0,41.97,13.83,Standard
+ORD-00860,2024-03-25,C1035,Rahul Gupta,Corporate,South,Hyderabad,Office Supplies,Printer Paper,26.71,8,0,213.68,45.75,Standard
+ORD-01040,2024-03-25,C1059,Rahul Iyer,Home Office,South,Hyderabad,Technology,Headphones,79.35,1,0,79.35,14.22,Standard
+ORD-01189,2024-03-26,C1009,Pooja Das,Corporate,West,Nashik,Office Supplies,Binder,8.43,4,0,33.72,7.77,Express
+ORD-00331,2024-03-28,C1042,Sanjay Iyer,Corporate,East,Guwahati,Furniture,Standing Desk,448.63,3,0,1345.89,193.38,Express
+ORD-00512,2024-03-28,C1025,Meera Reddy,Corporate,West,Nashik,Technology,Smartphone,610.75,2,0.1,1099.35,152.88,Same Day
+ORD-00516,2024-03-28,C1007,Pooja Nair,Corporate,North,Delhi,Office Supplies,Printer Paper,24.22,5,0,121.1,41.28,Express
+ORD-01137,2024-03-28,C1015,Amit Patil,Home Office,East,Bhubaneswar,Office Supplies,Notebook,3.81,5,0,19.05,4.38,Same Day
+ORD-01089,2024-03-29,C1045,Divya Joshi,Consumer,East,Kolkata,Office Supplies,Printer Paper,27.09,7,0.1,170.67,40.65,Standard
+ORD-00335,2024-03-30,C1024,Anjali Iyer,Home Office,West,Nashik,Furniture,Bookcase,162.51,3,0.05,463.15,-8.12,Same Day
+ORD-00925,2024-03-30,C1035,Rahul Gupta,Corporate,East,Kolkata,Technology,Laptop,875.44,3,0,2626.32,443.55,Express
+ORD-00321,2024-03-31,C1052,Kavya Sharma,Consumer,East,Bhubaneswar,Technology,Smartphone,593.81,1,0.2,475.05,-65.87,Standard
+ORD-00586,2024-03-31,C1015,Amit Patil,Home Office,West,Nashik,Office Supplies,Notebook,3.64,5,0.1,16.38,4.07,Standard
+ORD-00658,2024-03-31,C1000,Sneha Sharma,Home Office,West,Nashik,Office Supplies,Stapler,14.89,3,0.1,40.2,11.8,Standard
+ORD-00738,2024-04-01,C1001,Rahul Nair,Consumer,South,Bengaluru,Furniture,Filing Cabinet,126.06,2,0.2,201.7,-28.07,Standard
+ORD-00903,2024-04-01,C1006,Aarav Iyer,Consumer,West,Nashik,Technology,Monitor,207.7,2,0,415.4,46.33,Express
+ORD-00381,2024-04-03,C1050,Anjali Iyer,Home Office,East,Guwahati,Office Supplies,Stapler,15.98,6,0,95.88,32.92,Express
+ORD-00790,2024-04-03,C1007,Pooja Nair,Corporate,North,Lucknow,Technology,Smartphone,684.88,1,0,684.88,62.22,Express
+ORD-00372,2024-04-05,C1023,Rahul Patil,Home Office,East,Kolkata,Technology,Keyboard,48.02,2,0,96.04,19.01,Express
+ORD-00485,2024-04-06,C1033,Sanjay Reddy,Corporate,South,Chennai,Furniture,Bookcase,153.87,2,0,307.74,-3.56,Same Day
+ORD-00744,2024-04-06,C1029,Amit Singh,Consumer,East,Bhubaneswar,Technology,Laptop,830.51,3,0,2491.53,479.16,Standard
+ORD-01093,2024-04-08,C1008,Rahul Sharma,Consumer,West,Nashik,Furniture,Bookcase,147.83,2,0,295.66,18.95,Express
+ORD-01163,2024-04-08,C1013,Rahul Sharma,Home Office,South,Bengaluru,Office Supplies,Notebook,3.99,4,0,15.96,5.5,Express
+ORD-01010,2024-04-09,C1051,Aarav Gupta,Corporate,North,Delhi,Office Supplies,Pen Set,11.03,2,0.05,20.96,5.09,Express
+ORD-01025,2024-04-09,C1002,Vikram Patil,Home Office,South,Hyderabad,Office Supplies,Stapler,14.63,3,0.1,39.5,9.86,Standard
+ORD-00633,2024-04-10,C1028,Meera Sharma,Corporate,West,Mumbai,Technology,Laptop,883.19,3,0.2,2119.66,-310.32,Express
+ORD-00684,2024-04-11,C1047,Rahul Iyer,Consumer,North,Delhi,Furniture,Office Chair,183.77,1,0.05,174.58,7.92,Express
+ORD-00618,2024-04-12,C1050,Anjali Iyer,Home Office,West,Mumbai,Technology,Keyboard,40.57,1,0,40.57,9.95,Same Day
+ORD-00323,2024-04-13,C1053,Neha Singh,Consumer,West,Nashik,Office Supplies,Printer Paper,22.87,3,0.05,65.18,22.76,Express
+ORD-00499,2024-04-13,C1046,Sanjay Sharma,Home Office,South,Hyderabad,Furniture,Standing Desk,398.9,3,0.2,957.36,-138.75,Standard
+ORD-00759,2024-04-13,C1050,Anjali Iyer,Home Office,West,Pune,Furniture,Standing Desk,461.94,3,0,1385.82,71.73,Express
+ORD-00763,2024-04-14,C1052,Kavya Sharma,Consumer,North,Lucknow,Technology,Webcam,64.93,1,0,64.93,5.94,Express
+ORD-01069,2024-04-14,C1009,Pooja Das,Corporate,West,Mumbai,Office Supplies,Printer Paper,23.44,1,0.05,22.27,4.14,Same Day
+ORD-00562,2024-04-15,C1033,Sanjay Reddy,Corporate,East,Kolkata,Office Supplies,Pen Set,11.28,4,0,45.12,10.71,Same Day
+ORD-00501,2024-04-16,C1010,Vikram Nair,Corporate,South,Hyderabad,Furniture,Bookcase,151.02,3,0,453.06,45.3,Express
+ORD-00337,2024-04-18,C1036,Amit Das,Consumer,North,Chandigarh,Office Supplies,Pen Set,11.72,7,0,82.04,22.73,Same Day
+ORD-00975,2024-04-18,C1046,Sanjay Sharma,Home Office,West,Nashik,Technology,Webcam,60.61,3,0.1,163.65,36.55,Standard
+ORD-00814,2024-04-20,C1030,Karan Gupta,Home Office,South,Chennai,Office Supplies,Pen Set,12.66,4,0,50.64,15.39,Standard
+ORD-01187,2024-04-20,C1028,Meera Sharma,Corporate,South,Hyderabad,Office Supplies,Stapler,14.61,4,0.05,55.52,16.25,Same Day
+ORD-01135,2024-04-21,C1035,Rahul Gupta,Corporate,West,Nashik,Office Supplies,Pen Set,12.17,8,0.05,92.49,27.16,Same Day
+ORD-00626,2024-04-22,C1020,Rahul Mehta,Home Office,South,Bengaluru,Technology,Keyboard,48.52,1,0.05,46.09,3.44,Same Day
+ORD-00677,2024-04-22,C1033,Sanjay Reddy,Corporate,South,Chennai,Office Supplies,Pen Set,11.59,1,0,11.59,2.35,Express
+ORD-00317,2024-04-23,C1054,Priya Nair,Home Office,East,Kolkata,Furniture,Filing Cabinet,116.08,3,0,348.24,15.5,Standard
+ORD-00951,2024-04-23,C1012,Sneha Das,Corporate,East,Kolkata,Technology,Keyboard,48.61,3,0,145.83,13.43,Standard
+ORD-00906,2024-04-24,C1005,Karan Nair,Home Office,East,Guwahati,Office Supplies,Printer Paper,24.34,2,0.1,43.81,15.36,Express
+ORD-00044,2024-04-27,C1049,Karan Reddy,Corporate,South,Chennai,Technology,Laptop,931.92,2,0.1,1677.46,422.11,Express
+ORD-00371,2024-04-28,C1006,Aarav Iyer,Consumer,North,Delhi,Office Supplies,Printer Paper,26.97,6,0,161.82,60.04,Express
+ORD-00093,2024-04-29,C1008,Rahul Sharma,Consumer,North,Delhi,Furniture,Filing Cabinet,113.64,1,0,113.64,9.94,Express
+ORD-00216,2024-04-30,C1047,Rahul Iyer,Consumer,West,Mumbai,Office Supplies,Printer Paper,25.26,7,0,176.82,59.25,Express
+ORD-00355,2024-04-30,C1030,Karan Gupta,Home Office,North,Lucknow,Office Supplies,Binder,8.62,2,0.05,16.38,4.59,Same Day
+ORD-00435,2024-04-30,C1005,Karan Nair,Home Office,West,Nashik,Technology,Headphones,86.35,3,0,259.05,55.69,Same Day
+ORD-00442,2024-05-01,C1047,Rahul Iyer,Consumer,South,Chennai,Office Supplies,Printer Paper,25.04,2,0,50.08,16.89,Same Day
+ORD-00761,2024-05-03,C1035,Rahul Gupta,Corporate,South,Chennai,Technology,Monitor,231.88,2,0,463.76,79.49,Standard
+ORD-00607,2024-05-04,C1036,Amit Das,Consumer,East,Bhubaneswar,Office Supplies,Stapler,16.49,1,0.2,13.19,0.78,Express
+ORD-01059,2024-05-04,C1053,Neha Singh,Consumer,East,Guwahati,Technology,Smartphone,603.04,1,0,603.04,156.01,Same Day
+ORD-00307,2024-05-05,C1002,Vikram Patil,Home Office,West,Mumbai,Technology,Headphones,78.32,2,0.2,125.31,-23.07,Same Day
+ORD-00091,2024-05-06,C1029,Amit Singh,Consumer,East,Guwahati,Office Supplies,Pen Set,13.06,7,0.2,73.14,-3.53,Standard
+ORD-00344,2024-05-06,C1043,Aarav Patil,Home Office,North,Delhi,Furniture,Filing Cabinet,122.09,1,0.05,115.99,5.79,Standard
+ORD-00539,2024-05-06,C1005,Karan Nair,Home Office,North,Lucknow,Furniture,Bookcase,156.22,1,0.1,140.6,17.63,Same Day
+ORD-00063,2024-05-07,C1029,Amit Singh,Consumer,East,Guwahati,Furniture,Bookcase,149.81,3,0.1,404.49,-1.58,Standard
+ORD-00893,2024-05-07,C1017,Karan Patil,Consumer,North,Chandigarh,Technology,Smartphone,672.46,2,0.05,1277.67,102.42,Standard
+ORD-00932,2024-05-07,C1034,Vikram Nair,Home Office,North,Lucknow,Office Supplies,Notebook,3.67,6,0.2,17.62,1.97,Express
+ORD-01000,2024-05-08,C1047,Rahul Iyer,Consumer,South,Chennai,Office Supplies,Printer Paper,26.61,7,0,186.27,69.89,Same Day
+ORD-00043,2024-05-09,C1030,Karan Gupta,Home Office,North,Lucknow,Office Supplies,Stapler,14.0,5,0,70.0,21.1,Same Day
+ORD-00055,2024-05-09,C1017,Karan Patil,Consumer,North,Delhi,Office Supplies,Printer Paper,26.86,8,0,214.88,63.35,Express
+ORD-00772,2024-05-09,C1033,Sanjay Reddy,Corporate,East,Kolkata,Technology,Headphones,77.45,2,0.1,139.41,26.09,Standard
+ORD-01126,2024-05-09,C1028,Meera Sharma,Corporate,South,Chennai,Technology,Monitor,237.18,3,0.2,569.23,5.47,Standard
+ORD-01095,2024-05-10,C1039,Vikram Reddy,Home Office,East,Kolkata,Office Supplies,Stapler,15.51,3,0.05,44.2,12.05,Same Day
+ORD-00163,2024-05-11,C1056,Kavya Patil,Home Office,South,Bengaluru,Furniture,Office Chair,167.51,1,0.1,150.76,1.95,Express
+ORD-00690,2024-05-11,C1053,Neha Singh,Consumer,East,Bhubaneswar,Office Supplies,Binder,7.75,1,0.2,6.2,-0.31,Express
+ORD-00600,2024-05-13,C1024,Anjali Iyer,Home Office,South,Bengaluru,Office Supplies,Pen Set,12.39,5,0.05,58.85,11.48,Express
+ORD-00526,2024-05-14,C1013,Rahul Sharma,Home Office,South,Hyderabad,Office Supplies,Printer Paper,25.94,3,0,77.82,27.99,Standard
+ORD-00013,2024-05-15,C1059,Rahul Iyer,Home Office,East,Kolkata,Office Supplies,Pen Set,11.85,5,0,59.25,17.1,Express
+ORD-00205,2024-05-16,C1041,Amit Joshi,Home Office,East,Kolkata,Technology,Headphones,74.04,2,0.1,133.27,34.08,Standard
+ORD-00801,2024-05-16,C1041,Amit Joshi,Home Office,North,Lucknow,Furniture,Office Chair,176.87,3,0,530.61,84.4,Same Day
+ORD-00870,2024-05-16,C1021,Neha Reddy,Corporate,South,Hyderabad,Office Supplies,Pen Set,11.6,8,0,92.8,28.0,Same Day
+ORD-00944,2024-05-16,C1032,Kavya Joshi,Home Office,East,Kolkata,Furniture,Filing Cabinet,131.27,1,0,131.27,6.25,Same Day
+ORD-00386,2024-05-17,C1031,Arjun Nair,Home Office,North,Lucknow,Office Supplies,Binder,7.97,7,0.1,50.21,14.14,Standard
+ORD-00430,2024-05-17,C1040,Pooja Gupta,Consumer,North,Lucknow,Technology,Smartphone,652.16,2,0,1304.32,184.03,Same Day
+ORD-00463,2024-05-17,C1057,Vikram Reddy,Home Office,East,Bhubaneswar,Furniture,Office Chair,186.86,2,0,373.72,-2.99,Express
+ORD-00158,2024-05-18,C1054,Priya Nair,Home Office,North,Chandigarh,Technology,Webcam,63.73,2,0,127.46,32.31,Express
+ORD-00476,2024-05-19,C1022,Neha Nair,Home Office,East,Bhubaneswar,Office Supplies,Stapler,13.53,8,0,108.24,28.8,Express
+ORD-00582,2024-05-19,C1005,Karan Nair,Home Office,South,Hyderabad,Office Supplies,Stapler,14.04,7,0.1,88.45,24.93,Same Day
+ORD-00941,2024-05-19,C1030,Karan Gupta,Home Office,West,Nashik,Office Supplies,Binder,7.22,2,0.05,13.72,2.99,Same Day
+ORD-00784,2024-05-21,C1032,Kavya Joshi,Home Office,West,Pune,Office Supplies,Printer Paper,26.5,6,0,159.0,49.75,Express
+ORD-01124,2024-05-21,C1007,Pooja Nair,Corporate,West,Mumbai,Office Supplies,Pen Set,11.62,6,0,69.72,25.35,Standard
+ORD-00576,2024-05-22,C1056,Kavya Patil,Home Office,North,Delhi,Office Supplies,Stapler,15.35,5,0.05,72.91,19.64,Standard
+ORD-00846,2024-05-22,C1009,Pooja Das,Corporate,East,Guwahati,Office Supplies,Binder,7.53,7,0.05,50.07,12.92,Same Day
+ORD-00209,2024-05-23,C1032,Kavya Joshi,Home Office,East,Kolkata,Office Supplies,Binder,8.16,6,0.1,44.06,13.86,Express
+ORD-00221,2024-05-23,C1046,Sanjay Sharma,Home Office,West,Mumbai,Office Supplies,Binder,7.25,1,0.1,6.53,2.28,Same Day
+ORD-00610,2024-05-23,C1002,Vikram Patil,Home Office,South,Bengaluru,Office Supplies,Binder,7.82,4,0.05,29.72,10.06,Same Day
+ORD-00799,2024-05-23,C1046,Sanjay Sharma,Home Office,East,Bhubaneswar,Technology,Headphones,87.13,2,0.2,139.41,-8.78,Same Day
+ORD-00997,2024-05-23,C1047,Rahul Iyer,Consumer,East,Bhubaneswar,Furniture,Bookcase,155.86,2,0.2,249.38,-53.03,Standard
+ORD-01107,2024-05-23,C1017,Karan Patil,Consumer,East,Bhubaneswar,Technology,Webcam,65.55,2,0.05,124.54,22.56,Standard
+ORD-00613,2024-05-24,C1031,Arjun Nair,Home Office,North,Chandigarh,Office Supplies,Binder,8.32,1,0,8.32,1.71,Standard
+ORD-00617,2024-05-24,C1048,Sneha Singh,Home Office,West,Mumbai,Office Supplies,Binder,7.59,3,0.05,21.63,6.41,Standard
+ORD-00792,2024-05-25,C1026,Amit Singh,Home Office,East,Bhubaneswar,Furniture,Office Chair,170.63,1,0,170.63,16.96,Standard
+ORD-00827,2024-05-25,C1018,Meera Singh,Consumer,West,Mumbai,Office Supplies,Pen Set,11.28,1,0,11.28,2.67,Standard
+ORD-00928,2024-05-25,C1019,Meera Patil,Corporate,South,Bengaluru,Office Supplies,Printer Paper,23.14,6,0,138.84,42.27,Standard
+ORD-01041,2024-05-25,C1018,Meera Singh,Consumer,East,Kolkata,Technology,Keyboard,44.02,2,0,88.04,13.93,Standard
+ORD-00357,2024-05-26,C1020,Rahul Mehta,Home Office,South,Bengaluru,Furniture,Standing Desk,382.87,2,0.2,612.59,-110.01,Standard
+ORD-00432,2024-05-26,C1050,Anjali Iyer,Home Office,South,Hyderabad,Office Supplies,Pen Set,12.45,3,0.2,29.88,3.42,Same Day
+ORD-00937,2024-05-26,C1024,Anjali Iyer,Home Office,East,Kolkata,Office Supplies,Pen Set,12.26,4,0.2,39.23,2.8,Standard
+ORD-00169,2024-05-27,C1020,Rahul Mehta,Home Office,East,Guwahati,Office Supplies,Pen Set,12.63,7,0,88.41,25.02,Standard
+ORD-00541,2024-05-28,C1011,Sneha Patil,Corporate,North,Chandigarh,Furniture,Filing Cabinet,112.34,2,0.2,179.74,-16.23,Standard
+ORD-00483,2024-05-29,C1003,Rohan Gupta,Corporate,East,Bhubaneswar,Technology,Keyboard,48.56,1,0,48.56,5.34,Express
+ORD-00933,2024-05-29,C1055,Rohan Patil,Home Office,South,Chennai,Technology,Keyboard,49.07,1,0.05,46.62,10.1,Standard
+ORD-01018,2024-05-29,C1040,Pooja Gupta,Consumer,South,Chennai,Office Supplies,Binder,8.7,7,0,60.9,15.36,Express
+ORD-00996,2024-05-30,C1023,Rahul Patil,Home Office,South,Bengaluru,Technology,Laptop,836.95,3,0.05,2385.31,230.15,Same Day
+ORD-01086,2024-05-30,C1029,Amit Singh,Consumer,South,Hyderabad,Office Supplies,Binder,7.98,3,0,23.94,4.62,Express
+ORD-00303,2024-05-31,C1005,Karan Nair,Home Office,South,Chennai,Furniture,Office Chair,171.37,3,0,514.11,91.58,Standard
+ORD-00732,2024-05-31,C1007,Pooja Nair,Corporate,East,Kolkata,Technology,Monitor,231.0,1,0,231.0,51.86,Same Day
+ORD-00977,2024-05-31,C1057,Vikram Reddy,Home Office,West,Mumbai,Furniture,Filing Cabinet,112.53,1,0,112.53,8.79,Same Day
+ORD-00177,2024-06-01,C1038,Rohan Sharma,Consumer,South,Chennai,Office Supplies,Pen Set,13.18,3,0.05,37.56,12.31,Express
+ORD-00200,2024-06-02,C1010,Vikram Nair,Corporate,East,Guwahati,Furniture,Standing Desk,419.06,3,0.1,1131.46,180.78,Express
+ORD-00428,2024-06-02,C1011,Sneha Patil,Corporate,South,Chennai,Office Supplies,Notebook,4.25,4,0.05,16.15,5.23,Express
+ORD-01007,2024-06-04,C1043,Aarav Patil,Home Office,West,Mumbai,Office Supplies,Notebook,4.25,4,0,17.0,5.28,Same Day
+ORD-01158,2024-06-04,C1057,Vikram Reddy,Home Office,North,Lucknow,Office Supplies,Stapler,14.82,7,0,103.74,29.23,Same Day
+ORD-00198,2024-06-05,C1029,Amit Singh,Consumer,East,Bhubaneswar,Office Supplies,Stapler,15.54,4,0,62.16,18.6,Standard
+ORD-00781,2024-06-05,C1007,Pooja Nair,Corporate,East,Bhubaneswar,Office Supplies,Pen Set,10.87,5,0.05,51.63,10.77,Same Day
+ORD-00581,2024-06-06,C1018,Meera Singh,Consumer,South,Bengaluru,Technology,Webcam,62.66,1,0,62.66,9.86,Express
+ORD-00592,2024-06-06,C1053,Neha Singh,Consumer,West,Pune,Office Supplies,Printer Paper,25.69,8,0.2,164.42,-4.58,Same Day
+ORD-00285,2024-06-08,C1034,Vikram Nair,Home Office,East,Bhubaneswar,Office Supplies,Notebook,3.95,5,0.2,15.8,1.91,Standard
+ORD-00301,2024-06-08,C1006,Aarav Iyer,Consumer,South,Chennai,Furniture,Filing Cabinet,116.6,1,0.1,104.94,14.07,Express
+ORD-00780,2024-06-09,C1035,Rahul Gupta,Corporate,East,Kolkata,Office Supplies,Stapler,14.61,2,0,29.22,6.95,Same Day
+ORD-00189,2024-06-10,C1026,Amit Singh,Home Office,West,Pune,Office Supplies,Pen Set,12.35,6,0,74.1,26.79,Standard
+ORD-00447,2024-06-10,C1005,Karan Nair,Home Office,East,Bhubaneswar,Furniture,Filing Cabinet,112.81,2,0.1,203.06,-3.44,Same Day
+ORD-00273,2024-06-11,C1055,Rohan Patil,Home Office,East,Kolkata,Office Supplies,Pen Set,12.39,2,0,24.78,7.68,Standard
+ORD-00398,2024-06-13,C1037,Vikram Iyer,Corporate,East,Kolkata,Furniture,Standing Desk,456.0,1,0,456.0,45.32,Same Day
+ORD-01008,2024-06-13,C1032,Kavya Joshi,Home Office,East,Bhubaneswar,Office Supplies,Pen Set,12.3,5,0,61.5,22.63,Standard
+ORD-01043,2024-06-13,C1011,Sneha Patil,Corporate,East,Kolkata,Office Supplies,Binder,8.76,1,0,8.76,3.32,Express
+ORD-00017,2024-06-14,C1047,Rahul Iyer,Consumer,West,Nashik,Office Supplies,Binder,7.32,1,0,7.32,2.61,Standard
+ORD-00758,2024-06-14,C1039,Vikram Reddy,Home Office,South,Chennai,Office Supplies,Notebook,3.74,8,0,29.92,6.32,Express
+ORD-01011,2024-06-14,C1004,Priya Sharma,Consumer,East,Guwahati,Furniture,Office Chair,187.58,1,0,187.58,13.53,Express
+ORD-00020,2024-06-15,C1051,Aarav Gupta,Corporate,South,Chennai,Technology,Webcam,63.63,2,0.05,120.9,28.15,Standard
+ORD-00779,2024-06-15,C1009,Pooja Das,Corporate,South,Chennai,Office Supplies,Printer Paper,23.56,2,0.2,37.7,0.93,Same Day
+ORD-00664,2024-06-16,C1003,Rohan Gupta,Corporate,East,Bhubaneswar,Furniture,Bookcase,143.75,1,0,143.75,15.49,Standard
+ORD-00982,2024-06-16,C1019,Meera Patil,Corporate,East,Bhubaneswar,Technology,Laptop,858.14,3,0.2,2059.54,-167.39,Standard
+ORD-00039,2024-06-18,C1053,Neha Singh,Consumer,West,Mumbai,Office Supplies,Binder,8.15,1,0.05,7.74,2.42,Standard
+ORD-00940,2024-06-18,C1036,Amit Das,Consumer,North,Delhi,Office Supplies,Binder,8.74,8,0,69.92,18.51,Same Day
+ORD-00361,2024-06-20,C1004,Priya Sharma,Consumer,North,Chandigarh,Office Supplies,Stapler,16.16,6,0.05,92.11,34.92,Express
+ORD-00467,2024-06-20,C1040,Pooja Gupta,Consumer,East,Bhubaneswar,Office Supplies,Binder,7.33,7,0,51.31,12.76,Express
+ORD-00358,2024-06-21,C1036,Amit Das,Consumer,South,Chennai,Office Supplies,Notebook,3.95,3,0.1,10.67,2.84,Express
+ORD-00796,2024-06-21,C1050,Anjali Iyer,Home Office,South,Hyderabad,Office Supplies,Binder,7.2,8,0,57.6,15.72,Same Day
+ORD-00902,2024-06-21,C1057,Vikram Reddy,Home Office,West,Mumbai,Furniture,Standing Desk,392.32,1,0,392.32,66.24,Same Day
+ORD-00519,2024-06-23,C1003,Rohan Gupta,Corporate,East,Kolkata,Office Supplies,Binder,7.94,5,0,39.7,14.65,Standard
+ORD-00630,2024-06-23,C1036,Amit Das,Consumer,South,Bengaluru,Furniture,Filing Cabinet,119.36,1,0.1,107.42,7.79,Standard
+ORD-00807,2024-06-23,C1035,Rahul Gupta,Corporate,South,Hyderabad,Office Supplies,Binder,8.14,3,0,24.42,8.04,Standard
+ORD-01062,2024-06-23,C1059,Rahul Iyer,Home Office,South,Hyderabad,Furniture,Standing Desk,441.25,2,0,882.5,139.05,Express
+ORD-00347,2024-06-26,C1038,Rohan Sharma,Consumer,North,Delhi,Technology,Monitor,226.28,3,0.2,543.07,-57.15,Express
+ORD-00507,2024-06-26,C1031,Arjun Nair,Home Office,North,Lucknow,Office Supplies,Notebook,4.22,7,0,29.54,10.76,Express
+ORD-01141,2024-06-27,C1009,Pooja Das,Corporate,North,Delhi,Technology,Laptop,901.21,1,0.2,720.97,-73.49,Express
+ORD-00147,2024-06-28,C1053,Neha Singh,Consumer,West,Nashik,Furniture,Standing Desk,438.15,1,0,438.15,73.93,Standard
+ORD-00211,2024-06-28,C1040,Pooja Gupta,Consumer,West,Nashik,Furniture,Bookcase,146.43,3,0.2,351.43,-58.02,Same Day
+ORD-00287,2024-06-28,C1007,Pooja Nair,Corporate,North,Lucknow,Technology,Laptop,981.54,1,0.05,932.46,153.48,Same Day
+ORD-00554,2024-06-28,C1012,Sneha Das,Corporate,East,Bhubaneswar,Office Supplies,Stapler,15.44,8,0,123.52,34.13,Same Day
+ORD-00934,2024-06-28,C1033,Sanjay Reddy,Corporate,East,Guwahati,Office Supplies,Stapler,14.55,2,0.1,26.19,7.71,Express
+ORD-01028,2024-06-29,C1029,Amit Singh,Consumer,West,Pune,Technology,Headphones,78.97,1,0.1,71.07,8.32,Same Day
+ORD-00474,2024-06-30,C1037,Vikram Iyer,Corporate,West,Nashik,Office Supplies,Binder,8.22,7,0.1,51.79,14.85,Express
+ORD-00848,2024-06-30,C1002,Vikram Patil,Home Office,West,Mumbai,Technology,Laptop,847.06,2,0,1694.12,200.28,Same Day
+ORD-00225,2024-07-02,C1006,Aarav Iyer,Consumer,North,Lucknow,Technology,Smartphone,617.81,3,0.1,1668.09,218.33,Express
+ORD-00978,2024-07-03,C1041,Amit Joshi,Home Office,East,Kolkata,Furniture,Standing Desk,429.06,2,0.2,686.5,-175.82,Standard
+ORD-00676,2024-07-04,C1053,Neha Singh,Consumer,East,Bhubaneswar,Furniture,Standing Desk,441.96,2,0,883.92,37.88,Express
+ORD-00648,2024-07-05,C1011,Sneha Patil,Corporate,South,Bengaluru,Technology,Laptop,832.77,2,0.1,1498.99,168.01,Standard
+ORD-00745,2024-07-05,C1053,Neha Singh,Consumer,West,Mumbai,Technology,Webcam,61.05,2,0,122.1,18.44,Same Day
+ORD-00400,2024-07-07,C1033,Sanjay Reddy,Corporate,North,Lucknow,Technology,Headphones,73.47,3,0.05,209.39,21.83,Standard
+ORD-00528,2024-07-07,C1020,Rahul Mehta,Home Office,South,Hyderabad,Technology,Monitor,211.35,2,0.05,401.56,83.98,Same Day
+ORD-00010,2024-07-09,C1004,Priya Sharma,Consumer,North,Lucknow,Office Supplies,Stapler,14.24,2,0.1,25.63,7.66,Same Day
+ORD-01169,2024-07-10,C1046,Sanjay Sharma,Home Office,West,Pune,Technology,Webcam,64.29,1,0.1,57.86,12.14,Standard
+ORD-00341,2024-07-11,C1028,Meera Sharma,Corporate,South,Chennai,Office Supplies,Binder,8.02,6,0,48.12,10.19,Express
+ORD-01066,2024-07-11,C1031,Arjun Nair,Home Office,North,Chandigarh,Technology,Headphones,85.74,3,0.1,231.5,49.1,Express
+ORD-00207,2024-07-12,C1059,Rahul Iyer,Home Office,North,Delhi,Office Supplies,Stapler,14.12,1,0,14.12,2.83,Standard
+ORD-00679,2024-07-12,C1054,Priya Nair,Home Office,North,Chandigarh,Office Supplies,Pen Set,13.2,3,0,39.6,11.02,Standard
+ORD-00352,2024-07-13,C1021,Neha Reddy,Corporate,South,Hyderabad,Office Supplies,Stapler,14.4,6,0.1,77.76,16.64,Same Day
+ORD-00968,2024-07-13,C1047,Rahul Iyer,Consumer,West,Pune,Office Supplies,Binder,7.9,2,0,15.8,4.45,Same Day
+ORD-00609,2024-07-14,C1019,Meera Patil,Corporate,West,Mumbai,Office Supplies,Pen Set,12.92,8,0,103.36,27.66,Standard
+ORD-00132,2024-07-15,C1014,Sanjay Iyer,Consumer,South,Bengaluru,Technology,Laptop,960.32,3,0.1,2592.86,613.82,Standard
+ORD-00756,2024-07-15,C1030,Karan Gupta,Home Office,East,Bhubaneswar,Technology,Smartphone,629.09,3,0.2,1509.82,-105.05,Same Day
+ORD-00551,2024-07-17,C1000,Sneha Sharma,Home Office,North,Delhi,Furniture,Office Chair,190.78,3,0,572.34,102.91,Express
+ORD-00628,2024-07-17,C1040,Pooja Gupta,Consumer,East,Bhubaneswar,Technology,Smartphone,658.93,1,0.2,527.14,-70.57,Standard
+ORD-01072,2024-07-17,C1018,Meera Singh,Consumer,South,Chennai,Technology,Monitor,219.72,3,0.1,593.24,87.04,Same Day
+ORD-00597,2024-07-18,C1033,Sanjay Reddy,Corporate,East,Guwahati,Office Supplies,Printer Paper,22.55,6,0.1,121.77,22.13,Standard
+ORD-01002,2024-07-18,C1017,Karan Patil,Consumer,North,Delhi,Technology,Headphones,75.83,2,0,151.66,14.04,Standard
+ORD-00513,2024-07-19,C1035,Rahul Gupta,Corporate,South,Bengaluru,Technology,Keyboard,48.82,2,0.2,78.11,-13.44,Same Day
+ORD-00654,2024-07-19,C1001,Rahul Nair,Consumer,North,Lucknow,Office Supplies,Notebook,3.99,7,0,27.93,8.4,Same Day
+ORD-01193,2024-07-21,C1028,Meera Sharma,Corporate,North,Delhi,Office Supplies,Stapler,15.91,3,0.2,38.18,1.05,Same Day
+ORD-00045,2024-07-22,C1004,Priya Sharma,Consumer,South,Bengaluru,Office Supplies,Pen Set,12.68,2,0.1,22.82,5.69,Express
+ORD-00176,2024-07-22,C1038,Rohan Sharma,Consumer,West,Nashik,Technology,Laptop,869.95,1,0.2,695.96,-66.29,Express
+ORD-00718,2024-07-22,C1005,Karan Nair,Home Office,West,Pune,Technology,Keyboard,40.69,3,0,122.07,7.88,Same Day
+ORD-00659,2024-07-23,C1011,Sneha Patil,Corporate,West,Pune,Office Supplies,Notebook,3.84,5,0.1,17.28,5.04,Express
+ORD-00740,2024-07-23,C1031,Arjun Nair,Home Office,West,Pune,Furniture,Filing Cabinet,127.46,1,0.05,121.09,12.44,Express
+ORD-00823,2024-07-25,C1050,Anjali Iyer,Home Office,North,Chandigarh,Technology,Keyboard,49.34,3,0.2,118.42,-8.3,Express
+ORD-01144,2024-07-27,C1020,Rahul Mehta,Home Office,East,Guwahati,Furniture,Filing Cabinet,108.59,2,0,217.18,22.02,Express
+ORD-01164,2024-07-27,C1018,Meera Singh,Consumer,West,Nashik,Furniture,Standing Desk,455.11,2,0,910.22,112.18,Standard
+ORD-00873,2024-07-28,C1041,Amit Joshi,Home Office,North,Delhi,Office Supplies,Binder,8.6,8,0.2,55.04,-2.37,Express
+ORD-00877,2024-07-28,C1015,Amit Patil,Home Office,North,Chandigarh,Office Supplies,Pen Set,11.27,3,0.2,27.05,0.4,Same Day
+ORD-00406,2024-07-29,C1034,Vikram Nair,Home Office,West,Nashik,Office Supplies,Notebook,3.97,3,0,11.91,2.93,Standard
+ORD-00649,2024-07-29,C1035,Rahul Gupta,Corporate,North,Lucknow,Furniture,Bookcase,148.45,1,0,148.45,25.99,Same Day
+ORD-01065,2024-07-29,C1044,Rahul Das,Consumer,North,Delhi,Office Supplies,Notebook,4.14,4,0,16.56,4.53,Express
+ORD-00250,2024-07-30,C1033,Sanjay Reddy,Corporate,West,Pune,Furniture,Filing Cabinet,118.86,3,0.2,285.26,-73.19,Standard
+ORD-00455,2024-07-30,C1014,Sanjay Iyer,Consumer,South,Bengaluru,Office Supplies,Pen Set,11.09,3,0,33.27,6.51,Same Day
+ORD-00497,2024-08-01,C1041,Amit Joshi,Home Office,West,Mumbai,Furniture,Office Chair,188.77,2,0.1,339.79,53.72,Express
+ORD-00573,2024-08-01,C1052,Kavya Sharma,Consumer,West,Pune,Office Supplies,Pen Set,12.39,4,0,49.56,9.69,Same Day
+ORD-00972,2024-08-03,C1034,Vikram Nair,Home Office,North,Delhi,Office Supplies,Binder,7.33,6,0,43.98,14.12,Same Day
+ORD-01106,2024-08-03,C1022,Neha Nair,Home Office,West,Nashik,Technology,Webcam,61.87,1,0,61.87,10.68,Express
+ORD-01161,2024-08-03,C1027,Meera Das,Consumer,East,Guwahati,Office Supplies,Pen Set,11.48,2,0,22.96,4.68,Express
+ORD-00413,2024-08-04,C1026,Amit Singh,Home Office,South,Bengaluru,Technology,Headphones,73.83,2,0,147.66,28.67,Same Day
+ORD-00961,2024-08-05,C1018,Meera Singh,Consumer,West,Pune,Office Supplies,Notebook,3.8,7,0,26.6,7.4,Express
+ORD-00036,2024-08-07,C1004,Priya Sharma,Consumer,West,Pune,Furniture,Filing Cabinet,112.96,2,0,225.92,14.47,Same Day
+ORD-00696,2024-08-07,C1018,Meera Singh,Consumer,East,Kolkata,Technology,Headphones,81.99,2,0,163.98,41.26,Same Day
+ORD-00105,2024-08-08,C1027,Meera Das,Consumer,West,Mumbai,Furniture,Filing Cabinet,125.51,2,0.05,238.47,10.14,Express
+ORD-01175,2024-08-08,C1056,Kavya Patil,Home Office,West,Mumbai,Office Supplies,Pen Set,11.56,5,0.2,46.24,0.38,Express
+ORD-00098,2024-08-09,C1052,Kavya Sharma,Consumer,South,Chennai,Office Supplies,Binder,8.57,1,0,8.57,1.79,Standard
+ORD-00946,2024-08-10,C1059,Rahul Iyer,Home Office,East,Guwahati,Office Supplies,Notebook,4.28,8,0.1,30.82,5.9,Standard
+ORD-00454,2024-08-11,C1057,Vikram Reddy,Home Office,East,Kolkata,Office Supplies,Printer Paper,23.5,8,0.2,150.4,11.59,Express
+ORD-00916,2024-08-11,C1051,Aarav Gupta,Corporate,South,Hyderabad,Office Supplies,Pen Set,12.69,2,0.2,20.3,2.06,Express
+ORD-00974,2024-08-12,C1046,Sanjay Sharma,Home Office,East,Kolkata,Technology,Laptop,986.18,3,0.2,2366.83,-81.33,Same Day
+ORD-00452,2024-08-13,C1043,Aarav Patil,Home Office,South,Chennai,Furniture,Bookcase,135.29,3,0.1,365.28,53.49,Standard
+ORD-00320,2024-08-14,C1040,Pooja Gupta,Consumer,North,Chandigarh,Technology,Webcam,58.16,1,0,58.16,7.21,Same Day
+ORD-00510,2024-08-14,C1009,Pooja Das,Corporate,North,Lucknow,Office Supplies,Stapler,15.23,8,0.1,109.66,21.71,Express
+ORD-00670,2024-08-15,C1008,Rahul Sharma,Consumer,South,Hyderabad,Technology,Smartphone,712.54,1,0,712.54,103.29,Standard
+ORD-00959,2024-08-15,C1021,Neha Reddy,Corporate,West,Pune,Technology,Keyboard,43.24,3,0,129.72,14.77,Express
+ORD-01166,2024-08-15,C1046,Sanjay Sharma,Home Office,North,Chandigarh,Technology,Monitor,225.75,2,0.05,428.92,69.73,Standard
+ORD-00042,2024-08-17,C1041,Amit Joshi,Home Office,North,Lucknow,Technology,Laptop,961.06,1,0,961.06,177.09,Standard
+ORD-00109,2024-08-17,C1054,Priya Nair,Home Office,North,Chandigarh,Office Supplies,Pen Set,12.18,2,0,24.36,8.32,Same Day
+ORD-00660,2024-08-17,C1001,Rahul Nair,Consumer,North,Delhi,Technology,Webcam,55.49,3,0.05,158.15,30.55,Express
+ORD-00811,2024-08-17,C1003,Rohan Gupta,Corporate,East,Bhubaneswar,Office Supplies,Pen Set,11.27,1,0.05,10.71,2.1,Same Day
+ORD-01117,2024-08-17,C1052,Kavya Sharma,Consumer,East,Bhubaneswar,Furniture,Bookcase,164.04,1,0,164.04,-0.83,Same Day
+ORD-01148,2024-08-17,C1036,Amit Das,Consumer,West,Nashik,Office Supplies,Binder,7.96,1,0.1,7.16,2.04,Express
+ORD-00022,2024-08-21,C1014,Sanjay Iyer,Consumer,North,Lucknow,Technology,Monitor,240.54,2,0,481.08,55.72,Same Day
+ORD-01079,2024-08-21,C1033,Sanjay Reddy,Corporate,South,Bengaluru,Office Supplies,Notebook,3.87,5,0.2,15.48,0.44,Express
+ORD-00053,2024-08-24,C1007,Pooja Nair,Corporate,South,Chennai,Technology,Headphones,75.06,3,0,225.18,46.77,Express
+ORD-00521,2024-08-24,C1024,Anjali Iyer,Home Office,North,Chandigarh,Furniture,Office Chair,180.02,1,0,180.02,12.89,Same Day
+ORD-00569,2024-08-25,C1014,Sanjay Iyer,Consumer,South,Hyderabad,Technology,Monitor,228.78,2,0,457.56,88.33,Express
+ORD-01125,2024-08-25,C1005,Karan Nair,Home Office,North,Delhi,Furniture,Office Chair,171.0,1,0.2,136.8,-35.38,Standard
+ORD-00506,2024-08-26,C1016,Divya Gupta,Corporate,East,Kolkata,Office Supplies,Binder,7.32,4,0.2,23.42,-0.12,Express
+ORD-00135,2024-08-27,C1034,Vikram Nair,Home Office,South,Chennai,Office Supplies,Stapler,15.53,4,0,62.12,18.27,Express
+ORD-00594,2024-08-27,C1024,Anjali Iyer,Home Office,West,Pune,Technology,Headphones,76.62,2,0,153.24,33.63,Express
+ORD-00462,2024-08-29,C1035,Rahul Gupta,Corporate,West,Pune,Technology,Webcam,63.67,1,0.05,60.49,5.77,Express
+ORD-00487,2024-08-29,C1040,Pooja Gupta,Consumer,West,Pune,Technology,Monitor,215.42,3,0,646.26,70.2,Standard
+ORD-00210,2024-08-30,C1019,Meera Patil,Corporate,South,Hyderabad,Office Supplies,Stapler,13.68,5,0,68.4,25.29,Same Day
+ORD-00460,2024-08-30,C1017,Karan Patil,Consumer,West,Nashik,Furniture,Standing Desk,395.68,2,0.05,751.79,90.32,Express
+ORD-00872,2024-08-30,C1047,Rahul Iyer,Consumer,West,Mumbai,Office Supplies,Notebook,4.0,3,0,12.0,2.64,Express
+ORD-00954,2024-08-30,C1003,Rohan Gupta,Corporate,East,Bhubaneswar,Office Supplies,Notebook,3.83,7,0.05,25.47,7.06,Express
+ORD-01110,2024-08-30,C1006,Aarav Iyer,Consumer,South,Hyderabad,Office Supplies,Stapler,15.34,2,0,30.68,6.22,Same Day
+ORD-00142,2024-08-31,C1019,Meera Patil,Corporate,North,Delhi,Technology,Webcam,54.75,3,0.05,156.04,35.47,Express
+ORD-00297,2024-08-31,C1026,Amit Singh,Home Office,West,Mumbai,Office Supplies,Printer Paper,22.72,5,0,113.6,25.71,Same Day
+ORD-00971,2024-08-31,C1018,Meera Singh,Consumer,North,Lucknow,Technology,Monitor,236.43,1,0,236.43,16.62,Standard
+ORD-01118,2024-09-04,C1054,Priya Nair,Home Office,East,Bhubaneswar,Office Supplies,Binder,7.95,2,0.1,14.31,5.2,Express
+ORD-00004,2024-09-05,C1050,Anjali Iyer,Home Office,West,Pune,Technology,Laptop,873.77,3,0.05,2490.24,354.16,Same Day
+ORD-00295,2024-09-05,C1029,Amit Singh,Consumer,East,Guwahati,Office Supplies,Printer Paper,22.53,4,0,90.12,23.61,Standard
+ORD-00875,2024-09-05,C1013,Rahul Sharma,Home Office,North,Lucknow,Office Supplies,Printer Paper,24.11,7,0.1,151.89,40.78,Standard
+ORD-00451,2024-09-06,C1048,Sneha Singh,Home Office,East,Bhubaneswar,Office Supplies,Binder,7.39,1,0.05,7.02,1.36,Same Day
+ORD-00291,2024-09-07,C1002,Vikram Patil,Home Office,West,Pune,Furniture,Standing Desk,424.44,1,0,424.44,69.09,Same Day
+ORD-00565,2024-09-07,C1010,Vikram Nair,Corporate,North,Chandigarh,Office Supplies,Pen Set,11.11,8,0,88.88,24.37,Same Day
+ORD-01152,2024-09-07,C1049,Karan Reddy,Corporate,West,Nashik,Office Supplies,Printer Paper,24.21,5,0,121.05,24.64,Express
+ORD-00417,2024-09-09,C1050,Anjali Iyer,Home Office,South,Hyderabad,Office Supplies,Stapler,13.9,5,0,69.5,22.7,Express
+ORD-00776,2024-09-10,C1006,Aarav Iyer,Consumer,East,Guwahati,Office Supplies,Pen Set,11.15,8,0,89.2,23.65,Express
+ORD-00886,2024-09-10,C1038,Rohan Sharma,Consumer,South,Bengaluru,Technology,Laptop,975.04,3,0.2,2340.1,-258.5,Same Day
+ORD-00955,2024-09-10,C1039,Vikram Reddy,Home Office,South,Hyderabad,Office Supplies,Printer Paper,26.82,5,0,134.1,50.8,Standard
+ORD-00743,2024-09-11,C1033,Sanjay Reddy,Corporate,West,Pune,Office Supplies,Binder,8.02,2,0,16.04,4.53,Express
+ORD-00878,2024-09-11,C1019,Meera Patil,Corporate,East,Guwahati,Furniture,Standing Desk,384.72,2,0.05,730.97,127.56,Express
+ORD-00898,2024-09-11,C1023,Rahul Patil,Home Office,West,Nashik,Office Supplies,Stapler,14.06,7,0.2,78.74,10.02,Express
+ORD-00267,2024-09-12,C1009,Pooja Das,Corporate,East,Kolkata,Office Supplies,Stapler,15.23,8,0,121.84,28.48,Express
+ORD-00343,2024-09-12,C1002,Vikram Patil,Home Office,West,Mumbai,Office Supplies,Printer Paper,26.62,5,0,133.1,37.4,Same Day
+ORD-00864,2024-09-12,C1023,Rahul Patil,Home Office,South,Bengaluru,Technology,Keyboard,43.53,1,0,43.53,4.28,Same Day
+ORD-00945,2024-09-12,C1053,Neha Singh,Consumer,North,Chandigarh,Technology,Monitor,198.1,2,0,396.2,73.79,Express
+ORD-00949,2024-09-13,C1014,Sanjay Iyer,Consumer,West,Pune,Furniture,Bookcase,151.09,2,0,302.18,10.24,Express
+ORD-00016,2024-09-14,C1057,Vikram Reddy,Home Office,North,Delhi,Office Supplies,Pen Set,11.6,1,0,11.6,2.39,Express
+ORD-00149,2024-09-16,C1002,Vikram Patil,Home Office,South,Chennai,Furniture,Office Chair,171.84,3,0,515.52,72.1,Express
+ORD-00672,2024-09-16,C1002,Vikram Patil,Home Office,North,Chandigarh,Office Supplies,Notebook,3.76,2,0.1,6.77,2.44,Standard
+ORD-00116,2024-09-18,C1018,Meera Singh,Consumer,East,Kolkata,Technology,Webcam,55.55,2,0,111.1,18.5,Standard
+ORD-00290,2024-09-18,C1049,Karan Reddy,Corporate,North,Lucknow,Office Supplies,Notebook,4.01,4,0.2,12.83,-0.79,Standard
+ORD-01012,2024-09-19,C1048,Sneha Singh,Home Office,West,Nashik,Office Supplies,Notebook,3.89,8,0,31.12,7.39,Express
+ORD-00438,2024-09-20,C1012,Sneha Das,Corporate,North,Lucknow,Office Supplies,Notebook,3.61,2,0.1,6.5,2.02,Same Day
+ORD-00590,2024-09-20,C1000,Sneha Sharma,Home Office,North,Lucknow,Technology,Headphones,82.55,3,0,247.65,33.17,Standard
+ORD-00345,2024-09-21,C1047,Rahul Iyer,Consumer,North,Chandigarh,Technology,Laptop,950.37,1,0.1,855.33,87.98,Standard
+ORD-00288,2024-09-22,C1010,Vikram Nair,Corporate,East,Kolkata,Office Supplies,Pen Set,11.6,2,0,23.2,6.17,Same Day
+ORD-00604,2024-09-22,C1006,Aarav Iyer,Consumer,North,Delhi,Technology,Webcam,54.23,2,0.05,103.04,16.44,Same Day
+ORD-00774,2024-09-22,C1040,Pooja Gupta,Consumer,East,Kolkata,Technology,Webcam,57.58,1,0.05,54.7,11.34,Express
+ORD-00808,2024-09-22,C1059,Rahul Iyer,Home Office,South,Hyderabad,Office Supplies,Pen Set,10.86,4,0.2,34.75,4.31,Same Day
+ORD-00892,2024-09-22,C1057,Vikram Reddy,Home Office,West,Pune,Office Supplies,Binder,7.47,2,0.2,11.95,-0.14,Express
+ORD-01037,2024-09-23,C1053,Neha Singh,Consumer,South,Chennai,Technology,Laptop,812.08,1,0.05,771.48,165.1,Standard
+ORD-01136,2024-09-23,C1010,Vikram Nair,Corporate,West,Pune,Office Supplies,Printer Paper,23.9,3,0,71.7,22.69,Express
+ORD-00350,2024-09-24,C1041,Amit Joshi,Home Office,East,Kolkata,Technology,Smartphone,637.53,1,0.1,573.78,71.1,Standard
+ORD-00591,2024-09-24,C1050,Anjali Iyer,Home Office,South,Chennai,Technology,Headphones,87.75,1,0,87.75,22.24,Same Day
+ORD-00828,2024-09-25,C1046,Sanjay Sharma,Home Office,South,Chennai,Office Supplies,Printer Paper,22.61,3,0,67.83,23.64,Standard
+ORD-00729,2024-09-26,C1039,Vikram Reddy,Home Office,East,Guwahati,Furniture,Standing Desk,461.54,2,0.2,738.46,-86.6,Standard
+ORD-00370,2024-09-27,C1029,Amit Singh,Consumer,North,Delhi,Office Supplies,Notebook,4.24,5,0,21.2,5.14,Same Day
+ORD-00973,2024-09-27,C1046,Sanjay Sharma,Home Office,South,Chennai,Office Supplies,Pen Set,12.3,6,0,73.8,13.44,Express
+ORD-00062,2024-09-29,C1052,Kavya Sharma,Consumer,South,Bengaluru,Technology,Monitor,234.27,3,0.2,562.25,-3.24,Express
+ORD-00894,2024-09-29,C1048,Sneha Singh,Home Office,North,Lucknow,Office Supplies,Notebook,4.02,2,0,8.04,1.46,Same Day
+ORD-00021,2024-09-30,C1010,Vikram Nair,Corporate,North,Chandigarh,Office Supplies,Stapler,15.95,4,0,63.8,17.36,Express
+ORD-00151,2024-09-30,C1051,Aarav Gupta,Corporate,North,Lucknow,Furniture,Filing Cabinet,121.09,3,0,363.27,16.07,Standard
+ORD-00266,2024-09-30,C1054,Priya Nair,Home Office,North,Delhi,Office Supplies,Stapler,16.1,1,0,16.1,3.31,Standard
+ORD-00889,2024-10-02,C1047,Rahul Iyer,Consumer,South,Hyderabad,Furniture,Bookcase,159.49,1,0,159.49,-3.14,Standard
+ORD-00235,2024-10-03,C1006,Aarav Iyer,Consumer,South,Bengaluru,Technology,Keyboard,45.11,3,0.1,121.8,9.82,Standard
+ORD-00596,2024-10-03,C1017,Karan Patil,Consumer,North,Chandigarh,Office Supplies,Stapler,15.75,8,0.2,100.8,7.75,Same Day
+ORD-00666,2024-10-04,C1043,Aarav Patil,Home Office,East,Kolkata,Office Supplies,Pen Set,11.13,3,0,33.39,7.89,Express
+ORD-00558,2024-10-05,C1026,Amit Singh,Home Office,North,Chandigarh,Office Supplies,Pen Set,11.32,8,0,90.56,21.78,Standard
+ORD-01182,2024-10-05,C1047,Rahul Iyer,Consumer,North,Chandigarh,Office Supplies,Printer Paper,22.88,5,0,114.4,32.14,Same Day
+ORD-00862,2024-10-06,C1009,Pooja Das,Corporate,West,Pune,Technology,Webcam,60.39,1,0.2,48.31,-4.91,Standard
+ORD-00185,2024-10-07,C1018,Meera Singh,Consumer,North,Lucknow,Office Supplies,Stapler,16.36,7,0,114.52,39.04,Express
+ORD-00529,2024-10-07,C1009,Pooja Das,Corporate,South,Bengaluru,Technology,Laptop,858.04,3,0.1,2316.71,401.74,Standard
+ORD-01020,2024-10-07,C1025,Meera Reddy,Corporate,North,Chandigarh,Office Supplies,Stapler,14.14,7,0.1,89.08,31.95,Standard
+ORD-00457,2024-10-08,C1031,Arjun Nair,Home Office,South,Hyderabad,Technology,Smartphone,592.04,3,0,1776.12,390.49,Express
+ORD-00788,2024-10-08,C1050,Anjali Iyer,Home Office,South,Bengaluru,Office Supplies,Binder,8.49,8,0,67.92,20.47,Express
+ORD-00505,2024-10-09,C1058,Kavya Iyer,Consumer,South,Bengaluru,Technology,Monitor,209.66,1,0,209.66,49.88,Standard
+ORD-01074,2024-10-09,C1014,Sanjay Iyer,Consumer,West,Pune,Furniture,Standing Desk,400.53,3,0.2,961.27,-220.0,Standard
+ORD-00601,2024-10-10,C1049,Karan Reddy,Corporate,West,Nashik,Office Supplies,Pen Set,12.67,5,0,63.35,14.92,Standard
+ORD-00041,2024-10-11,C1048,Sneha Singh,Home Office,West,Pune,Office Supplies,Stapler,15.12,1,0.2,12.1,1.57,Express
+ORD-00050,2024-10-13,C1056,Kavya Patil,Home Office,East,Guwahati,Technology,Smartphone,678.61,1,0,678.61,107.03,Standard
+ORD-00095,2024-10-13,C1002,Vikram Patil,Home Office,East,Kolkata,Furniture,Standing Desk,460.4,2,0,920.8,49.23,Same Day
+ORD-01159,2024-10-13,C1049,Karan Reddy,Corporate,North,Delhi,Technology,Monitor,220.78,1,0.1,198.7,32.79,Same Day
+ORD-00806,2024-10-14,C1031,Arjun Nair,Home Office,South,Bengaluru,Technology,Webcam,64.44,2,0,128.88,22.4,Express
+ORD-00173,2024-10-15,C1031,Arjun Nair,Home Office,West,Pune,Office Supplies,Notebook,4.31,7,0,30.17,9.82,Express
+ORD-01053,2024-10-17,C1038,Rohan Sharma,Consumer,South,Hyderabad,Technology,Headphones,81.73,2,0.2,130.77,-1.74,Same Day
+ORD-00192,2024-10-18,C1029,Amit Singh,Consumer,West,Mumbai,Office Supplies,Stapler,15.93,5,0,79.65,19.6,Same Day
+ORD-01056,2024-10-18,C1001,Rahul Nair,Consumer,North,Chandigarh,Technology,Keyboard,48.76,1,0.1,43.88,2.98,Same Day
+ORD-00035,2024-10-19,C1015,Amit Patil,Home Office,East,Bhubaneswar,Furniture,Office Chair,170.33,1,0,170.33,20.23,Same Day
+ORD-00446,2024-10-19,C1012,Sneha Das,Corporate,North,Lucknow,Office Supplies,Printer Paper,22.68,3,0.2,54.43,-1.21,Standard
+ORD-00453,2024-10-21,C1005,Karan Nair,Home Office,West,Nashik,Office Supplies,Pen Set,13.04,2,0.1,23.47,6.46,Express
+ORD-00261,2024-10-22,C1010,Vikram Nair,Corporate,West,Nashik,Office Supplies,Stapler,13.84,2,0.1,24.91,8.35,Express
+ORD-00643,2024-10-22,C1004,Priya Sharma,Consumer,North,Delhi,Technology,Webcam,55.81,1,0.05,53.02,5.35,Same Day
+ORD-00647,2024-10-22,C1049,Karan Reddy,Corporate,North,Delhi,Furniture,Filing Cabinet,130.18,1,0.1,117.16,14.34,Express
+ORD-00480,2024-10-23,C1007,Pooja Nair,Corporate,West,Nashik,Furniture,Filing Cabinet,108.47,1,0,108.47,-1.09,Same Day
+ORD-00511,2024-10-23,C1050,Anjali Iyer,Home Office,West,Mumbai,Technology,Laptop,944.16,2,0.1,1699.49,288.29,Express
+ORD-00797,2024-10-23,C1041,Amit Joshi,Home Office,South,Bengaluru,Technology,Keyboard,42.76,2,0.1,76.97,15.09,Express
+ORD-01031,2024-10-23,C1054,Priya Nair,Home Office,West,Mumbai,Technology,Keyboard,41.53,3,0.05,118.36,27.37,Standard
+ORD-00645,2024-10-25,C1012,Sneha Das,Corporate,North,Delhi,Office Supplies,Printer Paper,25.39,6,0.05,144.72,45.03,Express
+ORD-00148,2024-10-27,C1012,Sneha Das,Corporate,North,Delhi,Office Supplies,Pen Set,11.76,5,0.1,52.92,18.16,Express
+ORD-00450,2024-10-28,C1021,Neha Reddy,Corporate,North,Lucknow,Office Supplies,Binder,7.91,5,0.2,31.64,0.17,Express
+ORD-00411,2024-10-29,C1040,Pooja Gupta,Consumer,South,Chennai,Office Supplies,Pen Set,12.9,1,0.1,11.61,2.42,Standard
+ORD-00634,2024-10-29,C1015,Amit Patil,Home Office,North,Delhi,Furniture,Bookcase,148.78,1,0.2,119.02,-18.56,Same Day
+ORD-00263,2024-10-31,C1055,Rohan Patil,Home Office,North,Chandigarh,Technology,Laptop,949.61,2,0,1899.22,203.96,Same Day
+ORD-00184,2024-11-01,C1014,Sanjay Iyer,Consumer,East,Bhubaneswar,Office Supplies,Stapler,14.55,6,0.05,82.94,30.42,Same Day
+ORD-00705,2024-11-01,C1055,Rohan Patil,Home Office,North,Chandigarh,Office Supplies,Notebook,4.27,7,0.2,23.91,-0.54,Same Day
+ORD-00739,2024-11-01,C1031,Arjun Nair,Home Office,West,Nashik,Office Supplies,Pen Set,12.4,3,0,37.2,12.89,Same Day
+ORD-00922,2024-11-01,C1036,Amit Das,Consumer,South,Bengaluru,Furniture,Standing Desk,379.66,2,0.2,607.46,-96.46,Same Day
+ORD-00277,2024-11-02,C1008,Rahul Sharma,Consumer,West,Mumbai,Office Supplies,Printer Paper,25.32,2,0.1,45.58,13.77,Standard
+ORD-00012,2024-11-03,C1029,Amit Singh,Consumer,East,Kolkata,Technology,Headphones,73.17,3,0,219.51,22.53,Express
+ORD-00880,2024-11-03,C1038,Rohan Sharma,Consumer,South,Hyderabad,Office Supplies,Pen Set,11.53,7,0.05,76.67,18.14,Same Day
+ORD-00102,2024-11-04,C1029,Amit Singh,Consumer,North,Delhi,Office Supplies,Stapler,13.82,7,0.2,77.39,5.61,Express
+ORD-00621,2024-11-04,C1022,Neha Nair,Home Office,West,Mumbai,Office Supplies,Printer Paper,27.38,2,0.1,49.28,14.97,Same Day
+ORD-00650,2024-11-04,C1007,Pooja Nair,Corporate,North,Chandigarh,Office Supplies,Printer Paper,23.28,8,0,186.24,69.66,Same Day
+ORD-00712,2024-11-04,C1005,Karan Nair,Home Office,South,Chennai,Technology,Smartphone,626.23,2,0.2,1001.97,-27.6,Same Day
+ORD-00698,2024-11-05,C1032,Kavya Joshi,Home Office,East,Bhubaneswar,Office Supplies,Pen Set,11.77,4,0.05,44.73,13.64,Express
+ORD-00749,2024-11-05,C1005,Karan Nair,Home Office,South,Bengaluru,Technology,Laptop,984.69,1,0.2,787.75,-14.34,Standard
+ORD-01091,2024-11-05,C1038,Rohan Sharma,Consumer,East,Kolkata,Office Supplies,Pen Set,12.64,3,0.2,30.34,-0.61,Express
+ORD-00028,2024-11-07,C1018,Meera Singh,Consumer,South,Chennai,Office Supplies,Binder,7.91,6,0.05,45.09,14.21,Same Day
+ORD-00588,2024-11-07,C1046,Sanjay Sharma,Home Office,East,Kolkata,Office Supplies,Binder,7.28,3,0.1,19.66,7.43,Same Day
+ORD-00795,2024-11-07,C1036,Amit Das,Consumer,West,Pune,Technology,Webcam,63.39,3,0,190.17,16.82,Same Day
+ORD-00962,2024-11-07,C1007,Pooja Nair,Corporate,North,Lucknow,Technology,Headphones,77.77,1,0,77.77,17.27,Same Day
+ORD-00716,2024-11-08,C1020,Rahul Mehta,Home Office,North,Delhi,Technology,Headphones,84.21,3,0.2,202.1,-4.16,Same Day
+ORD-01076,2024-11-08,C1054,Priya Nair,Home Office,South,Bengaluru,Furniture,Office Chair,173.96,1,0,173.96,12.36,Standard
+ORD-01200,2024-11-09,C1023,Rahul Patil,Home Office,West,Pune,Office Supplies,Printer Paper,23.26,2,0.1,41.87,13.66,Express
+ORD-00172,2024-11-11,C1031,Arjun Nair,Home Office,North,Delhi,Office Supplies,Binder,7.54,8,0,60.32,15.11,Standard
+ORD-00302,2024-11-11,C1029,Amit Singh,Consumer,East,Kolkata,Technology,Webcam,62.36,2,0.2,99.78,-18.15,Express
+ORD-00553,2024-11-11,C1019,Meera Patil,Corporate,East,Kolkata,Technology,Monitor,229.87,2,0.05,436.75,80.01,Standard
+ORD-00611,2024-11-11,C1031,Arjun Nair,Home Office,West,Mumbai,Technology,Laptop,817.71,2,0.2,1308.34,-217.66,Same Day
+ORD-00656,2024-11-11,C1028,Meera Sharma,Corporate,North,Delhi,Office Supplies,Stapler,14.37,7,0.05,95.56,32.6,Express
+ORD-00472,2024-11-12,C1014,Sanjay Iyer,Consumer,South,Hyderabad,Technology,Webcam,60.32,1,0,60.32,5.68,Standard
+ORD-00120,2024-11-13,C1047,Rahul Iyer,Consumer,East,Kolkata,Furniture,Standing Desk,431.19,1,0.1,388.07,33.42,Standard
+ORD-00294,2024-11-14,C1020,Rahul Mehta,Home Office,North,Lucknow,Furniture,Bookcase,151.91,1,0,151.91,6.2,Same Day
+ORD-01188,2024-11-14,C1021,Neha Reddy,Corporate,South,Hyderabad,Office Supplies,Notebook,4.29,3,0,12.87,3.58,Standard
+ORD-00255,2024-11-16,C1038,Rohan Sharma,Consumer,West,Nashik,Furniture,Office Chair,192.44,2,0,384.88,39.82,Same Day
+ORD-00534,2024-11-16,C1025,Meera Reddy,Corporate,North,Lucknow,Technology,Keyboard,45.17,1,0,45.17,6.28,Same Day
+ORD-00707,2024-11-16,C1021,Neha Reddy,Corporate,West,Nashik,Office Supplies,Stapler,13.82,4,0,55.28,12.32,Express
+ORD-00241,2024-11-17,C1011,Sneha Patil,Corporate,West,Pune,Technology,Webcam,65.61,3,0.05,186.99,40.46,Express
+ORD-00502,2024-11-18,C1035,Rahul Gupta,Corporate,East,Bhubaneswar,Furniture,Filing Cabinet,122.6,3,0,367.8,34.07,Standard
+ORD-00896,2024-11-18,C1052,Kavya Sharma,Consumer,South,Chennai,Office Supplies,Stapler,16.12,1,0,16.12,5.5,Standard
+ORD-00439,2024-11-19,C1026,Amit Singh,Home Office,East,Kolkata,Technology,Webcam,57.14,3,0,171.42,28.67,Same Day
+ORD-00909,2024-11-19,C1009,Pooja Das,Corporate,East,Kolkata,Furniture,Filing Cabinet,114.8,1,0.1,103.32,13.37,Same Day
+ORD-00468,2024-11-20,C1041,Amit Joshi,Home Office,East,Guwahati,Technology,Webcam,64.65,2,0,129.3,27.95,Express
+ORD-00490,2024-11-20,C1035,Rahul Gupta,Corporate,East,Bhubaneswar,Office Supplies,Notebook,4.18,7,0,29.26,6.73,Standard
+ORD-01024,2024-11-20,C1007,Pooja Nair,Corporate,West,Pune,Office Supplies,Notebook,4.11,8,0,32.88,10.12,Same Day
+ORD-01149,2024-11-20,C1017,Karan Patil,Consumer,South,Hyderabad,Technology,Smartphone,688.87,2,0,1377.74,352.01,Standard
+ORD-00831,2024-11-21,C1038,Rohan Sharma,Consumer,West,Nashik,Technology,Laptop,844.04,3,0.1,2278.91,380.79,Standard
+ORD-00170,2024-11-22,C1015,Amit Patil,Home Office,West,Mumbai,Technology,Smartphone,591.58,1,0,591.58,147.35,Same Day
+ORD-00563,2024-11-22,C1049,Karan Reddy,Corporate,West,Nashik,Technology,Smartphone,599.88,1,0,599.88,150.97,Same Day
+ORD-00218,2024-11-23,C1058,Kavya Iyer,Consumer,South,Chennai,Furniture,Office Chair,188.69,3,0,566.07,-9.49,Same Day
+ORD-00694,2024-11-26,C1036,Amit Das,Consumer,North,Chandigarh,Technology,Webcam,59.96,1,0,59.96,13.33,Same Day
+ORD-00737,2024-11-26,C1051,Aarav Gupta,Corporate,North,Lucknow,Technology,Headphones,78.38,2,0,156.76,14.99,Express
+ORD-00810,2024-11-26,C1027,Meera Das,Consumer,West,Pune,Technology,Headphones,77.78,2,0.05,147.78,31.3,Same Day
+ORD-01195,2024-11-26,C1039,Vikram Reddy,Home Office,East,Guwahati,Office Supplies,Printer Paper,25.93,5,0.1,116.69,39.74,Same Day
+ORD-00100,2024-11-27,C1001,Rahul Nair,Consumer,South,Chennai,Technology,Webcam,55.36,2,0.1,99.65,7.25,Express
+ORD-00195,2024-11-27,C1059,Rahul Iyer,Home Office,South,Bengaluru,Technology,Smartphone,709.02,2,0,1418.04,170.72,Same Day
+ORD-00735,2024-11-27,C1009,Pooja Das,Corporate,North,Delhi,Furniture,Filing Cabinet,130.92,2,0.2,209.47,-31.66,Standard
+ORD-00867,2024-11-27,C1011,Sneha Patil,Corporate,North,Chandigarh,Office Supplies,Notebook,3.97,7,0,27.79,5.37,Express
+ORD-00104,2024-11-28,C1024,Anjali Iyer,Home Office,East,Bhubaneswar,Office Supplies,Stapler,13.84,2,0.2,22.14,1.35,Same Day
+ORD-00976,2024-11-28,C1017,Karan Patil,Consumer,South,Hyderabad,Office Supplies,Stapler,14.2,3,0.05,40.47,13.16,Express
+ORD-00715,2024-11-30,C1029,Amit Singh,Consumer,North,Delhi,Office Supplies,Printer Paper,23.18,8,0.2,148.35,1.5,Same Day
+ORD-00152,2024-12-01,C1042,Sanjay Iyer,Corporate,East,Bhubaneswar,Furniture,Filing Cabinet,118.65,1,0.2,94.92,-17.14,Same Day
+ORD-00832,2024-12-01,C1015,Amit Patil,Home Office,North,Lucknow,Office Supplies,Printer Paper,26.14,8,0,209.12,70.46,Same Day
+ORD-00736,2024-12-03,C1002,Vikram Patil,Home Office,West,Pune,Office Supplies,Binder,8.58,3,0,25.74,8.76,Express
+ORD-00840,2024-12-03,C1016,Divya Gupta,Corporate,East,Guwahati,Office Supplies,Pen Set,12.25,4,0.2,39.2,-1.66,Same Day
+ORD-01120,2024-12-03,C1059,Rahul Iyer,Home Office,North,Delhi,Furniture,Office Chair,196.2,2,0,392.4,39.09,Same Day
+ORD-00003,2024-12-04,C1004,Priya Sharma,Consumer,South,Chennai,Office Supplies,Printer Paper,27.18,3,0.2,65.23,2.88,Express
+ORD-00415,2024-12-04,C1022,Neha Nair,Home Office,South,Hyderabad,Office Supplies,Notebook,3.66,5,0.1,16.47,3.6,Express
+ORD-00231,2024-12-05,C1024,Anjali Iyer,Home Office,South,Hyderabad,Office Supplies,Binder,7.36,6,0,44.16,10.0,Standard
+ORD-00316,2024-12-05,C1058,Kavya Iyer,Consumer,South,Bengaluru,Furniture,Standing Desk,379.84,2,0,759.68,73.93,Standard
+ORD-00326,2024-12-05,C1013,Rahul Sharma,Home Office,South,Chennai,Office Supplies,Binder,7.65,5,0.2,30.6,-0.69,Standard
+ORD-00382,2024-12-05,C1035,Rahul Gupta,Corporate,West,Nashik,Office Supplies,Stapler,15.78,2,0,31.56,7.08,Express
+ORD-01180,2024-12-05,C1026,Amit Singh,Home Office,South,Hyderabad,Office Supplies,Notebook,4.2,1,0,4.2,1.2,Same Day
+ORD-00354,2024-12-09,C1041,Amit Joshi,Home Office,North,Delhi,Furniture,Bookcase,146.15,2,0,292.3,28.39,Express
+ORD-01145,2024-12-09,C1026,Amit Singh,Home Office,East,Bhubaneswar,Office Supplies,Pen Set,11.68,1,0,11.68,2.78,Standard
+ORD-01156,2024-12-10,C1037,Vikram Iyer,Corporate,North,Lucknow,Technology,Webcam,64.93,2,0.05,123.37,22.97,Same Day
+ORD-00166,2024-12-11,C1053,Neha Singh,Consumer,North,Delhi,Technology,Webcam,61.81,3,0,185.43,39.57,Express
+ORD-01190,2024-12-11,C1053,Neha Singh,Consumer,South,Bengaluru,Furniture,Filing Cabinet,124.57,1,0,124.57,16.32,Express
+ORD-00002,2024-12-12,C1001,Rahul Nair,Consumer,South,Hyderabad,Technology,Laptop,820.6,3,0.2,1969.44,-347.65,Standard
+ORD-00325,2024-12-12,C1038,Rohan Sharma,Consumer,West,Nashik,Technology,Webcam,64.68,1,0.1,58.21,5.32,Standard
+ORD-00385,2024-12-12,C1006,Aarav Iyer,Consumer,West,Mumbai,Office Supplies,Binder,7.93,2,0.05,15.07,4.49,Same Day
+ORD-00489,2024-12-12,C1059,Rahul Iyer,Home Office,North,Delhi,Furniture,Standing Desk,444.48,3,0.1,1200.1,6.2,Standard
+ORD-00557,2024-12-13,C1024,Anjali Iyer,Home Office,South,Hyderabad,Office Supplies,Printer Paper,26.03,2,0,52.06,12.65,Standard
+ORD-00695,2024-12-13,C1010,Vikram Nair,Corporate,East,Bhubaneswar,Office Supplies,Printer Paper,26.74,8,0.2,171.14,14.96,Same Day
+ORD-00775,2024-12-13,C1015,Amit Patil,Home Office,South,Chennai,Technology,Webcam,62.07,3,0.1,167.59,34.0,Same Day
+ORD-00845,2024-12-13,C1014,Sanjay Iyer,Consumer,West,Pune,Office Supplies,Stapler,15.26,5,0,76.3,22.4,Standard
+ORD-00232,2024-12-14,C1038,Rohan Sharma,Consumer,West,Pune,Technology,Monitor,208.04,2,0.05,395.28,67.44,Express
+ORD-00465,2024-12-18,C1001,Rahul Nair,Consumer,West,Mumbai,Furniture,Standing Desk,432.59,3,0.1,1167.99,102.42,Express
+ORD-00146,2024-12-19,C1015,Amit Patil,Home Office,North,Lucknow,Office Supplies,Pen Set,11.65,3,0,34.95,8.66,Same Day
+ORD-00390,2024-12-19,C1058,Kavya Iyer,Consumer,South,Hyderabad,Office Supplies,Printer Paper,23.08,6,0.2,110.78,0.05,Express
+ORD-00593,2024-12-19,C1003,Rohan Gupta,Corporate,East,Kolkata,Technology,Keyboard,43.21,2,0.05,82.1,17.18,Same Day
+ORD-00641,2024-12-19,C1028,Meera Sharma,Corporate,West,Nashik,Office Supplies,Notebook,4.03,8,0.2,25.79,2.45,Express
+ORD-00771,2024-12-19,C1056,Kavya Patil,Home Office,West,Mumbai,Office Supplies,Notebook,3.87,1,0.1,3.48,1.13,Same Day
+ORD-01075,2024-12-21,C1040,Pooja Gupta,Consumer,East,Guwahati,Office Supplies,Notebook,4.0,2,0,8.0,2.56,Express
+ORD-00508,2024-12-22,C1056,Kavya Patil,Home Office,West,Pune,Office Supplies,Notebook,4.12,4,0.2,13.18,0.67,Standard
+ORD-00884,2024-12-22,C1032,Kavya Joshi,Home Office,West,Nashik,Office Supplies,Notebook,4.19,7,0.05,27.86,6.37,Standard
+ORD-00121,2024-12-23,C1022,Neha Nair,Home Office,South,Bengaluru,Technology,Monitor,224.51,1,0,224.51,47.61,Same Day
+ORD-00348,2024-12-23,C1029,Amit Singh,Consumer,East,Kolkata,Furniture,Filing Cabinet,108.18,3,0,324.54,58.38,Express
+ORD-00437,2024-12-24,C1037,Vikram Iyer,Corporate,North,Chandigarh,Technology,Keyboard,43.05,1,0,43.05,10.13,Express
+ORD-00111,2024-12-25,C1000,Sneha Sharma,Home Office,South,Bengaluru,Office Supplies,Stapler,15.72,2,0,31.44,11.77,Standard
+ORD-00960,2024-12-25,C1045,Divya Joshi,Consumer,West,Mumbai,Furniture,Office Chair,162.02,1,0,162.02,18.16,Express
+ORD-01032,2024-12-25,C1050,Anjali Iyer,Home Office,West,Pune,Office Supplies,Stapler,15.85,1,0,15.85,4.46,Express
+ORD-00124,2024-12-26,C1032,Kavya Joshi,Home Office,North,Chandigarh,Furniture,Office Chair,191.94,1,0,191.94,-0.89,Standard
+ORD-01078,2024-12-26,C1030,Karan Gupta,Home Office,North,Chandigarh,Office Supplies,Stapler,15.96,2,0,31.92,9.37,Express
+ORD-00153,2024-12-27,C1039,Vikram Reddy,Home Office,West,Pune,Office Supplies,Notebook,4.11,2,0.2,6.58,0.02,Same Day
+ORD-00236,2024-12-28,C1035,Rahul Gupta,Corporate,North,Lucknow,Office Supplies,Pen Set,11.5,7,0,80.5,20.73,Standard
+ORD-00383,2024-12-29,C1053,Neha Singh,Consumer,East,Guwahati,Office Supplies,Notebook,3.99,1,0,3.99,1.37,Same Day
+ORD-00466,2024-12-29,C1020,Rahul Mehta,Home Office,West,Nashik,Furniture,Office Chair,172.31,2,0.1,310.16,32.98,Standard
+ORD-00523,2024-12-29,C1040,Pooja Gupta,Consumer,East,Kolkata,Office Supplies,Binder,8.2,5,0,41.0,14.59,Standard
+ORD-00691,2024-12-31,C1026,Amit Singh,Home Office,East,Kolkata,Office Supplies,Printer Paper,24.06,4,0.2,76.99,-4.08,Same Day
+ORD-00760,2024-12-31,C1043,Aarav Patil,Home Office,South,Bengaluru,Office Supplies,Binder,7.74,1,0,7.74,1.57,Standard
+ORD-01082,2024-12-31,C1031,Arjun Nair,Home Office,North,Delhi,Office Supplies,Stapler,15.73,6,0,94.38,20.65,Express
+ORD-01128,2024-12-31,C1057,Vikram Reddy,Home Office,South,Chennai,Office Supplies,Pen Set,11.39,5,0.2,45.56,4.95,Express
+ORD-00019,2025-01-01,C1013,Rahul Sharma,Home Office,South,Hyderabad,Technology,Headphones,83.99,2,0.1,151.18,37.06,Standard
+ORD-00270,2025-01-01,C1054,Priya Nair,Home Office,North,Lucknow,Furniture,Filing Cabinet,114.44,1,0.05,108.72,15.84,Express
+ORD-00821,2025-01-01,C1019,Meera Patil,Corporate,South,Bengaluru,Furniture,Bookcase,164.11,2,0,328.22,27.42,Same Day
+ORD-00096,2025-01-02,C1003,Rohan Gupta,Corporate,West,Pune,Technology,Laptop,929.3,2,0,1858.6,350.05,Same Day
+ORD-00259,2025-01-02,C1000,Sneha Sharma,Home Office,West,Mumbai,Technology,Keyboard,46.38,3,0.1,125.23,17.76,Express
+ORD-00579,2025-01-02,C1007,Pooja Nair,Corporate,East,Kolkata,Technology,Webcam,61.5,3,0.05,175.28,35.47,Express
+ORD-00282,2025-01-04,C1059,Rahul Iyer,Home Office,East,Kolkata,Furniture,Filing Cabinet,124.39,2,0.1,223.9,29.68,Standard
+ORD-00101,2025-01-05,C1032,Kavya Joshi,Home Office,North,Chandigarh,Office Supplies,Binder,8.45,1,0.2,6.76,0.7,Same Day
+ORD-00155,2025-01-05,C1024,Anjali Iyer,Home Office,North,Lucknow,Technology,Keyboard,44.5,2,0,89.0,6.71,Standard
+ORD-00160,2025-01-05,C1032,Kavya Joshi,Home Office,South,Bengaluru,Office Supplies,Printer Paper,22.63,4,0.05,85.99,25.01,Express
+ORD-00662,2025-01-05,C1037,Vikram Iyer,Corporate,West,Nashik,Furniture,Bookcase,149.28,3,0.2,358.27,-46.99,Standard
+ORD-00885,2025-01-05,C1040,Pooja Gupta,Consumer,North,Lucknow,Office Supplies,Printer Paper,24.78,5,0.1,111.51,35.26,Express
+ORD-01151,2025-01-05,C1041,Amit Joshi,Home Office,West,Nashik,Technology,Keyboard,47.95,1,0.1,43.16,11.11,Same Day
+ORD-00711,2025-01-06,C1057,Vikram Reddy,Home Office,North,Lucknow,Office Supplies,Stapler,16.23,7,0,113.61,29.38,Express
+ORD-00088,2025-01-08,C1046,Sanjay Sharma,Home Office,South,Bengaluru,Office Supplies,Pen Set,11.28,7,0,78.96,26.63,Express
+ORD-00461,2025-01-08,C1054,Priya Nair,Home Office,West,Pune,Furniture,Standing Desk,397.2,3,0.2,953.28,-238.34,Express
+ORD-00174,2025-01-09,C1002,Vikram Patil,Home Office,West,Mumbai,Office Supplies,Printer Paper,23.94,6,0.1,129.28,33.26,Express
+ORD-00440,2025-01-09,C1039,Vikram Reddy,Home Office,East,Guwahati,Furniture,Standing Desk,443.84,2,0.1,798.91,61.11,Express
+ORD-00920,2025-01-11,C1000,Sneha Sharma,Home Office,North,Delhi,Technology,Keyboard,48.68,3,0.2,116.83,-16.94,Same Day
+ORD-01196,2025-01-15,C1033,Sanjay Reddy,Corporate,East,Bhubaneswar,Furniture,Bookcase,164.89,3,0.2,395.74,-33.41,Standard
+ORD-00107,2025-01-16,C1051,Aarav Gupta,Corporate,South,Hyderabad,Technology,Headphones,82.72,3,0,248.16,35.28,Same Day
+ORD-00663,2025-01-17,C1032,Kavya Joshi,Home Office,North,Chandigarh,Technology,Laptop,892.99,1,0,892.99,177.4,Express
+ORD-00081,2025-01-18,C1027,Meera Das,Consumer,South,Bengaluru,Office Supplies,Binder,7.48,3,0,22.44,6.77,Express
+ORD-00204,2025-01-18,C1057,Vikram Reddy,Home Office,West,Pune,Office Supplies,Stapler,15.55,7,0,108.85,34.0,Same Day
+ORD-00559,2025-01-18,C1050,Anjali Iyer,Home Office,North,Delhi,Office Supplies,Stapler,16.21,1,0.05,15.4,3.25,Express
+ORD-00882,2025-01-18,C1031,Arjun Nair,Home Office,West,Pune,Office Supplies,Pen Set,11.54,7,0.05,76.74,28.97,Standard
+ORD-00268,2025-01-19,C1028,Meera Sharma,Corporate,North,Lucknow,Office Supplies,Notebook,4.2,7,0.1,26.46,8.44,Express
+ORD-00503,2025-01-19,C1049,Karan Reddy,Corporate,East,Bhubaneswar,Office Supplies,Stapler,15.68,7,0,109.76,41.33,Same Day
+ORD-00826,2025-01-19,C1013,Rahul Sharma,Home Office,West,Mumbai,Office Supplies,Notebook,3.66,6,0,21.96,4.08,Standard
+ORD-00242,2025-01-20,C1017,Karan Patil,Consumer,West,Pune,Technology,Headphones,87.96,1,0.1,79.16,7.6,Same Day
+ORD-00879,2025-01-21,C1010,Vikram Nair,Corporate,West,Pune,Furniture,Filing Cabinet,108.48,1,0.05,103.06,5.8,Standard
+ORD-00980,2025-01-21,C1024,Anjali Iyer,Home Office,North,Delhi,Office Supplies,Notebook,4.22,3,0,12.66,2.96,Same Day
+ORD-00356,2025-01-25,C1033,Sanjay Reddy,Corporate,East,Bhubaneswar,Technology,Smartphone,629.55,1,0,629.55,162.07,Express
+ORD-00392,2025-01-25,C1009,Pooja Das,Corporate,North,Lucknow,Technology,Monitor,228.07,1,0,228.07,20.36,Standard
+ORD-00403,2025-01-25,C1058,Kavya Iyer,Consumer,North,Chandigarh,Technology,Webcam,64.94,2,0,129.88,29.15,Express
+ORD-00410,2025-01-25,C1025,Meera Reddy,Corporate,North,Chandigarh,Technology,Smartphone,635.83,1,0.2,508.66,-15.52,Same Day
+ORD-00580,2025-01-25,C1027,Meera Das,Consumer,South,Hyderabad,Technology,Smartphone,635.0,1,0.1,571.5,139.96,Express
+ORD-00817,2025-01-25,C1025,Meera Reddy,Corporate,North,Lucknow,Office Supplies,Printer Paper,24.42,1,0.05,23.2,7.87,Same Day
+ORD-00602,2025-01-26,C1024,Anjali Iyer,Home Office,East,Kolkata,Technology,Monitor,201.05,1,0.05,191.0,48.87,Standard
+ORD-00888,2025-01-26,C1037,Vikram Iyer,Corporate,East,Guwahati,Furniture,Office Chair,182.61,1,0.2,146.09,-16.14,Standard
+ORD-00991,2025-01-27,C1026,Amit Singh,Home Office,West,Nashik,Office Supplies,Binder,7.33,4,0.05,27.85,9.0,Same Day
+ORD-00388,2025-01-28,C1026,Amit Singh,Home Office,South,Chennai,Furniture,Bookcase,159.14,2,0.05,302.37,2.31,Same Day
+ORD-00984,2025-01-29,C1009,Pooja Das,Corporate,East,Guwahati,Technology,Webcam,64.61,2,0.2,103.38,-2.63,Standard
+ORD-00847,2025-01-30,C1012,Sneha Das,Corporate,West,Mumbai,Furniture,Filing Cabinet,110.24,3,0,330.72,0.29,Same Day
+ORD-00494,2025-01-31,C1012,Sneha Das,Corporate,West,Nashik,Technology,Monitor,226.2,2,0.05,429.78,35.28,Same Day
+ORD-00785,2025-01-31,C1014,Sanjay Iyer,Consumer,West,Pune,Office Supplies,Stapler,13.77,5,0.2,55.08,-2.03,Standard
+ORD-00520,2025-02-01,C1042,Sanjay Iyer,Corporate,East,Guwahati,Office Supplies,Pen Set,11.5,2,0,23.0,8.2,Express
+ORD-00688,2025-02-02,C1031,Arjun Nair,Home Office,North,Lucknow,Office Supplies,Binder,8.1,8,0.05,61.56,13.01,Standard
+ORD-00008,2025-02-03,C1016,Divya Gupta,Corporate,West,Pune,Furniture,Filing Cabinet,115.12,1,0,115.12,20.0,Same Day
+ORD-00969,2025-02-03,C1025,Meera Reddy,Corporate,East,Kolkata,Technology,Smartphone,661.97,3,0,1985.91,122.67,Same Day
+ORD-00689,2025-02-04,C1016,Divya Gupta,Corporate,West,Nashik,Office Supplies,Binder,7.71,6,0,46.26,8.59,Standard
+ORD-01084,2025-02-04,C1037,Vikram Iyer,Corporate,West,Pune,Furniture,Office Chair,187.27,3,0.1,505.63,74.24,Standard
+ORD-00130,2025-02-05,C1008,Rahul Sharma,Consumer,North,Chandigarh,Office Supplies,Pen Set,12.49,3,0.2,29.98,3.58,Same Day
+ORD-00281,2025-02-05,C1018,Meera Singh,Consumer,North,Delhi,Furniture,Office Chair,184.97,1,0.05,175.72,-1.02,Standard
+ORD-00327,2025-02-06,C1036,Amit Das,Consumer,West,Mumbai,Technology,Laptop,863.02,2,0,1726.04,332.1,Same Day
+ORD-00202,2025-02-09,C1016,Divya Gupta,Corporate,North,Lucknow,Technology,Laptop,872.02,1,0.05,828.42,60.27,Standard
+ORD-00274,2025-02-09,C1040,Pooja Gupta,Consumer,East,Guwahati,Office Supplies,Printer Paper,22.96,7,0.2,128.58,-6.55,Standard
+ORD-00680,2025-02-09,C1028,Meera Sharma,Corporate,North,Delhi,Technology,Keyboard,49.3,3,0.1,133.11,27.73,Standard
+ORD-00191,2025-02-10,C1050,Anjali Iyer,Home Office,West,Mumbai,Office Supplies,Pen Set,11.52,1,0,11.52,3.46,Express
+ORD-01181,2025-02-11,C1050,Anjali Iyer,Home Office,West,Mumbai,Technology,Monitor,225.79,1,0,225.79,44.62,Standard
+ORD-00150,2025-02-13,C1047,Rahul Iyer,Consumer,West,Pune,Furniture,Standing Desk,419.79,2,0.2,671.66,-57.18,Same Day
+ORD-00768,2025-02-15,C1049,Karan Reddy,Corporate,South,Chennai,Technology,Laptop,837.17,3,0.2,2009.21,-150.87,Same Day
+ORD-00068,2025-02-17,C1055,Rohan Patil,Home Office,North,Lucknow,Office Supplies,Stapler,14.06,7,0,98.42,24.84,Express
+ORD-00304,2025-02-18,C1054,Priya Nair,Home Office,West,Nashik,Office Supplies,Printer Paper,23.01,2,0.05,43.72,14.81,Standard
+ORD-00748,2025-02-18,C1055,Rohan Patil,Home Office,West,Pune,Office Supplies,Binder,8.28,6,0.2,39.74,2.7,Express
+ORD-00168,2025-02-19,C1019,Meera Patil,Corporate,West,Mumbai,Office Supplies,Printer Paper,24.92,8,0.05,189.39,41.82,Same Day
+ORD-00575,2025-02-19,C1004,Priya Sharma,Consumer,North,Lucknow,Office Supplies,Stapler,15.43,6,0.05,87.95,16.91,Standard
+ORD-00713,2025-02-20,C1050,Anjali Iyer,Home Office,North,Chandigarh,Office Supplies,Stapler,14.74,8,0.2,94.34,9.27,Same Day
+ORD-01114,2025-02-21,C1036,Amit Das,Consumer,North,Chandigarh,Technology,Webcam,60.34,3,0.2,144.82,-22.01,Standard
+ORD-00883,2025-02-22,C1056,Kavya Patil,Home Office,North,Delhi,Furniture,Standing Desk,458.4,1,0.05,435.48,58.46,Same Day
+ORD-00384,2025-02-23,C1006,Aarav Iyer,Consumer,East,Guwahati,Technology,Laptop,892.27,2,0,1784.54,385.97,Same Day
+ORD-01177,2025-02-23,C1014,Sanjay Iyer,Consumer,South,Hyderabad,Technology,Webcam,61.33,1,0.1,55.2,4.74,Same Day
+ORD-00162,2025-02-24,C1049,Karan Reddy,Corporate,West,Nashik,Technology,Monitor,217.8,3,0,653.4,128.08,Express
+ORD-00717,2025-02-24,C1050,Anjali Iyer,Home Office,East,Bhubaneswar,Furniture,Standing Desk,435.75,2,0,871.5,126.68,Express
+ORD-00067,2025-02-25,C1044,Rahul Das,Consumer,West,Pune,Office Supplies,Stapler,13.76,1,0.05,13.07,3.01,Standard
+ORD-00224,2025-02-25,C1000,Sneha Sharma,Home Office,North,Lucknow,Office Supplies,Binder,8.0,5,0,40.0,12.78,Express
+ORD-00620,2025-02-25,C1015,Amit Patil,Home Office,South,Hyderabad,Office Supplies,Binder,8.0,3,0.2,19.2,2.31,Same Day
+ORD-00667,2025-02-25,C1021,Neha Reddy,Corporate,South,Bengaluru,Technology,Headphones,84.72,1,0,84.72,14.55,Same Day
+ORD-00298,2025-02-26,C1044,Rahul Das,Consumer,East,Bhubaneswar,Office Supplies,Notebook,3.71,2,0.1,6.68,2.3,Standard
+ORD-00514,2025-02-27,C1027,Meera Das,Consumer,East,Bhubaneswar,Technology,Monitor,199.07,3,0.2,477.77,-61.65,Express
+ORD-00548,2025-02-27,C1033,Sanjay Reddy,Corporate,South,Hyderabad,Technology,Laptop,941.35,1,0.1,847.22,157.41,Standard
+ORD-01042,2025-02-27,C1004,Priya Sharma,Consumer,West,Nashik,Technology,Webcam,64.68,2,0.05,122.89,22.94,Express
+ORD-00031,2025-02-28,C1056,Kavya Patil,Home Office,South,Hyderabad,Office Supplies,Stapler,13.94,7,0,97.58,30.98,Standard
+ORD-00073,2025-02-28,C1021,Neha Reddy,Corporate,East,Kolkata,Technology,Monitor,241.95,3,0.1,653.26,103.17,Standard
+ORD-00657,2025-02-28,C1008,Rahul Sharma,Consumer,North,Delhi,Technology,Keyboard,41.1,3,0,123.3,31.07,Express
+ORD-00766,2025-02-28,C1023,Rahul Patil,Home Office,South,Bengaluru,Office Supplies,Binder,7.42,7,0,51.94,13.8,Express
+ORD-00260,2025-03-01,C1045,Divya Joshi,Consumer,West,Pune,Technology,Headphones,76.67,1,0,76.67,8.81,Same Day
+ORD-00284,2025-03-01,C1027,Meera Das,Consumer,West,Mumbai,Office Supplies,Binder,7.33,3,0,21.99,4.31,Standard
+ORD-01183,2025-03-01,C1001,Rahul Nair,Consumer,North,Lucknow,Office Supplies,Binder,8.38,3,0,25.14,8.51,Standard
+ORD-00212,2025-03-02,C1026,Amit Singh,Home Office,South,Chennai,Furniture,Filing Cabinet,115.22,1,0,115.22,14.0,Express
+ORD-00661,2025-03-03,C1011,Sneha Patil,Corporate,West,Nashik,Office Supplies,Notebook,3.99,2,0,7.98,2.99,Same Day
+ORD-00783,2025-03-03,C1030,Karan Gupta,Home Office,East,Guwahati,Furniture,Bookcase,160.03,2,0.05,304.06,44.62,Standard
+ORD-00171,2025-03-04,C1015,Amit Patil,Home Office,South,Chennai,Office Supplies,Pen Set,12.0,4,0,48.0,13.58,Express
+ORD-00434,2025-03-05,C1052,Kavya Sharma,Consumer,South,Hyderabad,Technology,Keyboard,40.85,3,0.1,110.3,23.91,Same Day
+ORD-01173,2025-03-05,C1028,Meera Sharma,Corporate,East,Kolkata,Office Supplies,Notebook,4.37,3,0.05,12.45,3.89,Express
+ORD-00373,2025-03-07,C1041,Amit Joshi,Home Office,South,Bengaluru,Technology,Webcam,55.24,1,0,55.24,13.38,Express
+ORD-00782,2025-03-07,C1003,Rohan Gupta,Corporate,East,Bhubaneswar,Technology,Webcam,55.47,2,0,110.94,14.39,Standard
+ORD-00994,2025-03-07,C1015,Amit Patil,Home Office,South,Bengaluru,Technology,Smartphone,676.52,1,0.2,541.22,-61.97,Standard
+ORD-01153,2025-03-07,C1032,Kavya Joshi,Home Office,South,Hyderabad,Furniture,Standing Desk,379.3,1,0.05,360.33,1.5,Express
+ORD-00006,2025-03-08,C1011,Sneha Patil,Corporate,East,Bhubaneswar,Technology,Laptop,827.62,2,0.1,1489.72,283.69,Same Day
+ORD-00276,2025-03-08,C1044,Rahul Das,Consumer,South,Chennai,Technology,Keyboard,47.75,1,0.2,38.2,-6.47,Express
+ORD-00714,2025-03-08,C1056,Kavya Patil,Home Office,North,Delhi,Office Supplies,Binder,7.87,2,0,15.74,5.13,Same Day
+ORD-00001,2025-03-09,C1013,Rahul Sharma,Home Office,South,Hyderabad,Furniture,Bookcase,148.54,2,0.1,267.37,7.91,Standard
+ORD-00108,2025-03-09,C1055,Rohan Patil,Home Office,North,Chandigarh,Office Supplies,Pen Set,12.02,2,0.1,21.64,4.56,Express
+ORD-00032,2025-03-11,C1014,Sanjay Iyer,Consumer,South,Hyderabad,Office Supplies,Notebook,3.97,4,0,15.88,5.4,Same Day
+ORD-01176,2025-03-11,C1025,Meera Reddy,Corporate,East,Kolkata,Technology,Webcam,61.64,1,0,61.64,4.26,Express
+ORD-00252,2025-03-12,C1029,Amit Singh,Consumer,South,Chennai,Office Supplies,Printer Paper,22.65,7,0.05,150.62,45.61,Standard
+ORD-00308,2025-03-12,C1011,Sneha Patil,Corporate,East,Kolkata,Office Supplies,Pen Set,12.92,5,0.05,61.37,11.47,Same Day
+ORD-00979,2025-03-12,C1015,Amit Patil,Home Office,West,Nashik,Office Supplies,Notebook,4.2,3,0.2,10.08,-0.68,Standard
+ORD-01160,2025-03-12,C1018,Meera Singh,Consumer,East,Bhubaneswar,Furniture,Standing Desk,446.37,1,0,446.37,56.66,Same Day
+ORD-00917,2025-03-13,C1043,Aarav Patil,Home Office,South,Bengaluru,Technology,Keyboard,41.56,1,0,41.56,6.78,Express
+ORD-00631,2025-03-14,C1047,Rahul Iyer,Consumer,South,Bengaluru,Furniture,Standing Desk,454.76,3,0,1364.28,217.81,Express
+ORD-00720,2025-03-15,C1038,Rohan Sharma,Consumer,East,Kolkata,Technology,Monitor,203.16,1,0.1,182.84,37.25,Express
+ORD-01051,2025-03-15,C1050,Anjali Iyer,Home Office,South,Chennai,Technology,Smartphone,633.36,3,0,1900.08,410.23,Standard
+ORD-00527,2025-03-16,C1058,Kavya Iyer,Consumer,South,Hyderabad,Office Supplies,Printer Paper,25.29,6,0,151.74,56.1,Standard
+ORD-00436,2025-03-17,C1033,Sanjay Reddy,Corporate,West,Pune,Office Supplies,Binder,8.7,7,0,60.9,16.83,Express
+ORD-00722,2025-03-17,C1054,Priya Nair,Home Office,South,Hyderabad,Technology,Monitor,206.33,3,0.2,495.19,-76.22,Standard
+ORD-00948,2025-03-17,C1031,Arjun Nair,Home Office,South,Bengaluru,Office Supplies,Printer Paper,27.07,7,0,189.49,34.37,Same Day
+ORD-01071,2025-03-17,C1032,Kavya Joshi,Home Office,East,Kolkata,Furniture,Bookcase,154.46,1,0,154.46,19.52,Express
+ORD-01122,2025-03-17,C1030,Karan Gupta,Home Office,East,Kolkata,Technology,Laptop,906.15,1,0,906.15,210.28,Same Day
+ORD-00064,2025-03-18,C1047,Rahul Iyer,Consumer,East,Guwahati,Technology,Laptop,960.47,1,0.2,768.38,-57.6,Standard
+ORD-00233,2025-03-18,C1011,Sneha Patil,Corporate,West,Mumbai,Office Supplies,Pen Set,10.98,4,0.2,35.14,-0.58,Express
+ORD-00753,2025-03-18,C1026,Amit Singh,Home Office,West,Nashik,Office Supplies,Binder,7.98,5,0,39.9,11.06,Same Day
+ORD-00408,2025-03-19,C1020,Rahul Mehta,Home Office,North,Chandigarh,Office Supplies,Binder,8.35,1,0.2,6.68,-0.38,Same Day
+ORD-00728,2025-03-19,C1009,Pooja Das,Corporate,East,Kolkata,Furniture,Standing Desk,440.82,2,0,881.64,145.69,Express
+ORD-01085,2025-03-19,C1050,Anjali Iyer,Home Office,West,Nashik,Office Supplies,Pen Set,13.13,5,0,65.65,18.37,Same Day
+ORD-00228,2025-03-20,C1041,Amit Joshi,Home Office,East,Guwahati,Office Supplies,Notebook,3.77,1,0,3.77,1.33,Same Day
+ORD-01170,2025-03-20,C1004,Priya Sharma,Consumer,West,Nashik,Office Supplies,Printer Paper,25.94,1,0.05,24.64,7.46,Same Day
+ORD-01060,2025-03-22,C1014,Sanjay Iyer,Consumer,South,Bengaluru,Technology,Monitor,239.1,3,0,717.3,167.56,Express
+ORD-01157,2025-03-22,C1018,Meera Singh,Consumer,West,Nashik,Technology,Smartphone,704.12,3,0.1,1901.12,470.19,Standard
+ORD-00318,2025-03-23,C1050,Anjali Iyer,Home Office,West,Nashik,Furniture,Bookcase,152.67,1,0.2,122.14,-28.69,Express
+ORD-01036,2025-03-23,C1014,Sanjay Iyer,Consumer,North,Lucknow,Office Supplies,Binder,8.12,2,0.2,12.99,0.11,Same Day
+ORD-00134,2025-03-24,C1002,Vikram Patil,Home Office,West,Pune,Office Supplies,Printer Paper,23.92,8,0.1,172.22,56.78,Express
+ORD-00765,2025-03-25,C1026,Amit Singh,Home Office,North,Delhi,Office Supplies,Stapler,15.02,6,0,90.12,17.76,Express
+ORD-00844,2025-03-25,C1028,Meera Sharma,Corporate,North,Chandigarh,Technology,Smartphone,586.26,2,0.2,938.02,-26.19,Express
+ORD-00938,2025-03-25,C1022,Neha Nair,Home Office,West,Nashik,Technology,Keyboard,48.43,3,0.2,116.23,-3.16,Express
+ORD-00240,2025-03-26,C1021,Neha Reddy,Corporate,West,Nashik,Office Supplies,Printer Paper,25.52,5,0,127.6,40.71,Express
+ORD-00278,2025-03-26,C1022,Neha Nair,Home Office,South,Hyderabad,Office Supplies,Stapler,13.76,8,0,110.08,22.03,Standard
+ORD-00708,2025-03-26,C1026,Amit Singh,Home Office,East,Guwahati,Technology,Headphones,87.18,2,0.2,139.49,-17.67,Express
+ORD-00181,2025-03-27,C1020,Rahul Mehta,Home Office,West,Mumbai,Furniture,Standing Desk,443.1,2,0.1,797.58,130.89,Same Day
+ORD-00396,2025-03-29,C1053,Neha Singh,Consumer,South,Hyderabad,Office Supplies,Pen Set,13.11,4,0.2,41.95,-0.47,Standard
+ORD-00687,2025-03-29,C1029,Amit Singh,Consumer,North,Delhi,Technology,Webcam,55.97,2,0.2,89.55,-9.3,Express
+ORD-00803,2025-03-31,C1043,Aarav Patil,Home Office,North,Chandigarh,Office Supplies,Stapler,14.03,6,0.05,79.97,26.68,Same Day
+ORD-01105,2025-03-31,C1002,Vikram Patil,Home Office,East,Kolkata,Furniture,Filing Cabinet,131.56,2,0,263.12,13.56,Same Day
+ORD-01165,2025-03-31,C1056,Kavya Patil,Home Office,West,Pune,Technology,Smartphone,671.93,2,0.2,1075.09,3.96,Standard
+ORD-00653,2025-04-01,C1022,Neha Nair,Home Office,North,Chandigarh,Technology,Webcam,60.32,1,0.1,54.29,11.74,Express
+ORD-00852,2025-04-01,C1004,Priya Sharma,Consumer,West,Nashik,Office Supplies,Binder,8.61,6,0.1,46.49,12.65,Same Day
+ORD-00074,2025-04-02,C1034,Vikram Nair,Home Office,West,Pune,Furniture,Filing Cabinet,128.87,2,0,257.74,45.4,Standard
+ORD-00208,2025-04-02,C1038,Rohan Sharma,Consumer,North,Delhi,Office Supplies,Stapler,15.12,8,0,120.96,40.02,Standard
+ORD-00380,2025-04-02,C1020,Rahul Mehta,Home Office,North,Chandigarh,Office Supplies,Notebook,3.93,2,0.05,7.47,2.18,Standard
+ORD-00245,2025-04-04,C1038,Rohan Sharma,Consumer,West,Nashik,Furniture,Filing Cabinet,126.98,3,0,380.94,19.77,Same Day
+ORD-00871,2025-04-04,C1024,Anjali Iyer,Home Office,South,Hyderabad,Office Supplies,Notebook,4.09,4,0,16.36,5.88,Express
+ORD-00034,2025-04-05,C1016,Divya Gupta,Corporate,South,Hyderabad,Technology,Headphones,75.83,2,0.2,121.33,-12.38,Same Day
+ORD-00214,2025-04-05,C1054,Priya Nair,Home Office,East,Kolkata,Office Supplies,Printer Paper,24.39,1,0,24.39,7.34,Standard
+ORD-00253,2025-04-05,C1037,Vikram Iyer,Corporate,West,Pune,Technology,Smartphone,682.8,1,0,682.8,151.41,Standard
+ORD-00517,2025-04-05,C1030,Karan Gupta,Home Office,North,Chandigarh,Technology,Headphones,80.74,1,0,80.74,16.96,Same Day
+ORD-00583,2025-04-05,C1024,Anjali Iyer,Home Office,East,Kolkata,Technology,Headphones,79.97,1,0.1,71.97,14.84,Same Day
+ORD-00746,2025-04-05,C1039,Vikram Reddy,Home Office,East,Bhubaneswar,Office Supplies,Printer Paper,22.89,4,0,91.56,34.47,Express
+ORD-00752,2025-04-05,C1037,Vikram Iyer,Corporate,South,Bengaluru,Technology,Keyboard,40.57,1,0,40.57,7.55,Same Day
+ORD-00416,2025-04-06,C1021,Neha Reddy,Corporate,East,Guwahati,Office Supplies,Binder,8.73,6,0,52.38,11.2,Express
+ORD-00642,2025-04-07,C1039,Vikram Reddy,Home Office,East,Guwahati,Office Supplies,Notebook,3.67,4,0.05,13.95,3.6,Standard
+ORD-00800,2025-04-08,C1017,Karan Patil,Consumer,South,Hyderabad,Office Supplies,Pen Set,13.1,4,0.05,49.78,12.23,Same Day
+ORD-00094,2025-04-09,C1023,Rahul Patil,Home Office,West,Nashik,Office Supplies,Printer Paper,23.0,7,0.2,128.8,3.59,Express
+ORD-00538,2025-04-09,C1037,Vikram Iyer,Corporate,South,Chennai,Technology,Monitor,237.92,3,0.2,571.01,-17.53,Same Day
+ORD-00570,2025-04-09,C1031,Arjun Nair,Home Office,North,Delhi,Furniture,Bookcase,160.37,2,0.05,304.7,11.11,Express
+ORD-00624,2025-04-09,C1002,Vikram Patil,Home Office,North,Lucknow,Technology,Headphones,84.57,1,0,84.57,13.28,Standard
+ORD-00721,2025-04-09,C1052,Kavya Sharma,Consumer,West,Mumbai,Technology,Smartphone,622.44,1,0,622.44,98.86,Standard
+ORD-00269,2025-04-10,C1031,Arjun Nair,Home Office,East,Guwahati,Technology,Webcam,65.67,1,0.2,52.54,-3.31,Same Day
+ORD-00223,2025-04-11,C1023,Rahul Patil,Home Office,North,Lucknow,Office Supplies,Binder,7.98,8,0.2,51.07,-3.51,Same Day
+ORD-00970,2025-04-11,C1032,Kavya Joshi,Home Office,East,Bhubaneswar,Office Supplies,Pen Set,11.09,5,0.1,49.91,11.22,Same Day
+ORD-01150,2025-04-11,C1020,Rahul Mehta,Home Office,North,Lucknow,Technology,Webcam,54.96,2,0,109.92,18.92,Standard
+ORD-00072,2025-04-12,C1035,Rahul Gupta,Corporate,South,Chennai,Technology,Headphones,86.07,3,0.2,206.57,-3.55,Express
+ORD-00077,2025-04-12,C1000,Sneha Sharma,Home Office,South,Chennai,Office Supplies,Printer Paper,26.41,2,0.05,50.18,11.69,Same Day
+ORD-00678,2025-04-12,C1038,Rohan Sharma,Consumer,East,Guwahati,Office Supplies,Stapler,14.72,4,0.1,52.99,19.98,Express
+ORD-00897,2025-04-12,C1055,Rohan Patil,Home Office,West,Nashik,Office Supplies,Printer Paper,23.11,1,0.1,20.8,5.95,Same Day
+ORD-00193,2025-04-14,C1041,Amit Joshi,Home Office,East,Guwahati,Technology,Webcam,60.81,2,0,121.62,25.72,Standard
+ORD-00767,2025-04-14,C1054,Priya Nair,Home Office,East,Kolkata,Furniture,Office Chair,195.97,3,0.1,529.12,-1.61,Express
+ORD-00047,2025-04-15,C1045,Divya Joshi,Consumer,South,Chennai,Technology,Headphones,81.85,3,0,245.55,59.9,Express
+ORD-00183,2025-04-15,C1058,Kavya Iyer,Consumer,East,Guwahati,Furniture,Bookcase,140.77,3,0.05,401.19,11.76,Same Day
+ORD-00561,2025-04-15,C1024,Anjali Iyer,Home Office,North,Delhi,Furniture,Office Chair,193.39,3,0.1,522.15,24.36,Standard
+ORD-00119,2025-04-16,C1053,Neha Singh,Consumer,East,Kolkata,Furniture,Office Chair,183.2,1,0.05,174.04,14.76,Express
+ORD-00555,2025-04-16,C1057,Vikram Reddy,Home Office,East,Bhubaneswar,Office Supplies,Stapler,14.4,1,0.1,12.96,4.21,Express
+ORD-01096,2025-04-16,C1053,Neha Singh,Consumer,North,Delhi,Technology,Webcam,61.13,1,0,61.13,13.72,Same Day
+ORD-00071,2025-04-17,C1007,Pooja Nair,Corporate,South,Chennai,Office Supplies,Pen Set,12.8,5,0.05,60.8,22.86,Standard
+ORD-00136,2025-04-17,C1049,Karan Reddy,Corporate,East,Bhubaneswar,Office Supplies,Stapler,15.9,3,0,47.7,9.91,Express
+ORD-00536,2025-04-17,C1010,Vikram Nair,Corporate,West,Pune,Office Supplies,Notebook,4.26,3,0.05,12.14,3.28,Same Day
+ORD-01094,2025-04-17,C1001,Rahul Nair,Consumer,North,Chandigarh,Technology,Smartphone,687.26,3,0,2061.78,363.01,Express
+ORD-00418,2025-04-18,C1028,Meera Sharma,Corporate,East,Bhubaneswar,Furniture,Office Chair,183.84,1,0.2,147.07,-14.95,Standard
+ORD-00858,2025-04-18,C1001,Rahul Nair,Consumer,North,Lucknow,Office Supplies,Stapler,15.74,7,0,110.18,38.69,Express
+ORD-00703,2025-04-20,C1031,Arjun Nair,Home Office,West,Pune,Office Supplies,Notebook,3.82,4,0,15.28,2.84,Express
+ORD-00048,2025-04-21,C1027,Meera Das,Consumer,East,Bhubaneswar,Office Supplies,Notebook,3.8,5,0.05,18.05,4.93,Same Day
+ORD-00629,2025-04-21,C1029,Amit Singh,Consumer,West,Mumbai,Office Supplies,Printer Paper,23.28,5,0.1,104.76,35.5,Same Day
+ORD-01016,2025-04-21,C1006,Aarav Iyer,Consumer,North,Delhi,Office Supplies,Stapler,14.7,7,0,102.9,19.85,Express
+ORD-00217,2025-04-22,C1034,Vikram Nair,Home Office,East,Bhubaneswar,Technology,Headphones,73.58,2,0.05,139.8,35.83,Express
+ORD-01139,2025-04-22,C1002,Vikram Patil,Home Office,East,Bhubaneswar,Office Supplies,Binder,7.29,4,0.05,27.7,10.19,Express
+ORD-00161,2025-04-23,C1051,Aarav Gupta,Corporate,South,Hyderabad,Office Supplies,Notebook,4.4,5,0.05,20.9,6.77,Same Day
+ORD-00700,2025-04-23,C1017,Karan Patil,Consumer,West,Nashik,Office Supplies,Notebook,3.97,4,0,15.88,3.62,Same Day
+ORD-00731,2025-04-23,C1027,Meera Das,Consumer,North,Chandigarh,Technology,Monitor,219.35,3,0.1,592.25,93.93,Same Day
+ORD-00492,2025-04-24,C1017,Karan Patil,Consumer,South,Bengaluru,Office Supplies,Stapler,15.12,5,0,75.6,20.47,Same Day
+ORD-00843,2025-04-24,C1046,Sanjay Sharma,Home Office,West,Pune,Office Supplies,Pen Set,12.65,4,0.05,48.07,15.36,Standard
+ORD-00587,2025-04-25,C1029,Amit Singh,Consumer,West,Nashik,Office Supplies,Stapler,14.37,6,0,86.22,16.13,Same Day
+ORD-00724,2025-04-25,C1008,Rahul Sharma,Consumer,East,Guwahati,Furniture,Standing Desk,437.51,3,0.05,1246.9,158.63,Express
+ORD-00092,2025-04-27,C1001,Rahul Nair,Consumer,East,Guwahati,Technology,Laptop,973.69,3,0.05,2775.02,334.22,Express
+ORD-00329,2025-04-27,C1031,Arjun Nair,Home Office,East,Kolkata,Office Supplies,Stapler,16.16,3,0,48.48,12.31,Express
+ORD-00029,2025-04-29,C1050,Anjali Iyer,Home Office,South,Hyderabad,Technology,Headphones,81.91,3,0.2,196.58,-33.68,Standard
+ORD-00338,2025-04-29,C1002,Vikram Patil,Home Office,South,Chennai,Furniture,Filing Cabinet,129.35,1,0.05,122.88,5.69,Standard
+ORD-01019,2025-04-29,C1013,Rahul Sharma,Home Office,North,Delhi,Office Supplies,Stapler,15.41,5,0,77.05,15.16,Standard
+ORD-01090,2025-04-29,C1059,Rahul Iyer,Home Office,East,Kolkata,Office Supplies,Stapler,16.4,7,0.05,109.06,21.77,Express
+ORD-00365,2025-04-30,C1044,Rahul Das,Consumer,South,Bengaluru,Office Supplies,Notebook,4.13,5,0.05,19.62,6.13,Express
+ORD-00751,2025-04-30,C1027,Meera Das,Consumer,North,Delhi,Technology,Smartphone,642.88,3,0.2,1542.91,-143.48,Standard
+ORD-00993,2025-04-30,C1008,Rahul Sharma,Consumer,North,Delhi,Office Supplies,Pen Set,11.9,3,0,35.7,12.39,Same Day
+ORD-01100,2025-04-30,C1001,Rahul Nair,Consumer,West,Pune,Technology,Laptop,897.07,2,0.05,1704.43,165.0,Standard
+ORD-00229,2025-05-01,C1017,Karan Patil,Consumer,North,Delhi,Office Supplies,Pen Set,13.03,1,0,13.03,3.16,Standard
+ORD-00709,2025-05-01,C1043,Aarav Patil,Home Office,South,Chennai,Office Supplies,Printer Paper,26.08,6,0.05,148.66,51.18,Standard
+ORD-00851,2025-05-01,C1010,Vikram Nair,Corporate,East,Guwahati,Technology,Webcam,57.31,3,0.05,163.33,10.04,Standard
+ORD-00464,2025-05-02,C1053,Neha Singh,Consumer,North,Chandigarh,Office Supplies,Pen Set,12.14,6,0,72.84,26.69,Express
+ORD-00275,2025-05-03,C1004,Priya Sharma,Consumer,South,Hyderabad,Technology,Webcam,54.1,2,0,108.2,13.93,Standard
+ORD-00359,2025-05-03,C1024,Anjali Iyer,Home Office,North,Delhi,Office Supplies,Pen Set,12.62,1,0,12.62,3.61,Standard
+ORD-00056,2025-05-05,C1028,Meera Sharma,Corporate,East,Kolkata,Office Supplies,Pen Set,12.77,8,0,102.16,26.58,Standard
+ORD-00952,2025-05-05,C1042,Sanjay Iyer,Corporate,East,Kolkata,Furniture,Filing Cabinet,111.06,3,0.2,266.54,-31.93,Express
+ORD-00328,2025-05-06,C1012,Sneha Das,Corporate,North,Delhi,Technology,Webcam,59.68,2,0,119.36,9.92,Express
+ORD-00750,2025-05-07,C1041,Amit Joshi,Home Office,South,Hyderabad,Technology,Webcam,55.03,3,0,165.09,35.32,Standard
+ORD-00427,2025-05-08,C1056,Kavya Patil,Home Office,North,Lucknow,Office Supplies,Stapler,13.73,3,0,41.19,12.72,Standard
+ORD-00475,2025-05-08,C1034,Vikram Nair,Home Office,South,Bengaluru,Furniture,Bookcase,139.67,2,0,279.34,-5.0,Same Day
+ORD-00585,2025-05-08,C1044,Rahul Das,Consumer,North,Delhi,Office Supplies,Binder,8.03,5,0.05,38.14,10.86,Same Day
+ORD-01097,2025-05-08,C1044,Rahul Das,Consumer,East,Kolkata,Technology,Headphones,83.83,3,0.1,226.34,15.98,Standard
+ORD-00249,2025-05-09,C1006,Aarav Iyer,Consumer,East,Bhubaneswar,Office Supplies,Notebook,3.71,2,0.2,5.94,-0.05,Express
+ORD-00375,2025-05-09,C1058,Kavya Iyer,Consumer,West,Mumbai,Office Supplies,Stapler,14.28,1,0,14.28,3.47,Same Day
+ORD-00518,2025-05-09,C1039,Vikram Reddy,Home Office,South,Hyderabad,Office Supplies,Notebook,4.32,7,0.1,27.22,7.77,Express
+ORD-00967,2025-05-09,C1026,Amit Singh,Home Office,North,Delhi,Office Supplies,Printer Paper,27.28,5,0,136.4,26.21,Same Day
+ORD-01064,2025-05-09,C1014,Sanjay Iyer,Consumer,North,Chandigarh,Office Supplies,Notebook,4.27,6,0.1,23.06,5.27,Same Day
+ORD-00423,2025-05-10,C1022,Neha Nair,Home Office,North,Delhi,Office Supplies,Printer Paper,24.35,2,0,48.7,9.18,Standard
+ORD-00549,2025-05-10,C1046,Sanjay Sharma,Home Office,East,Bhubaneswar,Office Supplies,Pen Set,12.18,5,0.1,54.81,16.7,Standard
+ORD-00560,2025-05-10,C1046,Sanjay Sharma,Home Office,East,Bhubaneswar,Technology,Laptop,988.69,3,0.2,2372.86,-353.47,Standard
+ORD-00311,2025-05-11,C1022,Neha Nair,Home Office,East,Bhubaneswar,Technology,Laptop,849.42,2,0.1,1528.96,365.66,Express
+ORD-00491,2025-05-11,C1045,Divya Joshi,Consumer,West,Nashik,Technology,Webcam,60.8,2,0,121.6,20.52,Express
+ORD-00627,2025-05-11,C1003,Rohan Gupta,Corporate,West,Mumbai,Technology,Headphones,78.2,2,0,156.4,13.65,Same Day
+ORD-01099,2025-05-11,C1039,Vikram Reddy,Home Office,South,Bengaluru,Technology,Smartphone,652.58,3,0,1957.74,214.26,Standard
+ORD-00114,2025-05-12,C1038,Rohan Sharma,Consumer,West,Pune,Technology,Headphones,78.88,1,0,78.88,9.2,Same Day
+ORD-00646,2025-05-12,C1037,Vikram Iyer,Corporate,West,Pune,Furniture,Standing Desk,444.3,2,0,888.6,22.53,Express
+ORD-00891,2025-05-13,C1011,Sneha Patil,Corporate,North,Chandigarh,Office Supplies,Printer Paper,22.79,3,0,68.37,14.81,Standard
+ORD-01162,2025-05-13,C1028,Meera Sharma,Corporate,South,Bengaluru,Technology,Monitor,238.68,3,0,716.04,138.4,Standard
+ORD-00802,2025-05-15,C1048,Sneha Singh,Home Office,West,Nashik,Technology,Webcam,60.46,3,0,181.38,43.26,Same Day
+ORD-00362,2025-05-16,C1022,Neha Nair,Home Office,South,Bengaluru,Office Supplies,Stapler,14.17,1,0,14.17,5.34,Standard
+ORD-00985,2025-05-18,C1010,Vikram Nair,Corporate,North,Delhi,Technology,Monitor,225.09,2,0,450.18,37.67,Standard
+ORD-00456,2025-05-19,C1039,Vikram Reddy,Home Office,North,Lucknow,Office Supplies,Stapler,14.45,6,0.1,78.03,28.06,Same Day
+ORD-00793,2025-05-19,C1032,Kavya Joshi,Home Office,West,Mumbai,Technology,Monitor,215.91,2,0.1,388.64,60.95,Express
+ORD-00369,2025-05-20,C1009,Pooja Das,Corporate,North,Lucknow,Technology,Webcam,61.73,1,0,61.73,9.34,Express
+ORD-00482,2025-05-20,C1013,Rahul Sharma,Home Office,East,Bhubaneswar,Furniture,Filing Cabinet,124.73,2,0.05,236.99,-3.24,Standard
+ORD-00911,2025-05-21,C1018,Meera Singh,Consumer,West,Mumbai,Office Supplies,Pen Set,11.31,3,0.2,27.14,2.08,Standard
+ORD-00990,2025-05-21,C1027,Meera Das,Consumer,West,Nashik,Office Supplies,Binder,8.48,6,0,50.88,15.81,Standard
+ORD-00239,2025-05-22,C1038,Rohan Sharma,Consumer,South,Chennai,Technology,Monitor,212.62,1,0.05,201.99,37.17,Express
+ORD-00378,2025-05-22,C1055,Rohan Patil,Home Office,South,Bengaluru,Office Supplies,Pen Set,13.13,4,0,52.52,9.98,Standard
+ORD-00825,2025-05-22,C1014,Sanjay Iyer,Consumer,North,Lucknow,Technology,Smartphone,612.71,2,0.1,1102.88,172.21,Express
+ORD-01047,2025-05-22,C1027,Meera Das,Consumer,West,Mumbai,Technology,Smartphone,621.54,3,0.2,1491.7,-166.23,Same Day
+ORD-00623,2025-05-24,C1011,Sneha Patil,Corporate,South,Hyderabad,Office Supplies,Notebook,3.77,6,0,22.62,5.21,Same Day
+ORD-01027,2025-05-26,C1041,Amit Joshi,Home Office,West,Pune,Furniture,Bookcase,150.7,3,0.05,429.49,57.13,Standard
+ORD-00117,2025-05-27,C1035,Rahul Gupta,Corporate,East,Kolkata,Furniture,Office Chair,178.55,2,0,357.1,-1.58,Express
+ORD-00537,2025-05-27,C1007,Pooja Nair,Corporate,South,Hyderabad,Office Supplies,Binder,7.86,3,0.05,22.4,6.05,Standard
+ORD-00706,2025-05-27,C1059,Rahul Iyer,Home Office,North,Lucknow,Office Supplies,Binder,8.62,5,0.05,40.94,9.32,Standard
+ORD-01005,2025-05-27,C1012,Sneha Das,Corporate,East,Bhubaneswar,Office Supplies,Printer Paper,24.54,2,0,49.08,16.11,Standard
+ORD-00126,2025-05-28,C1009,Pooja Das,Corporate,North,Chandigarh,Technology,Monitor,220.2,3,0,660.6,62.43,Standard
+ORD-00584,2025-05-28,C1017,Karan Patil,Consumer,West,Nashik,Office Supplies,Notebook,3.99,1,0.1,3.59,0.91,Same Day
+ORD-00953,2025-05-28,C1046,Sanjay Sharma,Home Office,West,Mumbai,Technology,Laptop,838.0,1,0,838.0,134.08,Same Day
+ORD-00139,2025-05-29,C1023,Rahul Patil,Home Office,South,Chennai,Office Supplies,Pen Set,11.56,4,0,46.24,9.24,Same Day
+ORD-00293,2025-05-29,C1043,Aarav Patil,Home Office,North,Delhi,Technology,Headphones,73.1,1,0.05,69.44,10.63,Express
+ORD-00333,2025-05-29,C1036,Amit Das,Consumer,South,Bengaluru,Office Supplies,Stapler,16.42,3,0,49.26,16.83,Standard
+ORD-01006,2025-05-29,C1051,Aarav Gupta,Corporate,South,Bengaluru,Office Supplies,Stapler,16.11,8,0.1,115.99,21.75,Standard
+ORD-00686,2025-05-31,C1016,Divya Gupta,Corporate,East,Guwahati,Office Supplies,Notebook,3.91,7,0,27.37,6.65,Express
+ORD-00493,2025-06-02,C1024,Anjali Iyer,Home Office,South,Bengaluru,Office Supplies,Pen Set,12.53,4,0,50.12,15.62,Same Day
+ORD-00622,2025-06-03,C1014,Sanjay Iyer,Consumer,West,Nashik,Office Supplies,Pen Set,11.07,1,0,11.07,2.32,Express
+ORD-00651,2025-06-03,C1021,Neha Reddy,Corporate,East,Bhubaneswar,Office Supplies,Binder,8.37,3,0.1,22.6,8.24,Express
+ORD-00023,2025-06-05,C1025,Meera Reddy,Corporate,East,Kolkata,Technology,Monitor,240.35,1,0.1,216.31,24.46,Standard
+ORD-00683,2025-06-07,C1017,Karan Patil,Consumer,South,Chennai,Technology,Monitor,208.16,2,0.05,395.5,98.27,Standard
+ORD-01050,2025-06-07,C1016,Divya Gupta,Corporate,West,Pune,Office Supplies,Binder,7.25,6,0.05,41.32,8.92,Express
+ORD-01045,2025-06-08,C1048,Sneha Singh,Home Office,South,Bengaluru,Office Supplies,Notebook,3.86,4,0,15.44,3.46,Same Day
+ORD-00138,2025-06-09,C1009,Pooja Das,Corporate,West,Mumbai,Office Supplies,Printer Paper,27.15,8,0,217.2,57.12,Express
+ORD-01068,2025-06-09,C1012,Sneha Das,Corporate,West,Mumbai,Technology,Keyboard,43.26,1,0.2,34.61,-0.55,Same Day
+ORD-00404,2025-06-10,C1051,Aarav Gupta,Corporate,West,Pune,Technology,Webcam,60.17,1,0,60.17,15.02,Standard
+ORD-00564,2025-06-10,C1006,Aarav Iyer,Consumer,South,Hyderabad,Furniture,Bookcase,163.3,2,0,326.6,45.99,Same Day
+ORD-00665,2025-06-10,C1012,Sneha Das,Corporate,South,Bengaluru,Office Supplies,Printer Paper,26.63,6,0,159.78,50.65,Express
+ORD-01155,2025-06-11,C1055,Rohan Patil,Home Office,West,Pune,Furniture,Filing Cabinet,113.79,3,0.1,307.23,11.88,Express
+ORD-01098,2025-06-12,C1009,Pooja Das,Corporate,West,Mumbai,Technology,Webcam,57.61,3,0,172.83,21.12,Standard
+ORD-00424,2025-06-14,C1058,Kavya Iyer,Consumer,East,Bhubaneswar,Furniture,Filing Cabinet,131.53,1,0,131.53,5.89,Same Day
+ORD-00248,2025-06-15,C1035,Rahul Gupta,Corporate,South,Chennai,Furniture,Filing Cabinet,124.57,3,0.1,336.34,3.41,Standard
+ORD-01034,2025-06-15,C1052,Kavya Sharma,Consumer,East,Bhubaneswar,Technology,Headphones,80.89,2,0,161.78,22.37,Same Day
+ORD-00895,2025-06-16,C1048,Sneha Singh,Home Office,East,Bhubaneswar,Furniture,Bookcase,145.1,3,0.05,413.53,48.12,Express
+ORD-00425,2025-06-17,C1040,Pooja Gupta,Consumer,East,Guwahati,Technology,Headphones,78.03,3,0,234.09,31.77,Same Day
+ORD-00445,2025-06-17,C1018,Meera Singh,Consumer,North,Delhi,Office Supplies,Stapler,16.05,1,0,16.05,5.88,Same Day
+ORD-00486,2025-06-17,C1007,Pooja Nair,Corporate,East,Bhubaneswar,Office Supplies,Printer Paper,26.82,6,0,160.92,35.97,Standard
+ORD-01130,2025-06-17,C1014,Sanjay Iyer,Consumer,East,Guwahati,Office Supplies,Notebook,4.25,6,0.2,20.4,-0.85,Standard
+ORD-01197,2025-06-20,C1045,Divya Joshi,Consumer,West,Mumbai,Furniture,Standing Desk,383.63,1,0.05,364.45,63.92,Express
+ORD-00199,2025-06-22,C1028,Meera Sharma,Corporate,East,Kolkata,Office Supplies,Notebook,4.32,1,0.1,3.89,0.86,Same Day
+ORD-00668,2025-06-22,C1054,Priya Nair,Home Office,North,Chandigarh,Furniture,Office Chair,195.24,1,0,195.24,14.82,Express
+ORD-00834,2025-06-22,C1044,Rahul Das,Consumer,West,Nashik,Office Supplies,Stapler,14.7,5,0.1,66.15,24.09,Same Day
+ORD-00131,2025-06-23,C1005,Karan Nair,Home Office,West,Nashik,Furniture,Bookcase,163.54,2,0,327.08,15.81,Express
+ORD-00742,2025-06-23,C1040,Pooja Gupta,Consumer,North,Chandigarh,Furniture,Office Chair,167.35,2,0,334.7,1.86,Express
+ORD-00770,2025-06-24,C1039,Vikram Reddy,Home Office,South,Hyderabad,Furniture,Standing Desk,444.22,3,0.1,1199.39,132.42,Same Day
+ORD-01113,2025-06-25,C1051,Aarav Gupta,Corporate,South,Bengaluru,Office Supplies,Notebook,4.25,4,0,17.0,6.1,Express
+ORD-00156,2025-06-26,C1023,Rahul Patil,Home Office,West,Pune,Office Supplies,Printer Paper,26.18,2,0,52.36,14.65,Express
+ORD-00923,2025-06-26,C1031,Arjun Nair,Home Office,North,Lucknow,Office Supplies,Binder,8.75,2,0,17.5,6.29,Standard
+ORD-00033,2025-06-27,C1035,Rahul Gupta,Corporate,East,Bhubaneswar,Office Supplies,Binder,7.91,7,0.1,49.83,10.56,Express
+ORD-00089,2025-06-27,C1032,Kavya Joshi,Home Office,East,Kolkata,Technology,Keyboard,48.33,2,0.2,77.33,-2.25,Express
+ORD-00112,2025-06-27,C1013,Rahul Sharma,Home Office,West,Pune,Furniture,Standing Desk,438.61,2,0,877.22,118.75,Same Day
+ORD-01070,2025-06-27,C1028,Meera Sharma,Corporate,East,Bhubaneswar,Technology,Headphones,78.9,1,0,78.9,7.11,Same Day
+ORD-00572,2025-06-29,C1029,Amit Singh,Consumer,West,Nashik,Furniture,Standing Desk,459.81,3,0,1379.43,78.3,Express
+ORD-00809,2025-06-29,C1039,Vikram Reddy,Home Office,East,Guwahati,Office Supplies,Stapler,15.42,1,0.05,14.65,5.4,Standard
+ORD-01186,2025-06-30,C1032,Kavya Joshi,Home Office,South,Chennai,Technology,Keyboard,49.06,3,0.05,139.82,29.72,Same Day
+ORD-00608,2025-07-01,C1054,Priya Nair,Home Office,East,Kolkata,Office Supplies,Pen Set,12.13,4,0,48.52,18.12,Same Day
+ORD-00332,2025-07-02,C1043,Aarav Patil,Home Office,West,Nashik,Office Supplies,Stapler,14.68,5,0,73.4,25.75,Standard
+ORD-01022,2025-07-02,C1044,Rahul Das,Consumer,South,Hyderabad,Furniture,Filing Cabinet,126.79,1,0.1,114.11,11.35,Standard
+ORD-00850,2025-07-03,C1026,Amit Singh,Home Office,West,Nashik,Technology,Smartphone,625.27,1,0,625.27,139.8,Same Day
+ORD-00405,2025-07-04,C1034,Vikram Nair,Home Office,North,Lucknow,Technology,Webcam,64.38,3,0,193.14,27.97,Standard
+ORD-00038,2025-07-05,C1047,Rahul Iyer,Consumer,South,Chennai,Technology,Keyboard,44.0,2,0,88.0,17.05,Express
+ORD-00419,2025-07-05,C1012,Sneha Das,Corporate,East,Guwahati,Office Supplies,Notebook,4.28,2,0,8.56,2.62,Same Day
+ORD-00099,2025-07-07,C1016,Divya Gupta,Corporate,South,Bengaluru,Office Supplies,Notebook,3.89,3,0,11.67,3.94,Same Day
+ORD-00458,2025-07-07,C1002,Vikram Patil,Home Office,East,Bhubaneswar,Office Supplies,Printer Paper,25.99,8,0,207.92,56.56,Same Day
+ORD-01143,2025-07-07,C1045,Divya Joshi,Consumer,North,Lucknow,Technology,Laptop,889.89,1,0.1,800.9,129.91,Standard
+ORD-00079,2025-07-08,C1002,Vikram Patil,Home Office,North,Delhi,Office Supplies,Pen Set,11.02,4,0.2,35.26,4.43,Same Day
+ORD-00296,2025-07-08,C1022,Neha Nair,Home Office,North,Chandigarh,Technology,Webcam,62.73,2,0.2,100.37,-16.98,Same Day
+ORD-00009,2025-07-09,C1003,Rohan Gupta,Corporate,East,Kolkata,Technology,Keyboard,41.92,3,0.1,113.18,28.54,Standard
+ORD-00262,2025-07-09,C1052,Kavya Sharma,Consumer,North,Lucknow,Furniture,Standing Desk,439.82,2,0,879.64,97.41,Standard
+ORD-00315,2025-07-09,C1019,Meera Patil,Corporate,South,Chennai,Technology,Laptop,849.39,1,0.1,764.45,126.36,Standard
+ORD-00637,2025-07-09,C1036,Amit Das,Consumer,South,Hyderabad,Technology,Monitor,220.65,3,0,661.95,160.19,Express
+ORD-00841,2025-07-10,C1058,Kavya Iyer,Consumer,East,Kolkata,Office Supplies,Pen Set,13.07,6,0.05,74.5,25.66,Same Day
+ORD-00018,2025-07-12,C1002,Vikram Patil,Home Office,East,Guwahati,Office Supplies,Stapler,14.42,3,0,43.26,15.56,Standard
+ORD-01080,2025-07-12,C1016,Divya Gupta,Corporate,West,Pune,Furniture,Office Chair,187.57,2,0,375.14,59.38,Same Day
+ORD-01191,2025-07-12,C1031,Arjun Nair,Home Office,East,Guwahati,Technology,Keyboard,45.13,3,0.05,128.62,29.81,Same Day
+ORD-01101,2025-07-13,C1016,Divya Gupta,Corporate,West,Nashik,Office Supplies,Stapler,13.56,3,0.2,32.54,-1.36,Same Day
+ORD-00271,2025-07-14,C1036,Amit Das,Consumer,South,Hyderabad,Office Supplies,Pen Set,11.04,1,0,11.04,3.72,Express
+ORD-01194,2025-07-14,C1026,Amit Singh,Home Office,West,Mumbai,Technology,Keyboard,48.8,2,0.2,78.08,-4.27,Same Day
+ORD-00913,2025-07-15,C1025,Meera Reddy,Corporate,East,Bhubaneswar,Office Supplies,Pen Set,10.97,7,0.05,72.95,23.73,Express
+ORD-00175,2025-07-17,C1017,Karan Patil,Consumer,North,Delhi,Office Supplies,Stapler,15.17,6,0,91.02,23.04,Standard
+ORD-00379,2025-07-17,C1041,Amit Joshi,Home Office,West,Pune,Office Supplies,Notebook,4.24,8,0.05,32.22,8.69,Express
+ORD-00929,2025-07-17,C1016,Divya Gupta,Corporate,East,Bhubaneswar,Office Supplies,Printer Paper,22.92,7,0.05,152.42,35.18,Express
+ORD-00966,2025-07-17,C1045,Divya Joshi,Consumer,East,Guwahati,Office Supplies,Pen Set,12.52,8,0.2,80.13,8.99,Standard
+ORD-00935,2025-07-18,C1017,Karan Patil,Consumer,North,Delhi,Technology,Keyboard,47.75,1,0,47.75,9.34,Same Day
+ORD-00936,2025-07-18,C1038,Rohan Sharma,Consumer,West,Pune,Office Supplies,Pen Set,12.03,1,0.2,9.62,-0.37,Standard
+ORD-00015,2025-07-20,C1009,Pooja Das,Corporate,East,Bhubaneswar,Office Supplies,Pen Set,12.32,4,0.2,39.42,-0.68,Express
+ORD-00027,2025-07-21,C1008,Rahul Sharma,Consumer,South,Chennai,Office Supplies,Stapler,15.21,3,0.1,41.07,10.73,Standard
+ORD-00145,2025-07-21,C1001,Rahul Nair,Consumer,West,Pune,Technology,Keyboard,47.23,2,0,94.46,12.41,Standard
+ORD-00999,2025-07-21,C1045,Divya Joshi,Consumer,East,Guwahati,Office Supplies,Printer Paper,23.86,7,0,167.02,33.13,Express
+ORD-01092,2025-07-21,C1012,Sneha Das,Corporate,East,Bhubaneswar,Technology,Headphones,80.73,3,0.05,230.08,31.11,Express
+ORD-01154,2025-07-21,C1045,Divya Joshi,Consumer,West,Nashik,Technology,Laptop,934.21,2,0,1868.42,482.03,Standard
+ORD-00524,2025-07-22,C1017,Karan Patil,Consumer,South,Bengaluru,Furniture,Filing Cabinet,110.11,3,0,330.33,18.64,Same Day
+ORD-00556,2025-07-22,C1034,Vikram Nair,Home Office,North,Delhi,Office Supplies,Pen Set,13.13,6,0,78.78,18.6,Standard
+ORD-00730,2025-07-23,C1054,Priya Nair,Home Office,West,Mumbai,Technology,Laptop,816.46,1,0,816.46,91.48,Same Day
+ORD-01058,2025-07-23,C1049,Karan Reddy,Corporate,East,Bhubaneswar,Office Supplies,Stapler,16.45,5,0.2,65.8,1.89,Same Day
+ORD-00353,2025-07-25,C1011,Sneha Patil,Corporate,East,Kolkata,Furniture,Bookcase,157.89,3,0.1,426.3,7.08,Same Day
+ORD-00500,2025-07-25,C1047,Rahul Iyer,Consumer,West,Nashik,Technology,Webcam,62.09,3,0,186.27,37.35,Express
+ORD-00237,2025-07-26,C1057,Vikram Reddy,Home Office,South,Hyderabad,Office Supplies,Stapler,14.31,3,0,42.93,10.03,Standard
+ORD-00441,2025-07-26,C1035,Rahul Gupta,Corporate,West,Pune,Office Supplies,Binder,7.84,6,0.2,37.63,-1.59,Same Day
+ORD-00727,2025-07-26,C1002,Vikram Patil,Home Office,South,Chennai,Technology,Keyboard,41.69,2,0.05,79.21,9.78,Same Day
+ORD-00349,2025-07-28,C1041,Amit Joshi,Home Office,East,Bhubaneswar,Office Supplies,Stapler,16.47,2,0,32.94,10.15,Express
+ORD-00639,2025-07-28,C1045,Divya Joshi,Consumer,South,Bengaluru,Office Supplies,Printer Paper,24.89,2,0.2,39.82,4.69,Same Day
+ORD-00157,2025-07-29,C1007,Pooja Nair,Corporate,East,Bhubaneswar,Office Supplies,Printer Paper,27.08,5,0.2,108.32,3.06,Standard
+ORD-00394,2025-07-29,C1055,Rohan Patil,Home Office,South,Hyderabad,Office Supplies,Stapler,15.85,4,0.1,57.06,19.39,Express
+ORD-00866,2025-07-29,C1040,Pooja Gupta,Consumer,South,Hyderabad,Technology,Headphones,73.93,2,0.05,140.47,14.43,Express
+ORD-01004,2025-08-01,C1002,Vikram Patil,Home Office,West,Mumbai,Technology,Laptop,986.5,2,0,1973.0,414.99,Express
+ORD-00568,2025-08-04,C1008,Rahul Sharma,Consumer,North,Lucknow,Furniture,Filing Cabinet,123.47,2,0.2,197.55,-23.05,Express
+ORD-00693,2025-08-04,C1032,Kavya Joshi,Home Office,West,Pune,Technology,Keyboard,49.37,3,0,148.11,20.08,Express
+ORD-00374,2025-08-05,C1043,Aarav Patil,Home Office,West,Mumbai,Office Supplies,Pen Set,12.91,1,0.2,10.33,0.78,Standard
+ORD-01116,2025-08-05,C1005,Karan Nair,Home Office,South,Hyderabad,Technology,Laptop,819.27,2,0,1638.54,275.45,Standard
+ORD-00787,2025-08-06,C1033,Sanjay Reddy,Corporate,South,Chennai,Office Supplies,Notebook,4.35,2,0.2,6.96,-0.24,Standard
+ORD-01015,2025-08-06,C1025,Meera Reddy,Corporate,North,Delhi,Furniture,Filing Cabinet,116.37,3,0,349.11,25.73,Same Day
+ORD-00144,2025-08-07,C1026,Amit Singh,Home Office,South,Hyderabad,Office Supplies,Binder,8.73,6,0,52.38,15.13,Same Day
+ORD-01115,2025-08-07,C1052,Kavya Sharma,Consumer,West,Nashik,Furniture,Standing Desk,413.91,1,0.05,393.21,21.71,Standard
+ORD-00075,2025-08-08,C1024,Anjali Iyer,Home Office,South,Chennai,Technology,Webcam,64.96,2,0.2,103.94,-11.82,Same Day
+ORD-00786,2025-08-08,C1040,Pooja Gupta,Consumer,East,Guwahati,Office Supplies,Binder,8.73,2,0,17.46,5.03,Standard
+ORD-00836,2025-08-08,C1010,Vikram Nair,Corporate,East,Bhubaneswar,Office Supplies,Printer Paper,24.72,2,0,49.44,12.38,Same Day
+ORD-00901,2025-08-08,C1050,Anjali Iyer,Home Office,North,Delhi,Furniture,Office Chair,197.87,2,0.2,316.59,-22.97,Express
+ORD-00196,2025-08-09,C1000,Sneha Sharma,Home Office,East,Guwahati,Furniture,Standing Desk,387.93,1,0.2,310.34,-64.75,Express
+ORD-00921,2025-08-09,C1036,Amit Das,Consumer,West,Pune,Office Supplies,Notebook,3.99,3,0.05,11.37,3.51,Express
+ORD-00574,2025-08-10,C1053,Neha Singh,Consumer,West,Mumbai,Office Supplies,Stapler,13.79,6,0.1,74.47,20.04,Express
+ORD-00085,2025-08-11,C1018,Meera Singh,Consumer,East,Kolkata,Office Supplies,Stapler,15.2,5,0,76.0,24.1,Same Day
+ORD-00118,2025-08-12,C1027,Meera Das,Consumer,West,Nashik,Office Supplies,Pen Set,10.85,2,0.05,20.61,5.05,Same Day
+ORD-00616,2025-08-12,C1034,Vikram Nair,Home Office,South,Chennai,Office Supplies,Printer Paper,23.37,1,0.1,21.03,4.05,Express
+ORD-01108,2025-08-12,C1045,Divya Joshi,Consumer,East,Kolkata,Office Supplies,Binder,8.19,6,0.1,44.23,11.53,Standard
+ORD-00057,2025-08-13,C1040,Pooja Gupta,Consumer,North,Delhi,Technology,Headphones,87.9,2,0,175.8,14.71,Express
+ORD-00907,2025-08-13,C1047,Rahul Iyer,Consumer,North,Chandigarh,Technology,Headphones,87.68,1,0.05,83.3,10.32,Express
+ORD-01185,2025-08-13,C1030,Karan Gupta,Home Office,West,Pune,Furniture,Standing Desk,401.4,2,0.1,722.52,26.65,Same Day
+ORD-00254,2025-08-14,C1006,Aarav Iyer,Consumer,South,Chennai,Furniture,Filing Cabinet,124.1,1,0,124.1,9.67,Same Day
+ORD-00545,2025-08-14,C1053,Neha Singh,Consumer,East,Bhubaneswar,Office Supplies,Notebook,4.39,2,0.05,8.34,1.77,Express
+ORD-00992,2025-08-14,C1049,Karan Reddy,Corporate,South,Hyderabad,Technology,Monitor,241.73,1,0,241.73,15.33,Same Day
+ORD-00420,2025-08-15,C1025,Meera Reddy,Corporate,South,Bengaluru,Office Supplies,Binder,8.44,8,0.2,54.02,0.17,Standard
+ORD-00697,2025-08-15,C1006,Aarav Iyer,Consumer,East,Bhubaneswar,Technology,Headphones,75.36,2,0.05,143.18,31.38,Same Day
+ORD-00824,2025-08-15,C1036,Amit Das,Consumer,East,Guwahati,Technology,Monitor,217.99,1,0,217.99,47.49,Standard
+ORD-00052,2025-08-18,C1023,Rahul Patil,Home Office,West,Nashik,Office Supplies,Stapler,15.61,6,0,93.66,21.93,Express
+ORD-00488,2025-08-18,C1050,Anjali Iyer,Home Office,West,Nashik,Office Supplies,Pen Set,11.18,2,0,22.36,4.43,Same Day
+ORD-00682,2025-08-18,C1037,Vikram Iyer,Corporate,East,Guwahati,Office Supplies,Pen Set,12.25,8,0.2,78.4,0.85,Express
+ORD-00391,2025-08-19,C1036,Amit Das,Consumer,West,Nashik,Office Supplies,Binder,8.49,5,0.05,40.33,11.48,Standard
+ORD-00578,2025-08-19,C1000,Sneha Sharma,Home Office,West,Mumbai,Office Supplies,Notebook,4.37,6,0.1,23.6,4.25,Same Day
+ORD-00179,2025-08-20,C1019,Meera Patil,Corporate,North,Lucknow,Furniture,Standing Desk,427.02,3,0,1281.06,18.07,Same Day
+ORD-01171,2025-08-20,C1015,Amit Patil,Home Office,East,Bhubaneswar,Office Supplies,Printer Paper,26.88,5,0,134.4,42.15,Express
+ORD-00219,2025-08-21,C1037,Vikram Iyer,Corporate,West,Pune,Technology,Monitor,223.07,1,0.05,211.92,23.13,Same Day
+ORD-00066,2025-08-22,C1027,Meera Das,Consumer,West,Mumbai,Furniture,Filing Cabinet,124.08,2,0,248.16,37.61,Express
+ORD-00409,2025-08-22,C1002,Vikram Patil,Home Office,North,Chandigarh,Office Supplies,Notebook,3.84,5,0.2,15.36,-0.81,Express
+ORD-00306,2025-08-23,C1016,Divya Gupta,Corporate,North,Delhi,Office Supplies,Printer Paper,22.96,8,0,183.68,64.19,Express
+ORD-00230,2025-08-24,C1009,Pooja Das,Corporate,West,Mumbai,Technology,Headphones,85.35,1,0.1,76.81,10.59,Same Day
+ORD-00469,2025-08-24,C1033,Sanjay Reddy,Corporate,West,Pune,Technology,Laptop,852.23,1,0.2,681.78,-95.22,Same Day
+ORD-01048,2025-08-24,C1019,Meera Patil,Corporate,South,Bengaluru,Office Supplies,Stapler,14.77,7,0.05,98.22,32.36,Express
+ORD-00264,2025-08-25,C1044,Rahul Das,Consumer,East,Guwahati,Office Supplies,Stapler,13.92,3,0.1,37.58,8.32,Standard
+ORD-00543,2025-08-25,C1042,Sanjay Iyer,Corporate,West,Pune,Furniture,Office Chair,162.24,3,0.1,438.05,68.53,Express
+ORD-00778,2025-08-25,C1035,Rahul Gupta,Corporate,West,Pune,Office Supplies,Stapler,16.29,8,0.2,104.26,2.91,Express
+ORD-01103,2025-08-25,C1031,Arjun Nair,Home Office,East,Guwahati,Technology,Keyboard,44.68,3,0,134.04,29.85,Standard
+ORD-00054,2025-08-26,C1048,Sneha Singh,Home Office,East,Kolkata,Office Supplies,Pen Set,11.23,4,0,44.92,8.21,Same Day
+ORD-00279,2025-08-26,C1046,Sanjay Sharma,Home Office,West,Pune,Office Supplies,Pen Set,11.46,3,0,34.38,6.77,Same Day
+ORD-00421,2025-08-26,C1046,Sanjay Sharma,Home Office,East,Kolkata,Furniture,Office Chair,180.08,2,0,360.16,40.53,Same Day
+ORD-00789,2025-08-26,C1002,Vikram Patil,Home Office,West,Mumbai,Furniture,Standing Desk,450.21,2,0,900.42,39.15,Express
+ORD-00963,2025-08-26,C1033,Sanjay Reddy,Corporate,East,Kolkata,Office Supplies,Printer Paper,26.94,7,0,188.58,38.87,Same Day
+ORD-00433,2025-08-27,C1004,Priya Sharma,Consumer,South,Chennai,Furniture,Office Chair,180.82,1,0,180.82,29.27,Same Day
+ORD-01134,2025-08-28,C1013,Rahul Sharma,Home Office,North,Chandigarh,Office Supplies,Binder,8.45,7,0.05,56.19,20.55,Standard
+ORD-01146,2025-08-28,C1001,Rahul Nair,Consumer,North,Lucknow,Technology,Monitor,232.36,3,0.2,557.66,-49.28,Same Day
+ORD-00299,2025-08-29,C1036,Amit Das,Consumer,North,Chandigarh,Office Supplies,Printer Paper,23.8,4,0,95.2,23.13,Express
+ORD-00115,2025-08-30,C1031,Arjun Nair,Home Office,East,Kolkata,Technology,Headphones,75.27,1,0,75.27,18.75,Standard
+ORD-00178,2025-08-30,C1021,Neha Reddy,Corporate,West,Nashik,Office Supplies,Stapler,14.49,1,0,14.49,2.93,Express
+ORD-00918,2025-08-30,C1027,Meera Das,Consumer,South,Hyderabad,Office Supplies,Printer Paper,23.7,1,0,23.7,6.58,Same Day
+ORD-00246,2025-08-31,C1040,Pooja Gupta,Consumer,North,Delhi,Office Supplies,Pen Set,12.27,3,0.2,29.45,1.26,Same Day
+ORD-00364,2025-08-31,C1003,Rohan Gupta,Corporate,North,Lucknow,Office Supplies,Notebook,3.96,2,0.05,7.52,1.54,Express
+ORD-00615,2025-09-01,C1051,Aarav Gupta,Corporate,South,Bengaluru,Office Supplies,Stapler,15.54,6,0.2,74.59,-0.38,Same Day
+ORD-00024,2025-09-02,C1027,Meera Das,Consumer,East,Guwahati,Office Supplies,Stapler,16.2,2,0.05,30.78,6.71,Standard
+ORD-00113,2025-09-02,C1005,Karan Nair,Home Office,North,Delhi,Technology,Headphones,73.31,1,0.2,58.65,-5.95,Express
+ORD-00530,2025-09-02,C1014,Sanjay Iyer,Consumer,South,Hyderabad,Technology,Laptop,834.14,3,0.05,2377.3,544.94,Express
+ORD-00919,2025-09-02,C1011,Sneha Patil,Corporate,West,Nashik,Office Supplies,Notebook,3.91,8,0.2,25.02,1.41,Express
+ORD-01081,2025-09-02,C1030,Karan Gupta,Home Office,North,Chandigarh,Office Supplies,Notebook,4.29,3,0.05,12.23,3.81,Standard
+ORD-00143,2025-09-03,C1034,Vikram Nair,Home Office,North,Lucknow,Office Supplies,Printer Paper,24.65,3,0,73.95,22.4,Standard
+ORD-00477,2025-09-03,C1014,Sanjay Iyer,Consumer,North,Lucknow,Furniture,Filing Cabinet,117.47,3,0.05,334.79,4.24,Same Day
+ORD-00924,2025-09-05,C1044,Rahul Das,Consumer,South,Bengaluru,Office Supplies,Pen Set,11.11,2,0,22.22,4.92,Standard
+ORD-00981,2025-09-06,C1000,Sneha Sharma,Home Office,North,Delhi,Office Supplies,Pen Set,11.13,2,0,22.26,7.39,Express
+ORD-00280,2025-09-07,C1038,Rohan Sharma,Consumer,East,Guwahati,Technology,Webcam,60.21,2,0,120.42,19.5,Same Day
+ORD-00905,2025-09-07,C1004,Priya Sharma,Consumer,East,Bhubaneswar,Office Supplies,Stapler,14.17,7,0,99.19,20.15,Standard
+ORD-00964,2025-09-08,C1007,Pooja Nair,Corporate,North,Lucknow,Office Supplies,Printer Paper,24.73,4,0.2,79.14,-3.98,Same Day
+ORD-00571,2025-09-10,C1036,Amit Das,Consumer,South,Hyderabad,Technology,Webcam,60.67,1,0,60.67,4.5,Express
+ORD-01017,2025-09-10,C1031,Arjun Nair,Home Office,South,Hyderabad,Office Supplies,Notebook,3.63,5,0.05,17.24,3.64,Express
+ORD-00931,2025-09-11,C1010,Vikram Nair,Corporate,West,Mumbai,Furniture,Filing Cabinet,131.14,2,0,262.28,7.74,Express
+ORD-00058,2025-09-12,C1038,Rohan Sharma,Consumer,South,Hyderabad,Furniture,Filing Cabinet,131.76,2,0.1,237.17,9.74,Same Day
+ORD-00449,2025-09-12,C1012,Sneha Das,Corporate,West,Pune,Office Supplies,Pen Set,12.01,3,0.05,34.23,9.99,Same Day
+ORD-00881,2025-09-12,C1030,Karan Gupta,Home Office,North,Chandigarh,Technology,Keyboard,48.75,1,0,48.75,2.97,Same Day
+ORD-01127,2025-09-12,C1025,Meera Reddy,Corporate,West,Nashik,Technology,Laptop,978.91,1,0,978.91,99.04,Same Day
+ORD-01184,2025-09-12,C1054,Priya Nair,Home Office,East,Bhubaneswar,Furniture,Office Chair,178.52,2,0,357.04,-0.02,Same Day
+ORD-00861,2025-09-13,C1006,Aarav Iyer,Consumer,South,Chennai,Technology,Webcam,54.93,2,0,109.86,23.37,Same Day
+ORD-01138,2025-09-14,C1000,Sneha Sharma,Home Office,North,Chandigarh,Office Supplies,Pen Set,11.87,5,0,59.35,10.89,Standard
+ORD-00367,2025-09-15,C1012,Sneha Das,Corporate,East,Guwahati,Office Supplies,Pen Set,11.18,7,0,78.26,22.67,Standard
+ORD-00603,2025-09-16,C1025,Meera Reddy,Corporate,South,Hyderabad,Furniture,Standing Desk,396.34,3,0.05,1129.57,122.75,Express
+ORD-01140,2025-09-16,C1035,Rahul Gupta,Corporate,East,Kolkata,Furniture,Bookcase,161.07,2,0,322.14,1.75,Same Day
+ORD-00194,2025-09-17,C1054,Priya Nair,Home Office,West,Pune,Office Supplies,Notebook,3.68,7,0.2,20.61,2.6,Express
+ORD-00546,2025-09-17,C1042,Sanjay Iyer,Corporate,South,Chennai,Office Supplies,Pen Set,12.64,1,0,12.64,3.09,Express
+ORD-00014,2025-09-18,C1051,Aarav Gupta,Corporate,North,Lucknow,Office Supplies,Pen Set,11.43,2,0,22.86,8.18,Same Day
+ORD-00540,2025-09-18,C1010,Vikram Nair,Corporate,West,Nashik,Furniture,Standing Desk,451.19,2,0.1,812.14,123.88,Standard
+ORD-00754,2025-09-18,C1059,Rahul Iyer,Home Office,West,Mumbai,Office Supplies,Binder,8.12,1,0.05,7.71,2.24,Express
+ORD-00525,2025-09-19,C1055,Rohan Patil,Home Office,South,Chennai,Technology,Smartphone,703.27,2,0,1406.54,177.02,Same Day
+ORD-00674,2025-09-19,C1015,Amit Patil,Home Office,North,Delhi,Office Supplies,Notebook,3.75,4,0.2,12.0,-0.16,Same Day
+ORD-00854,2025-09-19,C1052,Kavya Sharma,Consumer,South,Chennai,Technology,Headphones,79.33,3,0.05,226.09,54.75,Standard
+ORD-00443,2025-09-20,C1044,Rahul Das,Consumer,North,Delhi,Furniture,Office Chair,178.98,1,0,178.98,17.91,Standard
+ORD-01044,2025-09-20,C1038,Rohan Sharma,Consumer,North,Delhi,Office Supplies,Pen Set,12.25,2,0,24.5,7.04,Same Day
+ORD-00125,2025-09-21,C1038,Rohan Sharma,Consumer,West,Pune,Office Supplies,Notebook,4.12,8,0.1,29.66,7.25,Express
+ORD-00550,2025-09-21,C1036,Amit Das,Consumer,West,Nashik,Office Supplies,Stapler,16.15,8,0,129.2,29.27,Express
+ORD-00833,2025-09-21,C1004,Priya Sharma,Consumer,South,Hyderabad,Furniture,Bookcase,148.93,2,0.1,268.07,11.89,Express
+ORD-00399,2025-09-22,C1053,Neha Singh,Consumer,East,Bhubaneswar,Office Supplies,Binder,8.45,6,0,50.7,12.35,Standard
+ORD-00947,2025-09-22,C1029,Amit Singh,Consumer,East,Bhubaneswar,Furniture,Office Chair,168.7,2,0.2,269.92,-53.74,Standard
+ORD-00309,2025-09-23,C1015,Amit Patil,Home Office,East,Bhubaneswar,Furniture,Filing Cabinet,114.71,1,0,114.71,0.85,Standard
+ORD-00515,2025-09-23,C1052,Kavya Sharma,Consumer,West,Nashik,Technology,Laptop,933.36,1,0,933.36,85.12,Same Day
+ORD-00533,2025-09-23,C1031,Arjun Nair,Home Office,East,Bhubaneswar,Office Supplies,Stapler,15.32,7,0,107.24,36.98,Same Day
+ORD-00167,2025-09-24,C1040,Pooja Gupta,Consumer,North,Chandigarh,Office Supplies,Binder,8.73,5,0.2,34.92,0.93,Same Day
+ORD-00965,2025-09-25,C1021,Neha Reddy,Corporate,East,Guwahati,Furniture,Standing Desk,390.91,3,0.2,938.18,-229.32,Express
+ORD-00082,2025-09-26,C1043,Aarav Patil,Home Office,South,Chennai,Office Supplies,Printer Paper,25.69,4,0.05,97.62,26.54,Same Day
+ORD-00180,2025-09-26,C1049,Karan Reddy,Corporate,West,Mumbai,Office Supplies,Printer Paper,27.24,1,0.1,24.52,4.95,Standard
+ORD-00544,2025-09-26,C1040,Pooja Gupta,Consumer,South,Bengaluru,Technology,Laptop,816.61,3,0,2449.83,565.34,Same Day
+ORD-00818,2025-09-26,C1006,Aarav Iyer,Consumer,East,Guwahati,Office Supplies,Notebook,3.86,8,0.1,27.79,6.07,Standard
+ORD-01013,2025-09-26,C1058,Kavya Iyer,Consumer,South,Chennai,Furniture,Bookcase,155.47,2,0,310.94,25.24,Express
+ORD-00820,2025-09-27,C1028,Meera Sharma,Corporate,South,Bengaluru,Technology,Laptop,866.1,1,0,866.1,127.46,Same Day
+ORD-00110,2025-09-28,C1039,Vikram Reddy,Home Office,North,Lucknow,Office Supplies,Pen Set,11.46,1,0,11.46,3.81,Express
+ORD-00685,2025-09-28,C1039,Vikram Reddy,Home Office,North,Delhi,Office Supplies,Binder,7.52,8,0.05,57.15,17.85,Express
+ORD-00366,2025-09-29,C1038,Rohan Sharma,Consumer,South,Chennai,Office Supplies,Notebook,3.69,2,0,7.38,1.49,Standard
+ORD-01049,2025-09-29,C1006,Aarav Iyer,Consumer,West,Pune,Technology,Monitor,234.05,2,0.2,374.48,-37.49,Standard
+ORD-00026,2025-09-30,C1020,Rahul Mehta,Home Office,North,Lucknow,Office Supplies,Binder,7.85,5,0.2,31.4,0.33,Express
+ORD-00336,2025-09-30,C1037,Vikram Iyer,Corporate,West,Mumbai,Furniture,Standing Desk,426.94,3,0.1,1152.74,199.39,Standard
+ORD-00123,2025-10-01,C1020,Rahul Mehta,Home Office,East,Kolkata,Furniture,Filing Cabinet,115.27,2,0.2,184.43,-39.66,Standard
+ORD-00589,2025-10-01,C1001,Rahul Nair,Consumer,East,Bhubaneswar,Technology,Headphones,76.03,1,0,76.03,13.93,Express
+ORD-00069,2025-10-02,C1028,Meera Sharma,Corporate,North,Delhi,Technology,Smartphone,699.51,2,0.05,1329.07,208.59,Standard
+ORD-00165,2025-10-02,C1019,Meera Patil,Corporate,North,Lucknow,Office Supplies,Binder,8.25,3,0,24.75,8.02,Same Day
+ORD-00813,2025-10-02,C1006,Aarav Iyer,Consumer,North,Chandigarh,Furniture,Office Chair,195.66,3,0.2,469.58,-47.85,Standard
+ORD-00815,2025-10-02,C1028,Meera Sharma,Corporate,North,Delhi,Office Supplies,Notebook,4.31,7,0,30.17,9.61,Standard
+ORD-00636,2025-10-04,C1004,Priya Sharma,Consumer,West,Nashik,Furniture,Office Chair,189.1,2,0.05,359.29,42.98,Same Day
+ORD-00957,2025-10-06,C1040,Pooja Gupta,Consumer,South,Bengaluru,Technology,Keyboard,49.41,1,0,49.41,12.15,Express
+ORD-00070,2025-10-07,C1038,Rohan Sharma,Consumer,South,Hyderabad,Technology,Headphones,78.53,1,0.1,70.68,7.42,Standard
+ORD-00741,2025-10-07,C1027,Meera Das,Consumer,North,Delhi,Office Supplies,Stapler,15.56,4,0.2,49.79,-1.94,Express
+ORD-01172,2025-10-07,C1025,Meera Reddy,Corporate,East,Guwahati,Furniture,Office Chair,196.67,1,0,196.67,31.34,Express
+ORD-00614,2025-10-09,C1003,Rohan Gupta,Corporate,East,Kolkata,Furniture,Standing Desk,446.7,3,0,1340.1,1.7,Express
+ORD-00798,2025-10-09,C1013,Rahul Sharma,Home Office,East,Kolkata,Technology,Headphones,76.81,3,0,230.43,32.04,Standard
+ORD-00794,2025-10-10,C1014,Sanjay Iyer,Consumer,North,Chandigarh,Office Supplies,Binder,8.42,2,0,16.84,5.23,Standard
+ORD-00509,2025-10-11,C1049,Karan Reddy,Corporate,West,Mumbai,Furniture,Office Chair,182.34,2,0.1,328.21,14.89,Same Day
+ORD-01168,2025-10-11,C1040,Pooja Gupta,Consumer,North,Delhi,Technology,Keyboard,42.26,1,0.2,33.81,-3.24,Express
+ORD-00863,2025-10-12,C1051,Aarav Gupta,Corporate,North,Chandigarh,Office Supplies,Stapler,13.51,1,0.1,12.16,4.07,Standard
+ORD-00939,2025-10-12,C1054,Priya Nair,Home Office,North,Chandigarh,Furniture,Bookcase,137.38,1,0.2,109.9,-13.63,Standard
+ORD-00431,2025-10-14,C1001,Rahul Nair,Consumer,East,Kolkata,Technology,Headphones,74.73,2,0.05,141.99,32.1,Same Day
+ORD-01063,2025-10-14,C1028,Meera Sharma,Corporate,North,Lucknow,Office Supplies,Binder,7.98,8,0.2,51.07,-0.71,Same Day
+ORD-01112,2025-10-14,C1036,Amit Das,Consumer,South,Bengaluru,Technology,Keyboard,42.53,3,0,127.59,26.59,Express
+ORD-00188,2025-10-15,C1014,Sanjay Iyer,Consumer,North,Delhi,Furniture,Filing Cabinet,126.5,1,0.2,101.2,-27.22,Same Day
+ORD-00084,2025-10-16,C1027,Meera Das,Consumer,East,Bhubaneswar,Office Supplies,Printer Paper,23.03,7,0.05,153.15,39.25,Express
+ORD-01083,2025-10-16,C1006,Aarav Iyer,Consumer,East,Guwahati,Office Supplies,Stapler,16.23,3,0,48.69,12.16,Express
+ORD-00605,2025-10-17,C1000,Sneha Sharma,Home Office,North,Lucknow,Furniture,Standing Desk,453.99,3,0,1361.97,129.29,Same Day
+ORD-00496,2025-10-19,C1053,Neha Singh,Consumer,West,Nashik,Furniture,Bookcase,141.62,1,0,141.62,17.5,Standard
+ORD-00040,2025-10-20,C1027,Meera Das,Consumer,South,Chennai,Technology,Monitor,207.31,2,0,414.62,51.98,Express
+ORD-00310,2025-10-20,C1056,Kavya Patil,Home Office,South,Hyderabad,Office Supplies,Binder,8.45,1,0.05,8.03,2.02,Same Day
+ORD-00839,2025-10-21,C1005,Karan Nair,Home Office,East,Kolkata,Technology,Laptop,908.28,2,0,1816.56,230.25,Same Day
+ORD-00874,2025-10-21,C1050,Anjali Iyer,Home Office,North,Lucknow,Office Supplies,Stapler,14.19,5,0,70.95,23.17,Express
+ORD-01035,2025-10-21,C1025,Meera Reddy,Corporate,North,Lucknow,Furniture,Filing Cabinet,117.67,3,0,353.01,15.4,Standard
+ORD-00258,2025-10-22,C1059,Rahul Iyer,Home Office,South,Hyderabad,Technology,Monitor,211.84,1,0,211.84,31.82,Standard
+ORD-00710,2025-10-22,C1057,Vikram Reddy,Home Office,North,Lucknow,Office Supplies,Notebook,4.04,4,0,16.16,3.91,Same Day
+ORD-00478,2025-10-23,C1024,Anjali Iyer,Home Office,West,Mumbai,Technology,Keyboard,45.15,3,0,135.45,29.8,Same Day
+ORD-00702,2025-10-23,C1010,Vikram Nair,Corporate,East,Guwahati,Office Supplies,Stapler,13.95,4,0,55.8,10.35,Express
+ORD-00346,2025-10-24,C1014,Sanjay Iyer,Consumer,South,Chennai,Office Supplies,Binder,7.21,1,0.2,5.77,0.65,Same Day
+ORD-00719,2025-10-24,C1039,Vikram Reddy,Home Office,South,Bengaluru,Office Supplies,Printer Paper,26.76,5,0.2,107.04,-6.43,Same Day
+ORD-00755,2025-10-25,C1026,Amit Singh,Home Office,West,Mumbai,Furniture,Bookcase,148.09,2,0.2,236.94,-56.33,Same Day
+ORD-00140,2025-10-27,C1021,Neha Reddy,Corporate,South,Bengaluru,Technology,Keyboard,47.33,3,0,141.99,21.84,Same Day
+ORD-00835,2025-10-27,C1002,Vikram Patil,Home Office,South,Bengaluru,Office Supplies,Stapler,14.16,4,0.05,53.81,14.26,Express
+ORD-00868,2025-10-27,C1039,Vikram Reddy,Home Office,East,Kolkata,Technology,Smartphone,684.78,2,0,1369.56,219.01,Standard
+ORD-00076,2025-10-29,C1009,Pooja Das,Corporate,West,Mumbai,Technology,Headphones,85.99,2,0,171.98,25.46,Same Day
+ORD-00190,2025-10-29,C1036,Amit Das,Consumer,South,Hyderabad,Office Supplies,Notebook,4.31,3,0.05,12.28,2.64,Standard
+ORD-00619,2025-10-29,C1037,Vikram Iyer,Corporate,East,Bhubaneswar,Office Supplies,Stapler,13.93,3,0,41.79,9.79,Express
+ORD-01039,2025-10-30,C1057,Vikram Reddy,Home Office,South,Chennai,Technology,Smartphone,685.15,3,0.05,1952.68,374.62,Express
+ORD-01119,2025-10-30,C1001,Rahul Nair,Consumer,North,Chandigarh,Furniture,Standing Desk,389.7,2,0,779.4,69.69,Same Day
+ORD-00426,2025-10-31,C1057,Vikram Reddy,Home Office,North,Lucknow,Technology,Smartphone,630.88,3,0.05,1798.01,419.91,Express
+ORD-00220,2025-11-01,C1043,Aarav Patil,Home Office,East,Bhubaneswar,Office Supplies,Stapler,14.0,8,0.05,106.4,36.07,Standard
+ORD-00292,2025-11-02,C1026,Amit Singh,Home Office,South,Chennai,Technology,Webcam,63.91,2,0,127.82,22.28,Standard
+ORD-00129,2025-11-03,C1058,Kavya Iyer,Consumer,South,Chennai,Technology,Webcam,57.72,1,0,57.72,11.04,Same Day
+ORD-00757,2025-11-03,C1029,Amit Singh,Consumer,South,Chennai,Office Supplies,Stapler,15.46,7,0.2,86.58,0.18,Express
+ORD-00950,2025-11-03,C1053,Neha Singh,Consumer,West,Mumbai,Technology,Webcam,58.31,2,0,116.62,27.3,Standard
+ORD-00926,2025-11-04,C1000,Sneha Sharma,Home Office,South,Chennai,Technology,Headphones,80.55,2,0.2,128.88,-20.88,Express
+ORD-01102,2025-11-04,C1015,Amit Patil,Home Office,South,Hyderabad,Office Supplies,Binder,7.97,4,0.05,30.29,7.21,Standard
+ORD-00495,2025-11-05,C1004,Priya Sharma,Consumer,North,Delhi,Technology,Laptop,897.37,1,0,897.37,71.57,Same Day
+ORD-00704,2025-11-05,C1035,Rahul Gupta,Corporate,South,Hyderabad,Office Supplies,Stapler,16.08,1,0,16.08,3.16,Same Day
+ORD-01033,2025-11-05,C1016,Divya Gupta,Corporate,East,Bhubaneswar,Office Supplies,Notebook,3.61,7,0,25.27,5.32,Express
+ORD-00087,2025-11-06,C1043,Aarav Patil,Home Office,South,Hyderabad,Technology,Webcam,57.71,3,0,173.13,25.65,Same Day
+ORD-01133,2025-11-06,C1027,Meera Das,Consumer,North,Lucknow,Furniture,Bookcase,157.63,1,0.1,141.87,6.7,Express
+ORD-00769,2025-11-07,C1056,Kavya Patil,Home Office,East,Bhubaneswar,Furniture,Bookcase,144.41,3,0.2,346.58,-69.72,Express
+ORD-00830,2025-11-07,C1010,Vikram Nair,Corporate,West,Nashik,Technology,Smartphone,609.92,1,0,609.92,82.73,Express
+ORD-01088,2025-11-07,C1053,Neha Singh,Consumer,North,Delhi,Technology,Monitor,227.27,2,0.1,409.09,87.45,Standard
+ORD-00046,2025-11-08,C1023,Rahul Patil,Home Office,North,Lucknow,Office Supplies,Notebook,3.68,7,0.05,24.47,9.11,Same Day
+ORD-00133,2025-11-08,C1021,Neha Reddy,Corporate,South,Hyderabad,Furniture,Standing Desk,442.77,1,0.2,354.22,-38.32,Standard
+ORD-00377,2025-11-10,C1043,Aarav Patil,Home Office,West,Mumbai,Office Supplies,Binder,8.23,1,0,8.23,1.74,Express
+ORD-00401,2025-11-10,C1021,Neha Reddy,Corporate,East,Bhubaneswar,Technology,Headphones,87.95,3,0.05,250.66,56.33,Same Day
+ORD-00473,2025-11-10,C1022,Neha Nair,Home Office,East,Bhubaneswar,Furniture,Bookcase,139.05,3,0.05,396.29,67.25,Same Day
+ORD-00733,2025-11-10,C1037,Vikram Iyer,Corporate,South,Hyderabad,Office Supplies,Notebook,4.34,3,0.05,12.37,2.84,Express
+ORD-00106,2025-11-12,C1016,Divya Gupta,Corporate,East,Kolkata,Office Supplies,Stapler,16.0,2,0,32.0,6.36,Standard
+ORD-00856,2025-11-13,C1058,Kavya Iyer,Consumer,North,Lucknow,Office Supplies,Printer Paper,27.46,8,0.05,208.7,60.64,Express
+ORD-00956,2025-11-13,C1052,Kavya Sharma,Consumer,West,Mumbai,Furniture,Office Chair,180.08,3,0.2,432.19,-101.03,Same Day
+ORD-01077,2025-11-13,C1030,Karan Gupta,Home Office,West,Pune,Technology,Monitor,227.88,1,0,227.88,52.55,Same Day
+ORD-00159,2025-11-14,C1022,Neha Nair,Home Office,North,Lucknow,Office Supplies,Pen Set,12.5,3,0.2,30.0,2.1,Standard
+ORD-00612,2025-11-14,C1033,Sanjay Reddy,Corporate,West,Nashik,Office Supplies,Binder,8.13,3,0.2,19.51,2.24,Standard
+ORD-01023,2025-11-14,C1037,Vikram Iyer,Corporate,South,Chennai,Office Supplies,Pen Set,12.95,1,0,12.95,4.75,Express
+ORD-00049,2025-11-15,C1024,Anjali Iyer,Home Office,East,Kolkata,Furniture,Bookcase,141.36,1,0.05,134.29,18.74,Express
+ORD-00673,2025-11-17,C1022,Neha Nair,Home Office,North,Delhi,Technology,Webcam,58.17,2,0.1,104.71,9.64,Same Day
+ORD-00904,2025-11-17,C1007,Pooja Nair,Corporate,South,Hyderabad,Office Supplies,Stapler,14.5,2,0.2,23.2,-0.59,Same Day
+ORD-00699,2025-11-18,C1048,Sneha Singh,Home Office,South,Bengaluru,Office Supplies,Binder,8.0,3,0.1,21.6,6.74,Same Day
+ORD-00030,2025-11-19,C1019,Meera Patil,Corporate,South,Bengaluru,Technology,Laptop,920.03,1,0.05,874.03,186.78,Express
+ORD-00065,2025-11-19,C1052,Kavya Sharma,Consumer,East,Guwahati,Technology,Smartphone,669.7,2,0.1,1205.46,293.19,Standard
+ORD-00244,2025-11-20,C1031,Arjun Nair,Home Office,South,Hyderabad,Furniture,Bookcase,156.46,3,0,469.38,64.69,Standard
+ORD-00747,2025-11-20,C1006,Aarav Iyer,Consumer,West,Nashik,Technology,Keyboard,42.05,1,0,42.05,6.54,Same Day
+ORD-00429,2025-11-22,C1030,Karan Gupta,Home Office,West,Mumbai,Office Supplies,Stapler,13.63,1,0,13.63,4.02,Standard
+ORD-00360,2025-11-23,C1000,Sneha Sharma,Home Office,South,Bengaluru,Office Supplies,Pen Set,11.05,5,0,55.25,15.51,Express
+ORD-00247,2025-11-24,C1041,Amit Joshi,Home Office,West,Pune,Office Supplies,Stapler,13.8,2,0,27.6,6.19,Same Day
+ORD-00734,2025-11-24,C1006,Aarav Iyer,Consumer,East,Kolkata,Technology,Webcam,58.48,1,0.05,55.56,13.66,Standard
+ORD-00376,2025-11-25,C1033,Sanjay Reddy,Corporate,South,Hyderabad,Office Supplies,Binder,8.26,2,0.05,15.69,3.6,Express
+ORD-00595,2025-11-25,C1020,Rahul Mehta,Home Office,North,Delhi,Office Supplies,Pen Set,13.0,7,0.1,81.9,28.8,Express
+ORD-00791,2025-11-25,C1010,Vikram Nair,Corporate,North,Lucknow,Office Supplies,Printer Paper,22.79,1,0.2,18.23,0.15,Express
+ORD-00822,2025-11-25,C1009,Pooja Das,Corporate,North,Delhi,Office Supplies,Binder,7.75,1,0.05,7.36,2.76,Same Day
+ORD-00128,2025-11-26,C1038,Rohan Sharma,Consumer,North,Lucknow,Office Supplies,Notebook,4.05,6,0,24.3,6.25,Express
+ORD-00154,2025-11-26,C1010,Vikram Nair,Corporate,North,Delhi,Office Supplies,Stapler,13.7,1,0,13.7,4.6,Express
+ORD-00908,2025-11-26,C1059,Rahul Iyer,Home Office,South,Hyderabad,Office Supplies,Binder,7.83,4,0,31.32,9.01,Express
+ORD-01026,2025-11-26,C1036,Amit Das,Consumer,North,Chandigarh,Office Supplies,Notebook,4.0,5,0,20.0,7.07,Same Day
+ORD-00577,2025-11-28,C1056,Kavya Patil,Home Office,East,Bhubaneswar,Office Supplies,Pen Set,13.16,7,0.2,73.7,-0.08,Standard
+ORD-01014,2025-11-29,C1002,Vikram Patil,Home Office,North,Lucknow,Office Supplies,Binder,8.56,1,0,8.56,2.04,Standard
+ORD-00397,2025-11-30,C1004,Priya Sharma,Consumer,South,Bengaluru,Office Supplies,Notebook,3.94,7,0,27.58,8.03,Standard
+ORD-00422,2025-12-01,C1010,Vikram Nair,Corporate,South,Chennai,Technology,Headphones,85.96,3,0.2,206.3,-33.16,Same Day
+ORD-00943,2025-12-01,C1038,Rohan Sharma,Consumer,North,Lucknow,Furniture,Standing Desk,453.92,3,0.1,1225.58,18.34,Express
+ORD-01123,2025-12-01,C1047,Rahul Iyer,Consumer,North,Lucknow,Furniture,Filing Cabinet,111.01,2,0.2,177.62,-23.04,Same Day
+ORD-00340,2025-12-02,C1006,Aarav Iyer,Consumer,South,Bengaluru,Furniture,Filing Cabinet,125.49,2,0,250.98,25.35,Standard
+ORD-00701,2025-12-02,C1048,Sneha Singh,Home Office,East,Bhubaneswar,Furniture,Office Chair,192.45,3,0,577.35,19.28,Express
+ORD-00197,2025-12-03,C1032,Kavya Joshi,Home Office,East,Guwahati,Technology,Monitor,207.72,2,0.1,373.9,94.03,Express
+ORD-00987,2025-12-04,C1019,Meera Patil,Corporate,East,Bhubaneswar,Office Supplies,Pen Set,11.69,8,0.2,74.82,-1.27,Same Day
+ORD-00368,2025-12-05,C1059,Rahul Iyer,Home Office,West,Pune,Technology,Laptop,973.24,3,0,2919.72,662.91,Same Day
+ORD-00319,2025-12-06,C1018,Meera Singh,Consumer,South,Bengaluru,Office Supplies,Binder,7.25,7,0.1,45.68,13.73,Same Day
+ORD-00652,2025-12-06,C1007,Pooja Nair,Corporate,West,Mumbai,Technology,Headphones,72.4,1,0,72.4,13.29,Standard
+ORD-01029,2025-12-06,C1043,Aarav Patil,Home Office,West,Nashik,Technology,Headphones,84.9,1,0,84.9,6.86,Same Day
+ORD-00762,2025-12-07,C1055,Rohan Patil,Home Office,North,Lucknow,Technology,Keyboard,49.27,2,0,98.54,21.32,Same Day
+ORD-00051,2025-12-08,C1030,Karan Gupta,Home Office,West,Pune,Office Supplies,Notebook,3.92,5,0,19.6,4.48,Same Day
+ORD-00393,2025-12-08,C1050,Anjali Iyer,Home Office,East,Kolkata,Office Supplies,Notebook,3.68,6,0.05,20.98,7.42,Same Day
+ORD-00669,2025-12-08,C1023,Rahul Patil,Home Office,South,Chennai,Office Supplies,Binder,8.34,6,0,50.04,9.3,Standard
+ORD-00387,2025-12-09,C1037,Vikram Iyer,Corporate,South,Hyderabad,Office Supplies,Notebook,4.08,7,0.2,22.85,2.43,Same Day
+ORD-01046,2025-12-09,C1008,Rahul Sharma,Consumer,East,Bhubaneswar,Furniture,Office Chair,181.85,2,0.2,290.96,-61.43,Same Day
+ORD-00078,2025-12-10,C1025,Meera Reddy,Corporate,North,Chandigarh,Office Supplies,Binder,8.2,7,0,57.4,20.52,Express
+ORD-00395,2025-12-10,C1042,Sanjay Iyer,Corporate,North,Chandigarh,Furniture,Bookcase,135.39,3,0,406.17,12.29,Same Day
+ORD-00257,2025-12-11,C1009,Pooja Das,Corporate,West,Pune,Office Supplies,Binder,7.5,7,0.05,49.88,15.32,Same Day
+ORD-00479,2025-12-11,C1043,Aarav Patil,Home Office,East,Bhubaneswar,Office Supplies,Binder,7.5,5,0.05,35.62,6.9,Standard
+ORD-00927,2025-12-12,C1020,Rahul Mehta,Home Office,East,Guwahati,Office Supplies,Printer Paper,26.6,2,0.2,42.56,-0.96,Standard
+ORD-00930,2025-12-12,C1009,Pooja Das,Corporate,South,Bengaluru,Office Supplies,Pen Set,11.69,4,0.2,37.41,2.3,Same Day
+ORD-00037,2025-12-13,C1001,Rahul Nair,Consumer,West,Pune,Technology,Monitor,235.55,2,0.05,447.55,112.19,Express
+ORD-00187,2025-12-13,C1017,Karan Patil,Consumer,South,Bengaluru,Office Supplies,Binder,7.28,4,0,29.12,10.51,Standard
+ORD-00995,2025-12-13,C1027,Meera Das,Consumer,East,Kolkata,Office Supplies,Binder,8.54,2,0.05,16.23,5.75,Standard
+ORD-00890,2025-12-14,C1026,Amit Singh,Home Office,West,Nashik,Technology,Keyboard,43.87,1,0,43.87,8.81,Standard
+ORD-00914,2025-12-14,C1059,Rahul Iyer,Home Office,South,Hyderabad,Office Supplies,Stapler,14.47,2,0,28.94,9.79,Standard
+ORD-01174,2025-12-14,C1025,Meera Reddy,Corporate,South,Chennai,Office Supplies,Stapler,14.2,7,0.2,79.52,-0.94,Same Day
+ORD-00314,2025-12-15,C1022,Neha Nair,Home Office,North,Lucknow,Office Supplies,Binder,8.72,3,0.1,23.54,8.18,Express
+ORD-01129,2025-12-15,C1034,Vikram Nair,Home Office,North,Delhi,Furniture,Filing Cabinet,119.67,3,0.1,323.11,-1.39,Standard
+ORD-00855,2025-12-16,C1036,Amit Das,Consumer,North,Chandigarh,Office Supplies,Notebook,3.82,4,0,15.28,4.67,Express
+ORD-01131,2025-12-16,C1028,Meera Sharma,Corporate,West,Mumbai,Technology,Laptop,915.88,2,0,1831.76,219.96,Standard
+ORD-00389,2025-12-17,C1056,Kavya Patil,Home Office,East,Guwahati,Office Supplies,Pen Set,11.3,4,0,45.2,14.59,Same Day
+ORD-00567,2025-12-17,C1028,Meera Sharma,Corporate,East,Bhubaneswar,Furniture,Standing Desk,445.98,3,0.2,1070.35,-272.18,Express
+ORD-00300,2025-12-18,C1053,Neha Singh,Consumer,East,Bhubaneswar,Furniture,Standing Desk,389.43,1,0,389.43,52.2,Standard
+ORD-00470,2025-12-18,C1047,Rahul Iyer,Consumer,North,Delhi,Technology,Laptop,978.62,1,0,978.62,151.33,Standard
+ORD-00912,2025-12-18,C1047,Rahul Iyer,Consumer,North,Delhi,Office Supplies,Stapler,16.24,5,0.2,64.96,-2.48,Standard
+ORD-01198,2025-12-19,C1012,Sneha Das,Corporate,South,Hyderabad,Technology,Keyboard,41.05,2,0,82.1,12.62,Standard
+ORD-00640,2025-12-20,C1013,Rahul Sharma,Home Office,South,Chennai,Furniture,Bookcase,147.69,3,0.2,354.46,-91.84,Express
+ORD-00080,2025-12-21,C1055,Rohan Patil,Home Office,North,Chandigarh,Technology,Monitor,212.27,1,0,212.27,15.12,Express
+ORD-00256,2025-12-23,C1051,Aarav Gupta,Corporate,East,Guwahati,Office Supplies,Printer Paper,23.69,6,0,142.14,28.91,Express
+ORD-01167,2025-12-24,C1044,Rahul Das,Consumer,East,Kolkata,Furniture,Bookcase,154.83,1,0.1,139.35,21.67,Standard
+ORD-00127,2025-12-25,C1028,Meera Sharma,Corporate,West,Nashik,Office Supplies,Printer Paper,27.09,6,0,162.54,41.85,Express
+ORD-00606,2025-12-25,C1049,Karan Reddy,Corporate,West,Pune,Furniture,Office Chair,162.12,3,0,486.36,83.09,Express
+ORD-00025,2025-12-26,C1027,Meera Das,Consumer,North,Lucknow,Office Supplies,Binder,7.89,4,0,31.56,11.67,Express
+ORD-00498,2025-12-26,C1003,Rohan Gupta,Corporate,East,Guwahati,Technology,Laptop,980.03,2,0,1960.06,494.17,Standard
+ORD-00764,2025-12-26,C1028,Meera Sharma,Corporate,West,Nashik,Office Supplies,Printer Paper,26.6,6,0,159.6,32.65,Standard
+ORD-01067,2025-12-26,C1029,Amit Singh,Consumer,South,Hyderabad,Technology,Smartphone,635.12,1,0,635.12,95.58,Same Day
+ORD-00164,2025-12-27,C1014,Sanjay Iyer,Consumer,East,Guwahati,Office Supplies,Notebook,4.11,5,0,20.55,5.96,Standard
+ORD-00342,2025-12-27,C1032,Kavya Joshi,Home Office,West,Mumbai,Office Supplies,Binder,7.51,1,0,7.51,2.6,Standard
+ORD-00726,2025-12-27,C1047,Rahul Iyer,Consumer,North,Delhi,Technology,Headphones,87.64,2,0,175.28,34.05,Standard
+ORD-00805,2025-12-27,C1022,Neha Nair,Home Office,South,Bengaluru,Office Supplies,Pen Set,13.15,4,0,52.6,19.64,Standard
+ORD-00915,2025-12-27,C1019,Meera Patil,Corporate,West,Nashik,Technology,Smartphone,647.72,2,0.2,1036.35,-10.94,Standard
+ORD-00251,2025-12-28,C1007,Pooja Nair,Corporate,North,Chandigarh,Office Supplies,Printer Paper,23.37,4,0.1,84.13,17.84,Same Day
+ORD-00234,2025-12-29,C1050,Anjali Iyer,Home Office,South,Hyderabad,Furniture,Bookcase,135.16,1,0,135.16,5.63,Express
+ORD-00531,2025-12-30,C1041,Amit Joshi,Home Office,East,Kolkata,Office Supplies,Stapler,13.99,8,0,111.92,25.21,Express
+ORD-00869,2025-12-30,C1034,Vikram Nair,Home Office,South,Chennai,Office Supplies,Binder,8.31,6,0.2,39.89,2.62,Same Day
+ORD-01009,2025-12-30,C1049,Karan Reddy,Corporate,West,Mumbai,Technology,Headphones,87.33,3,0,261.99,45.42,Express
+ORD-01147,2025-12-30,C1022,Neha Nair,Home Office,South,Chennai,Office Supplies,Notebook,4.21,3,0.05,12.0,3.72,Standard
